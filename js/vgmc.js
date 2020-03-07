@@ -173,11 +173,8 @@ graph.addLink('Xuxon', 'KCF0107', {strength: 0.606});
 graph.addLink('Xuxon', 'PSI_NESS', {strength: 0.631});
 graph.addLink('xx521xx', 'Advokaiser', {strength: 0.639});
 graph.addLink('xx521xx', 'Team Rocket Elite', {strength: 0.632});
-graph.addLink('pyresword', 'Xuxon', {strength: 0.597});
-graph.addLink('Raetsel_Lapin', 'rwlh', {strength: 0.571});
-graph.addLink('slykirby', 'Team Rocket Elite', {strength: 0.599});
 
-var LO=0.571
+var LO=0.6
 var HI=0.833
 
 
