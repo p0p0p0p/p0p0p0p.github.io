@@ -411,12 +411,12 @@ graphics.node(function(node) {
 });
 
 var layout = Viva.Graph.Layout.forceDirected(graph, {
-    springLength : 200,
+    springLength : 10,
     springCoeff : 0.0008,
-    dragCoeff : .09,
-    gravity : -10,
+    dragCoeff : .08,
+    gravity : -10 ,
     springTransform: function (link, spring) {
-      spring.length = 400 * (1 - (link.data.strength-LO)/(HI-LO));
+      spring.length = 1000 * (1 - (link.data.strength-LO)/(HI-LO));
     }
 });
 
