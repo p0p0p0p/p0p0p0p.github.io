@@ -4,20 +4,18 @@ layout: default
 
 # Past VGMCs
 * [VGMC 1](http://www.bracketmaker.com/tlist.cfm?tid=229929)
-  * Scars of Time (Chrono Cross) 53-27 Baba Yetu (Civilization IV)\
+  * Scars of Time (Chrono Cross) 53-27 Baba Yetu (Civilization IV)
 * [VGMC 2](http://www.bracketmaker.com/tlist.cfm?tid=276389)
   * MGS2 Theme (Metal Gear Solid 2) 44-29 Dragon Roost Island (Zelda: Wind Waker)
-
-1. [VGMC 3](http://www.bracketmaker.com/tlist.cfm?tid=327002)
+* [VGMC 3](http://www.bracketmaker.com/tlist.cfm?tid=327002)
   * "Reset" ~ "Thank You" Version (Okami) 32-30 Diving (Waterworld)
-1. [VGMC 4](http://www.bracketmaker.com/tlist.cfm?tid=364957)
+* [VGMC 4](http://www.bracketmaker.com/tlist.cfm?tid=364957)
   * Hope (Umineko 1) 32-30 Trombe! (Super Robot Wars Alpha 3)
-  
-1. [VGMC 5](http://www.bracketmaker.com/tlist.cfm?tid=397610)
+* [VGMC 5](http://www.bracketmaker.com/tlist.cfm?tid=397610)
   * The Extreme (Final Fantasy VIII) 38-35 The Sun Rises (Okami)
-2. [VGMC 6](http://www.bracketmaker.com/tlist.cfm?tid=426428)
+* [VGMC 6](http://www.bracketmaker.com/tlist.cfm?tid=426428)
   * Zero (Ace Combat Zero) 31-22 Dorchadas (Shikkoku no Sharnoth)
-3. [VGMC 7](http://www.bracketmaker.com/tlist.cfm?tid=444450)
+* [VGMC 7](http://www.bracketmaker.com/tlist.cfm?tid=444450)
   * EXEC_SPHILIA/. (Ar tonelico II) 29-24 the executioner (Umineko Chiru 7)
 * [VGMC 8](http://www.bracketmaker.com/tmenu.cfm?tid=454368)
   * Papiliones (Boku no Te no Naka no Rakuen 22-16 Zero-Two (Kirby 64)
