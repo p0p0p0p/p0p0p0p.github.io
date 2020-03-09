@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Past VGMCs
+List of brackets from previous tournaments, with the result of each one's finals match.
+
 * [VGMC 1 (2007)](http://www.bracketmaker.com/tlist.cfm?tid=229929)
   * Scars of Time (Chrono Cross) 53-27 Baba Yetu (Civilization IV)
 * [VGMC 2 (2008)](http://www.bracketmaker.com/tlist.cfm?tid=276389)

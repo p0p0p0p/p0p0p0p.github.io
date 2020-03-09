@@ -5,7 +5,7 @@ var graph = Viva.Graph.graph();
 
 var graphics = Viva.Graph.View.svgGraphics();
 
-graph.addNode('VGMC Results');
+graph.addNode('VGMC 13 Results');
 graph.addNode('Advokaiser');
 graph.addNode('Akkrillic');
 graph.addNode('Arti');
@@ -51,28 +51,28 @@ graph.addNode('xp1337');
 graph.addNode('Xuxon');
 graph.addNode('xx521xx');
 
-graph.addLink('VGMC Results', 'Advokaiser', {strength: 0.66});
-graph.addLink('VGMC Results', 'Akkrillic', {strength: 0.66});
-graph.addLink('VGMC Results', 'banshiryuu', {strength: 0.66});
-graph.addLink('VGMC Results', 'Bluenugget64', {strength: 0.68});
-graph.addLink('VGMC Results', 'cakophon', {strength: 0.64});
-graph.addLink('VGMC Results', 'dowolf', {strength: 0.65});
-graph.addLink('VGMC Results', 'Flamander', {strength: 0.6});
-graph.addLink('VGMC Results', 'GameBopAdv', {strength: 0.6});
-graph.addLink('VGMC Results', 'Haste_2', {strength: 0.6});
-graph.addLink('VGMC Results', 'Janus5k', {strength: 0.6});
-graph.addLink('VGMC Results', 'loweffortmemes', {strength: 0.67});
-graph.addLink('VGMC Results', 'Mac Arrowny', {strength: 0.65});
-graph.addLink('VGMC Results', 'MC_XD', {strength: 0.62});
-graph.addLink('VGMC Results', 'MoonRunes', {strength: 0.63});
-graph.addLink('VGMC Results', 'MycroProcessor', {strength: 0.6});
-graph.addLink('VGMC Results', 'NFUN', {strength: 0.66});
-graph.addLink('VGMC Results', 'Place', {strength: 0.61});
-graph.addLink('VGMC Results', 'Prody Parrot', {strength: 0.69});
-graph.addLink('VGMC Results', 'Sceptilesolar', {strength: 0.7});
-graph.addLink('VGMC Results', 'th3l3fty', {strength: 0.65});
-graph.addLink('VGMC Results', 'TheArkOfTurus', {strength: 0.66});
-graph.addLink('VGMC Results', 'xp1337', {strength: 0.61});
+graph.addLink('VGMC 13 Results', 'Advokaiser', {strength: 0.66});
+graph.addLink('VGMC 13 Results', 'Akkrillic', {strength: 0.66});
+graph.addLink('VGMC 13 Results', 'banshiryuu', {strength: 0.66});
+graph.addLink('VGMC 13 Results', 'Bluenugget64', {strength: 0.68});
+graph.addLink('VGMC 13 Results', 'cakophon', {strength: 0.64});
+graph.addLink('VGMC 13 Results', 'dowolf', {strength: 0.65});
+graph.addLink('VGMC 13 Results', 'Flamander', {strength: 0.6});
+graph.addLink('VGMC 13 Results', 'GameBopAdv', {strength: 0.6});
+graph.addLink('VGMC 13 Results', 'Haste_2', {strength: 0.6});
+graph.addLink('VGMC 13 Results', 'Janus5k', {strength: 0.6});
+graph.addLink('VGMC 13 Results', 'loweffortmemes', {strength: 0.67});
+graph.addLink('VGMC 13 Results', 'Mac Arrowny', {strength: 0.65});
+graph.addLink('VGMC 13 Results', 'MC_XD', {strength: 0.62});
+graph.addLink('VGMC 13 Results', 'MoonRunes', {strength: 0.63});
+graph.addLink('VGMC 13 Results', 'MycroProcessor', {strength: 0.6});
+graph.addLink('VGMC 13 Results', 'NFUN', {strength: 0.66});
+graph.addLink('VGMC 13 Results', 'Place', {strength: 0.61});
+graph.addLink('VGMC 13 Results', 'Prody Parrot', {strength: 0.69});
+graph.addLink('VGMC 13 Results', 'Sceptilesolar', {strength: 0.7});
+graph.addLink('VGMC 13 Results', 'th3l3fty', {strength: 0.65});
+graph.addLink('VGMC 13 Results', 'TheArkOfTurus', {strength: 0.66});
+graph.addLink('VGMC 13 Results', 'xp1337', {strength: 0.61});
 graph.addLink('Baconus_Yum', 'azuarc', {strength: 0.682});
 graph.addLink('banshiryuu', 'Akkrillic', {strength: 0.603});
 graph.addLink('Bluenugget64', 'Advokaiser', {strength: 0.605});
@@ -178,8 +178,7 @@ var LO=0.6
 var HI=0.833
 
 
-
-graph.getNode('VGMC Results').isPinned = true;
+graph.getNode('VGMC 13 Results').isPinned = true;
 
 var nodeSize = 6;
 
