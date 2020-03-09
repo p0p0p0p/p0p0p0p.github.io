@@ -18,7 +18,7 @@ layout: default
 * [VGMC 7 (2013)](http://www.bracketmaker.com/tlist.cfm?tid=444450)
   * EXEC_SPHILIA/. (Ar tonelico II) 29-24 the executioner (Umineko no Naku Koro ni Chiru 7)
 * [VGMC 8 (2014)](http://www.bracketmaker.com/tmenu.cfm?tid=454368)
-  * Papiliones (Boku no Te no Naka no Rakuen 22-16 Zero-Two (Kirby 64)
+  * Papiliones (Boku no Te no Naka no Rakuen) 22-16 Zero-Two (Kirby 64)
 * [VGMC 9 (2015)](http://www.bracketmaker.com/tmenu.cfm?tid=459544)
   * Seize the Truth! (The Legend of Heroes: Ao no Kiseki Evolution) 12-10 Evolution Era (Deemo)
 * [VGMC 10 (2016)](http://www.bracketmaker.com/tmenu.cfm?tid=463073)
