@@ -7,10 +7,12 @@ layout: default
   * Scars of Time (Chrono Cross) 53-27 Baba Yetu (Civilization IV)\
 * [VGMC 2](http://www.bracketmaker.com/tlist.cfm?tid=276389)
   * MGS2 Theme (Metal Gear Solid 2) 44-29 Dragon Roost Island (Zelda: Wind Waker)
+
 1. [VGMC 3](http://www.bracketmaker.com/tlist.cfm?tid=327002)
   * "Reset" ~ "Thank You" Version (Okami) 32-30 Diving (Waterworld)
 1. [VGMC 4](http://www.bracketmaker.com/tlist.cfm?tid=364957)
   * Hope (Umineko 1) 32-30 Trombe! (Super Robot Wars Alpha 3)
+  
 1. [VGMC 5](http://www.bracketmaker.com/tlist.cfm?tid=397610)
   * The Extreme (Final Fantasy VIII) 38-35 The Sun Rises (Okami)
 2. [VGMC 6](http://www.bracketmaker.com/tlist.cfm?tid=426428)
@@ -22,7 +24,7 @@ layout: default
 * [VGMC 9](http://www.bracketmaker.com/tmenu.cfm?tid=459544)
   * Seize the Truth (Ao no Kiseki Evolution 12-10 Evolution Era (Deemo)
 * [VGMC 10](http://www.bracketmaker.com/tmenu.cfm?tid=463073)
-  * Despair of ELFERIA (Beatmania 22) > Megalovania (Undertale)
+  * Despair of ELFERIA (Beatmania 22) 44-40 Megalovania (Undertale)
 * [VGMC 11](http://www.bracketmaker.com/tlist.cfm?tid=466312)
   * Emil Karma (NieR) 20-10 Flying Clouds, Drifting Haze (AS)
 * [VGMC 12](http://www.bracketmaker.com/tlist.cfm?tid=469506)
