@@ -30,5 +30,5 @@ List of brackets from previous tournaments, with the result of each one's finals
   * Sunshine Coastline (Ys VIII: Lacrimosa of Dana) 21-17 Hidra Heteromycin (Ar nosurge)
 * [VGMC 13 (2019)](http://www.bracketmaker.com/tlist.cfm?tid=471679)
   * Class::EXSPHERE_NOSURGE; (Ar nosurge) 26-23 Revenger (Crystar)
-* VGMC 14 (2020)
+* [VGMC 14 (2020)](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests/78441962)
   * when bracket
