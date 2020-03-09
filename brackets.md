@@ -29,4 +29,4 @@ layout: default
 
 [VGMC 13](http://www.bracketmaker.com/tlist.cfm?tid=471679)
 
-[Home](~/)
+[Home](./)
