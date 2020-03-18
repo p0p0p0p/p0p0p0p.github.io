@@ -1,0 +1,4096 @@
+﻿Name1,Name2,Strength,Shared
+_LouieG_,_Harmonica_,0.667,3
+Advokaiser,_Harmonica_,0.4,15
+Advokaiser,_LouieG_,0.2,5
+Akkrillic,_Harmonica_,0.333,12
+Akkrillic,_LouieG_,0.4,5
+Akkrillic,Advokaiser,0.583,151
+Arti,_Harmonica_,0.667,15
+Arti,_LouieG_,0.4,5
+Arti,Advokaiser,0.535,170
+Arti,Akkrillic,0.483,143
+azuarc,_Harmonica_,0.692,13
+azuarc,_LouieG_,0.2,5
+azuarc,Advokaiser,0.582,184
+azuarc,Akkrillic,0.572,145
+azuarc,Arti,0.546,163
+Baconus_Yum,_Harmonica_,0.6,15
+Baconus_Yum,_LouieG_,0.4,5
+Baconus_Yum,Advokaiser,0.503,157
+Baconus_Yum,Akkrillic,0.597,129
+Baconus_Yum,Arti,0.525,141
+Baconus_Yum,azuarc,0.682,151
+banananor,_Harmonica_,0,0
+banananor,_LouieG_,0,0
+banananor,Advokaiser,1,1
+banananor,Akkrillic,0,1
+banananor,Arti,0,1
+banananor,azuarc,0,1
+banananor,Baconus_Yum,0,1
+banshiryuu,_Harmonica_,0.2,15
+banshiryuu,_LouieG_,0.6,5
+banshiryuu,Advokaiser,0.56,191
+banshiryuu,Akkrillic,0.603,151
+banshiryuu,Arti,0.424,170
+banshiryuu,azuarc,0.5,184
+banshiryuu,Baconus_Yum,0.541,157
+banshiryuu,banananor,0,1
+barreldragon88,_Harmonica_,0,0
+barreldragon88,_LouieG_,0,0
+barreldragon88,Advokaiser,0,2
+barreldragon88,Akkrillic,0,1
+barreldragon88,Arti,1,1
+barreldragon88,azuarc,0,2
+barreldragon88,Baconus_Yum,0,1
+barreldragon88,banananor,0,0
+barreldragon88,banshiryuu,0,2
+ben10kenobi,_Harmonica_,0.667,6
+ben10kenobi,_LouieG_,0,0
+ben10kenobi,Advokaiser,0.667,9
+ben10kenobi,Akkrillic,0.714,7
+ben10kenobi,Arti,0.556,9
+ben10kenobi,azuarc,0.714,7
+ben10kenobi,Baconus_Yum,0.667,9
+ben10kenobi,banananor,0,1
+ben10kenobi,banshiryuu,0.667,9
+ben10kenobi,barreldragon88,0,0
+Bluenugget64,_Harmonica_,0.4,15
+Bluenugget64,_LouieG_,0.4,5
+Bluenugget64,Advokaiser,0.605,177
+Bluenugget64,Akkrillic,0.571,140
+Bluenugget64,Arti,0.513,156
+Bluenugget64,azuarc,0.524,170
+Bluenugget64,Baconus_Yum,0.553,150
+Bluenugget64,banananor,0,0
+Bluenugget64,banshiryuu,0.582,177
+Bluenugget64,barreldragon88,0,2
+Bluenugget64,ben10kenobi,0.5,8
+bwburke94,_Harmonica_,0,8
+bwburke94,_LouieG_,0.333,3
+bwburke94,Advokaiser,0.5,8
+bwburke94,Akkrillic,0.875,8
+bwburke94,Arti,0.25,8
+bwburke94,azuarc,0.375,8
+bwburke94,Baconus_Yum,0.5,8
+bwburke94,banananor,0,0
+bwburke94,banshiryuu,0.875,8
+bwburke94,barreldragon88,0,0
+bwburke94,ben10kenobi,0,2
+bwburke94,Bluenugget64,0.75,8
+cakophon,_Harmonica_,0.4,15
+cakophon,_LouieG_,1,5
+cakophon,Advokaiser,0.439,171
+cakophon,Akkrillic,0.542,131
+cakophon,Arti,0.387,150
+cakophon,azuarc,0.388,165
+cakophon,Baconus_Yum,0.438,137
+cakophon,banananor,0,1
+cakophon,banshiryuu,0.678,171
+cakophon,barreldragon88,0,2
+cakophon,ben10kenobi,0.333,9
+cakophon,Bluenugget64,0.694,157
+cakophon,bwburke94,0.625,8
+Chuck_Tingle,_Harmonica_,0.667,3
+Chuck_Tingle,_LouieG_,0.333,3
+Chuck_Tingle,Advokaiser,0.667,3
+Chuck_Tingle,Akkrillic,0.333,3
+Chuck_Tingle,Arti,0.333,3
+Chuck_Tingle,azuarc,0.667,3
+Chuck_Tingle,Baconus_Yum,0.333,3
+Chuck_Tingle,banananor,0,0
+Chuck_Tingle,banshiryuu,0.667,3
+Chuck_Tingle,barreldragon88,0,0
+Chuck_Tingle,ben10kenobi,0,0
+Chuck_Tingle,Bluenugget64,0.333,3
+Chuck_Tingle,bwburke94,0.333,3
+Chuck_Tingle,cakophon,0.333,3
+Collen,_Harmonica_,0.4,15
+Collen,_LouieG_,0.8,5
+Collen,Advokaiser,0.455,191
+Collen,Akkrillic,0.636,151
+Collen,Arti,0.394,170
+Collen,azuarc,0.527,184
+Collen,Baconus_Yum,0.503,157
+Collen,banananor,1,1
+Collen,banshiryuu,0.602,191
+Collen,barreldragon88,0.5,2
+Collen,ben10kenobi,0.333,9
+Collen,Bluenugget64,0.503,177
+Collen,bwburke94,0.75,8
+Collen,cakophon,0.602,171
+Collen,Chuck_Tingle,0.667,3
+DM_DOKURO,_Harmonica_,0.333,6
+DM_DOKURO,_LouieG_,0.667,3
+DM_DOKURO,Advokaiser,0.5,18
+DM_DOKURO,Akkrillic,0.467,15
+DM_DOKURO,Arti,0.444,18
+DM_DOKURO,azuarc,0.611,18
+DM_DOKURO,Baconus_Yum,0.5,12
+DM_DOKURO,banananor,0,0
+DM_DOKURO,banshiryuu,0.333,18
+DM_DOKURO,barreldragon88,0,0
+DM_DOKURO,ben10kenobi,0,0
+DM_DOKURO,Bluenugget64,0.6,15
+DM_DOKURO,bwburke94,0.667,3
+DM_DOKURO,cakophon,0.556,18
+DM_DOKURO,Chuck_Tingle,0.667,3
+DM_DOKURO,Collen,0.5,18
+dowolf,_Harmonica_,0.333,15
+dowolf,_LouieG_,0.2,5
+dowolf,Advokaiser,0.492,191
+dowolf,Akkrillic,0.51,151
+dowolf,Arti,0.459,170
+dowolf,azuarc,0.478,184
+dowolf,Baconus_Yum,0.471,157
+dowolf,banananor,0,1
+dowolf,banshiryuu,0.492,191
+dowolf,barreldragon88,0.5,2
+dowolf,ben10kenobi,0.556,9
+dowolf,Bluenugget64,0.52,177
+dowolf,bwburke94,0.625,8
+dowolf,cakophon,0.52,171
+dowolf,Chuck_Tingle,1,3
+dowolf,Collen,0.398,191
+dowolf,DM_DOKURO,0.778,18
+DragonImps,_Harmonica_,0.6,15
+DragonImps,_LouieG_,0.8,5
+DragonImps,Advokaiser,0.461,191
+DragonImps,Akkrillic,0.517,151
+DragonImps,Arti,0.565,170
+DragonImps,azuarc,0.511,184
+DragonImps,Baconus_Yum,0.58,157
+DragonImps,banananor,0,1
+DragonImps,banshiryuu,0.513,191
+DragonImps,barreldragon88,0.5,2
+DragonImps,ben10kenobi,0.667,9
+DragonImps,Bluenugget64,0.503,177
+DragonImps,bwburke94,0.625,8
+DragonImps,cakophon,0.491,171
+DragonImps,Chuck_Tingle,0.333,3
+DragonImps,Collen,0.429,191
+DragonImps,DM_DOKURO,0.556,18
+DragonImps,dowolf,0.55,191
+FL81,_Harmonica_,0.4,15
+FL81,_LouieG_,0.4,5
+FL81,Advokaiser,0.545,191
+FL81,Akkrillic,0.589,151
+FL81,Arti,0.571,170
+FL81,azuarc,0.538,184
+FL81,Baconus_Yum,0.548,157
+FL81,banananor,0,1
+FL81,banshiryuu,0.534,191
+FL81,barreldragon88,0,2
+FL81,ben10kenobi,0.333,9
+FL81,Bluenugget64,0.525,177
+FL81,bwburke94,0.625,8
+FL81,cakophon,0.544,171
+FL81,Chuck_Tingle,1,3
+FL81,Collen,0.513,191
+FL81,DM_DOKURO,0.556,18
+FL81,dowolf,0.571,191
+FL81,DragonImps,0.487,191
+Flamander,_Harmonica_,0.333,15
+Flamander,_LouieG_,0.6,5
+Flamander,Advokaiser,0.505,188
+Flamander,Akkrillic,0.622,148
+Flamander,Arti,0.443,167
+Flamander,azuarc,0.481,181
+Flamander,Baconus_Yum,0.597,154
+Flamander,banananor,0,1
+Flamander,banshiryuu,0.633,188
+Flamander,barreldragon88,0.5,2
+Flamander,ben10kenobi,0.556,9
+Flamander,Bluenugget64,0.661,174
+Flamander,bwburke94,0.875,8
+Flamander,cakophon,0.631,168
+Flamander,Chuck_Tingle,0,3
+Flamander,Collen,0.585,188
+Flamander,DM_DOKURO,0.611,18
+Flamander,dowolf,0.527,188
+Flamander,DragonImps,0.516,188
+Flamander,FL81,0.532,188
+GameBopAdv,_Harmonica_,0.4,15
+GameBopAdv,_LouieG_,0.6,5
+GameBopAdv,Advokaiser,0.445,191
+GameBopAdv,Akkrillic,0.616,151
+GameBopAdv,Arti,0.318,170
+GameBopAdv,azuarc,0.446,184
+GameBopAdv,Baconus_Yum,0.541,157
+GameBopAdv,banananor,1,1
+GameBopAdv,banshiryuu,0.644,191
+GameBopAdv,barreldragon88,0,2
+GameBopAdv,ben10kenobi,0.222,9
+GameBopAdv,Bluenugget64,0.542,177
+GameBopAdv,bwburke94,0.5,8
+GameBopAdv,cakophon,0.684,171
+GameBopAdv,Chuck_Tingle,0.667,3
+GameBopAdv,Collen,0.686,191
+GameBopAdv,DM_DOKURO,0.5,18
+GameBopAdv,dowolf,0.513,191
+GameBopAdv,DragonImps,0.45,191
+GameBopAdv,FL81,0.534,191
+GameBopAdv,Flamander,0.606,188
+greengravy294,_Harmonica_,0,0
+greengravy294,_LouieG_,0,0
+greengravy294,Advokaiser,0,1
+greengravy294,Akkrillic,0,0
+greengravy294,Arti,0,1
+greengravy294,azuarc,1,1
+greengravy294,Baconus_Yum,0,0
+greengravy294,banananor,0,0
+greengravy294,banshiryuu,1,1
+greengravy294,barreldragon88,0,0
+greengravy294,ben10kenobi,0,0
+greengravy294,Bluenugget64,0,0
+greengravy294,bwburke94,0,0
+greengravy294,cakophon,1,1
+greengravy294,Chuck_Tingle,0,0
+greengravy294,Collen,1,1
+greengravy294,DM_DOKURO,0,0
+greengravy294,dowolf,1,1
+greengravy294,DragonImps,1,1
+greengravy294,FL81,0,1
+greengravy294,Flamander,1,1
+greengravy294,GameBopAdv,0,1
+handsomeboy2012,_Harmonica_,0.6,5
+handsomeboy2012,_LouieG_,0,0
+handsomeboy2012,Advokaiser,0.625,120
+handsomeboy2012,Akkrillic,0.593,86
+handsomeboy2012,Arti,0.554,101
+handsomeboy2012,azuarc,0.576,118
+handsomeboy2012,Baconus_Yum,0.537,95
+handsomeboy2012,banananor,0,0
+handsomeboy2012,banshiryuu,0.542,120
+handsomeboy2012,barreldragon88,0.5,2
+handsomeboy2012,ben10kenobi,0.8,5
+handsomeboy2012,Bluenugget64,0.574,115
+handsomeboy2012,bwburke94,0,2
+handsomeboy2012,cakophon,0.439,107
+handsomeboy2012,Chuck_Tingle,0,0
+handsomeboy2012,Collen,0.467,120
+handsomeboy2012,DM_DOKURO,0.643,14
+handsomeboy2012,dowolf,0.533,120
+handsomeboy2012,DragonImps,0.467,120
+handsomeboy2012,FL81,0.542,120
+handsomeboy2012,Flamander,0.533,120
+handsomeboy2012,GameBopAdv,0.475,120
+handsomeboy2012,greengravy294,0,0
+Haste_2,_Harmonica_,0.25,12
+Haste_2,_LouieG_,0.8,5
+Haste_2,Advokaiser,0.549,184
+Haste_2,Akkrillic,0.604,144
+Haste_2,Arti,0.448,163
+Haste_2,azuarc,0.436,179
+Haste_2,Baconus_Yum,0.493,150
+Haste_2,banananor,0,1
+Haste_2,banshiryuu,0.592,184
+Haste_2,barreldragon88,0.5,2
+Haste_2,ben10kenobi,0.833,6
+Haste_2,Bluenugget64,0.59,173
+Haste_2,bwburke94,0.75,8
+Haste_2,cakophon,0.567,164
+Haste_2,Chuck_Tingle,0.667,3
+Haste_2,Collen,0.451,184
+Haste_2,DM_DOKURO,0.778,18
+Haste_2,dowolf,0.522,184
+Haste_2,DragonImps,0.565,184
+Haste_2,FL81,0.435,184
+Haste_2,Flamander,0.53,181
+Haste_2,GameBopAdv,0.554,184
+Haste_2,greengravy294,0,1
+Haste_2,handsomeboy2012,0.53,117
+HBJDubs,_Harmonica_,0.4,15
+HBJDubs,_LouieG_,0.4,5
+HBJDubs,Advokaiser,0.503,157
+HBJDubs,Akkrillic,0.544,125
+HBJDubs,Arti,0.546,141
+HBJDubs,azuarc,0.582,153
+HBJDubs,Baconus_Yum,0.524,126
+HBJDubs,banananor,1,1
+HBJDubs,banshiryuu,0.452,157
+HBJDubs,barreldragon88,1,2
+HBJDubs,ben10kenobi,0.556,9
+HBJDubs,Bluenugget64,0.486,146
+HBJDubs,bwburke94,0.625,8
+HBJDubs,cakophon,0.427,143
+HBJDubs,Chuck_Tingle,0.333,3
+HBJDubs,Collen,0.49,157
+HBJDubs,DM_DOKURO,0.389,18
+HBJDubs,dowolf,0.51,157
+HBJDubs,DragonImps,0.42,157
+HBJDubs,FL81,0.478,157
+HBJDubs,Flamander,0.435,154
+HBJDubs,GameBopAdv,0.42,157
+HBJDubs,greengravy294,0,0
+HBJDubs,handsomeboy2012,0.551,98
+HBJDubs,Haste_2,0.473,150
+Hbthebattle,_Harmonica_,0.583,12
+Hbthebattle,_LouieG_,0.667,3
+Hbthebattle,Advokaiser,0.631,65
+Hbthebattle,Akkrillic,0.593,54
+Hbthebattle,Arti,0.45,60
+Hbthebattle,azuarc,0.422,64
+Hbthebattle,Baconus_Yum,0.441,59
+Hbthebattle,banananor,0,0
+Hbthebattle,banshiryuu,0.477,65
+Hbthebattle,barreldragon88,0,0
+Hbthebattle,ben10kenobi,0.8,5
+Hbthebattle,Bluenugget64,0.582,55
+Hbthebattle,bwburke94,0.5,8
+Hbthebattle,cakophon,0.509,55
+Hbthebattle,Chuck_Tingle,0,3
+Hbthebattle,Collen,0.385,65
+Hbthebattle,DM_DOKURO,0.667,12
+Hbthebattle,dowolf,0.569,65
+Hbthebattle,DragonImps,0.569,65
+Hbthebattle,FL81,0.477,65
+Hbthebattle,Flamander,0.548,62
+Hbthebattle,GameBopAdv,0.462,65
+Hbthebattle,greengravy294,0,0
+Hbthebattle,handsomeboy2012,0.439,41
+Hbthebattle,Haste_2,0.613,62
+Hbthebattle,HBJDubs,0.614,57
+-hotdogturtle--,_Harmonica_,0.444,9
+-hotdogturtle--,_LouieG_,0.667,3
+-hotdogturtle--,Advokaiser,0.467,15
+-hotdogturtle--,Akkrillic,0.5,12
+-hotdogturtle--,Arti,0.533,15
+-hotdogturtle--,azuarc,0.308,13
+-hotdogturtle--,Baconus_Yum,0.333,15
+-hotdogturtle--,banananor,0,0
+-hotdogturtle--,banshiryuu,0.533,15
+-hotdogturtle--,barreldragon88,0,0
+-hotdogturtle--,ben10kenobi,0.667,3
+-hotdogturtle--,Bluenugget64,0.333,12
+-hotdogturtle--,bwburke94,0,3
+-hotdogturtle--,cakophon,0.533,15
+-hotdogturtle--,Chuck_Tingle,0.667,3
+-hotdogturtle--,Collen,0.533,15
+-hotdogturtle--,DM_DOKURO,0.444,9
+-hotdogturtle--,dowolf,0.533,15
+-hotdogturtle--,DragonImps,0.467,15
+-hotdogturtle--,FL81,0.4,15
+-hotdogturtle--,Flamander,0.333,15
+-hotdogturtle--,GameBopAdv,0.8,15
+-hotdogturtle--,greengravy294,0,0
+-hotdogturtle--,handsomeboy2012,0.571,7
+-hotdogturtle--,Haste_2,0.444,9
+-hotdogturtle--,HBJDubs,0.4,15
+-hotdogturtle--,Hbthebattle,0.222,9
+Hydras,_Harmonica_,0,0
+Hydras,_LouieG_,0,0
+Hydras,Advokaiser,0.5,2
+Hydras,Akkrillic,1,2
+Hydras,Arti,1,2
+Hydras,azuarc,0,2
+Hydras,Baconus_Yum,0,0
+Hydras,banananor,0,0
+Hydras,banshiryuu,0.5,2
+Hydras,barreldragon88,0,0
+Hydras,ben10kenobi,0,0
+Hydras,Bluenugget64,0,0
+Hydras,bwburke94,0,0
+Hydras,cakophon,0.5,2
+Hydras,Chuck_Tingle,0,0
+Hydras,Collen,0.5,2
+Hydras,DM_DOKURO,0,0
+Hydras,dowolf,0.5,2
+Hydras,DragonImps,0,2
+Hydras,FL81,1,2
+Hydras,Flamander,0.5,2
+Hydras,GameBopAdv,1,2
+Hydras,greengravy294,0,0
+Hydras,handsomeboy2012,0,0
+Hydras,Haste_2,1,2
+Hydras,HBJDubs,0.5,2
+Hydras,Hbthebattle,1,2
+Hydras,-hotdogturtle--,0,0
+Janus5k,_Harmonica_,0.267,15
+Janus5k,_LouieG_,0.6,5
+Janus5k,Advokaiser,0.696,191
+Janus5k,Akkrillic,0.576,151
+Janus5k,Arti,0.547,170
+Janus5k,azuarc,0.473,184
+Janus5k,Baconus_Yum,0.465,157
+Janus5k,banananor,0,1
+Janus5k,banshiryuu,0.613,191
+Janus5k,barreldragon88,0.5,2
+Janus5k,ben10kenobi,0.778,9
+Janus5k,Bluenugget64,0.559,177
+Janus5k,bwburke94,0.625,8
+Janus5k,cakophon,0.509,171
+Janus5k,Chuck_Tingle,0.667,3
+Janus5k,Collen,0.497,191
+Janus5k,DM_DOKURO,0.611,18
+Janus5k,dowolf,0.545,191
+Janus5k,DragonImps,0.44,191
+Janus5k,FL81,0.576,191
+Janus5k,Flamander,0.559,188
+Janus5k,GameBopAdv,0.435,191
+Janus5k,greengravy294,0,1
+Janus5k,handsomeboy2012,0.558,120
+Janus5k,Haste_2,0.543,184
+Janus5k,HBJDubs,0.465,157
+Janus5k,Hbthebattle,0.492,65
+Janus5k,-hotdogturtle--,0.533,15
+Janus5k,Hydras,0.5,2
+Johnbobb,_Harmonica_,0.333,3
+Johnbobb,_LouieG_,0.667,3
+Johnbobb,Advokaiser,0.333,3
+Johnbobb,Akkrillic,0.667,3
+Johnbobb,Arti,0.667,3
+Johnbobb,azuarc,0.333,3
+Johnbobb,Baconus_Yum,0.667,3
+Johnbobb,banananor,0,0
+Johnbobb,banshiryuu,0.333,3
+Johnbobb,barreldragon88,0,0
+Johnbobb,ben10kenobi,0,0
+Johnbobb,Bluenugget64,0.667,3
+Johnbobb,bwburke94,0.667,3
+Johnbobb,cakophon,0.667,3
+Johnbobb,Chuck_Tingle,0,3
+Johnbobb,Collen,0.333,3
+Johnbobb,DM_DOKURO,0.333,3
+Johnbobb,dowolf,0,3
+Johnbobb,DragonImps,0.667,3
+Johnbobb,FL81,0,3
+Johnbobb,Flamander,1,3
+Johnbobb,GameBopAdv,0.333,3
+Johnbobb,greengravy294,0,0
+Johnbobb,handsomeboy2012,0,0
+Johnbobb,Haste_2,0.333,3
+Johnbobb,HBJDubs,0.667,3
+Johnbobb,Hbthebattle,1,3
+Johnbobb,-hotdogturtle--,0.333,3
+Johnbobb,Hydras,0,0
+Johnbobb,Janus5k,0.333,3
+JONALEON1,_Harmonica_,0.333,15
+JONALEON1,_LouieG_,0.6,5
+JONALEON1,Advokaiser,0.497,191
+JONALEON1,Akkrillic,0.503,151
+JONALEON1,Arti,0.435,170
+JONALEON1,azuarc,0.326,184
+JONALEON1,Baconus_Yum,0.363,157
+JONALEON1,banananor,1,1
+JONALEON1,banshiryuu,0.581,191
+JONALEON1,barreldragon88,0.5,2
+JONALEON1,ben10kenobi,0.444,9
+JONALEON1,Bluenugget64,0.548,177
+JONALEON1,bwburke94,0.75,8
+JONALEON1,cakophon,0.696,171
+JONALEON1,Chuck_Tingle,0.667,3
+JONALEON1,Collen,0.571,191
+JONALEON1,DM_DOKURO,0.611,18
+JONALEON1,dowolf,0.586,191
+JONALEON1,DragonImps,0.524,191
+JONALEON1,FL81,0.503,191
+JONALEON1,Flamander,0.59,188
+JONALEON1,GameBopAdv,0.56,191
+JONALEON1,greengravy294,1,1
+JONALEON1,handsomeboy2012,0.483,120
+JONALEON1,Haste_2,0.473,184
+JONALEON1,HBJDubs,0.459,157
+JONALEON1,Hbthebattle,0.462,65
+JONALEON1,-hotdogturtle--,0.4,15
+JONALEON1,Hydras,0,2
+JONALEON1,Janus5k,0.539,191
+JONALEON1,Johnbobb,0.333,3
+junk_funk,_Harmonica_,0,0
+junk_funk,_LouieG_,0,0
+junk_funk,Advokaiser,0.667,6
+junk_funk,Akkrillic,0.2,5
+junk_funk,Arti,0.167,6
+junk_funk,azuarc,0,5
+junk_funk,Baconus_Yum,0,5
+junk_funk,banananor,1,1
+junk_funk,banshiryuu,0.333,6
+junk_funk,barreldragon88,0,0
+junk_funk,ben10kenobi,0,1
+junk_funk,Bluenugget64,0,3
+junk_funk,bwburke94,0,0
+junk_funk,cakophon,0.6,5
+junk_funk,Chuck_Tingle,0,0
+junk_funk,Collen,0.833,6
+junk_funk,DM_DOKURO,0,0
+junk_funk,dowolf,0.167,6
+junk_funk,DragonImps,0.167,6
+junk_funk,FL81,0,6
+junk_funk,Flamander,0.333,6
+junk_funk,GameBopAdv,0.5,6
+junk_funk,greengravy294,0,0
+junk_funk,handsomeboy2012,0,0
+junk_funk,Haste_2,0.333,6
+junk_funk,HBJDubs,0.333,3
+junk_funk,Hbthebattle,1,1
+junk_funk,-hotdogturtle--,0,0
+junk_funk,Hydras,0,0
+junk_funk,Janus5k,0.5,6
+junk_funk,Johnbobb,0,0
+junk_funk,JONALEON1,0.833,6
+kaonashi1,_Harmonica_,0.4,15
+kaonashi1,_LouieG_,0.6,5
+kaonashi1,Advokaiser,0.446,186
+kaonashi1,Akkrillic,0.571,147
+kaonashi1,Arti,0.4,165
+kaonashi1,azuarc,0.306,180
+kaonashi1,Baconus_Yum,0.461,152
+kaonashi1,banananor,0,1
+kaonashi1,banshiryuu,0.57,186
+kaonashi1,barreldragon88,0.5,2
+kaonashi1,ben10kenobi,0.556,9
+kaonashi1,Bluenugget64,0.523,172
+kaonashi1,bwburke94,0.75,8
+kaonashi1,cakophon,0.641,170
+kaonashi1,Chuck_Tingle,0.667,3
+kaonashi1,Collen,0.565,186
+kaonashi1,DM_DOKURO,0.556,18
+kaonashi1,dowolf,0.57,186
+kaonashi1,DragonImps,0.559,186
+kaonashi1,FL81,0.435,186
+kaonashi1,Flamander,0.59,183
+kaonashi1,GameBopAdv,0.624,186
+kaonashi1,greengravy294,0,1
+kaonashi1,handsomeboy2012,0.491,116
+kaonashi1,Haste_2,0.609,179
+kaonashi1,HBJDubs,0.414,157
+kaonashi1,Hbthebattle,0.492,65
+kaonashi1,-hotdogturtle--,0.4,15
+kaonashi1,Hydras,0.5,2
+kaonashi1,Janus5k,0.468,186
+kaonashi1,Johnbobb,0.333,3
+kaonashi1,JONALEON1,0.715,186
+kaonashi1,junk_funk,0.8,5
+KCF0107,_Harmonica_,0.533,15
+KCF0107,_LouieG_,0.6,5
+KCF0107,Advokaiser,0.487,191
+KCF0107,Akkrillic,0.556,151
+KCF0107,Arti,0.435,170
+KCF0107,azuarc,0.457,184
+KCF0107,Baconus_Yum,0.51,157
+KCF0107,banananor,1,1
+KCF0107,banshiryuu,0.487,191
+KCF0107,barreldragon88,0,2
+KCF0107,ben10kenobi,0.667,9
+KCF0107,Bluenugget64,0.463,177
+KCF0107,bwburke94,0.375,8
+KCF0107,cakophon,0.485,171
+KCF0107,Chuck_Tingle,1,3
+KCF0107,Collen,0.571,191
+KCF0107,DM_DOKURO,0.444,18
+KCF0107,dowolf,0.471,191
+KCF0107,DragonImps,0.461,191
+KCF0107,FL81,0.419,191
+KCF0107,Flamander,0.495,188
+KCF0107,GameBopAdv,0.581,191
+KCF0107,greengravy294,0,1
+KCF0107,handsomeboy2012,0.492,120
+KCF0107,Haste_2,0.516,184
+KCF0107,HBJDubs,0.497,157
+KCF0107,Hbthebattle,0.569,65
+KCF0107,-hotdogturtle--,0.533,15
+KCF0107,Hydras,0,2
+KCF0107,Janus5k,0.497,191
+KCF0107,Johnbobb,0,3
+KCF0107,JONALEON1,0.518,191
+KCF0107,junk_funk,1,6
+KCF0107,kaonashi1,0.532,186
+KommunistKoala,_Harmonica_,0,0
+KommunistKoala,_LouieG_,0,0
+KommunistKoala,Advokaiser,0.818,11
+KommunistKoala,Akkrillic,0.4,10
+KommunistKoala,Arti,0.545,11
+KommunistKoala,azuarc,0.4,10
+KommunistKoala,Baconus_Yum,0.375,8
+KommunistKoala,banananor,0,0
+KommunistKoala,banshiryuu,0.182,11
+KommunistKoala,barreldragon88,0,0
+KommunistKoala,ben10kenobi,0,0
+KommunistKoala,Bluenugget64,0.667,3
+KommunistKoala,bwburke94,0,0
+KommunistKoala,cakophon,0.6,10
+KommunistKoala,Chuck_Tingle,0,0
+KommunistKoala,Collen,0.273,11
+KommunistKoala,DM_DOKURO,0,0
+KommunistKoala,dowolf,0.455,11
+KommunistKoala,DragonImps,0.636,11
+KommunistKoala,FL81,0.636,11
+KommunistKoala,Flamander,0.273,11
+KommunistKoala,GameBopAdv,0.182,11
+KommunistKoala,greengravy294,0,0
+KommunistKoala,handsomeboy2012,1,2
+KommunistKoala,Haste_2,0.125,8
+KommunistKoala,HBJDubs,0.667,9
+KommunistKoala,Hbthebattle,0.833,6
+KommunistKoala,-hotdogturtle--,0.333,3
+KommunistKoala,Hydras,0.5,2
+KommunistKoala,Janus5k,0.636,11
+KommunistKoala,Johnbobb,0,0
+KommunistKoala,JONALEON1,0.636,11
+KommunistKoala,junk_funk,0.667,3
+KommunistKoala,kaonashi1,0.455,11
+KommunistKoala,KCF0107,0.455,11
+LOLIAmAnAlt,_Harmonica_,0,0
+LOLIAmAnAlt,_LouieG_,0,0
+LOLIAmAnAlt,Advokaiser,0.5,2
+LOLIAmAnAlt,Akkrillic,0.5,2
+LOLIAmAnAlt,Arti,0,2
+LOLIAmAnAlt,azuarc,1,2
+LOLIAmAnAlt,Baconus_Yum,1,2
+LOLIAmAnAlt,banananor,0,0
+LOLIAmAnAlt,banshiryuu,1,2
+LOLIAmAnAlt,barreldragon88,0,0
+LOLIAmAnAlt,ben10kenobi,0,0
+LOLIAmAnAlt,Bluenugget64,0.5,2
+LOLIAmAnAlt,bwburke94,0,0
+LOLIAmAnAlt,cakophon,0.5,2
+LOLIAmAnAlt,Chuck_Tingle,0,0
+LOLIAmAnAlt,Collen,1,2
+LOLIAmAnAlt,DM_DOKURO,0,0
+LOLIAmAnAlt,dowolf,0.5,2
+LOLIAmAnAlt,DragonImps,0.5,2
+LOLIAmAnAlt,FL81,0,2
+LOLIAmAnAlt,Flamander,1,2
+LOLIAmAnAlt,GameBopAdv,1,2
+LOLIAmAnAlt,greengravy294,0,0
+LOLIAmAnAlt,handsomeboy2012,0,0
+LOLIAmAnAlt,Haste_2,0,2
+LOLIAmAnAlt,HBJDubs,0.5,2
+LOLIAmAnAlt,Hbthebattle,0,0
+LOLIAmAnAlt,-hotdogturtle--,0,0
+LOLIAmAnAlt,Hydras,0,0
+LOLIAmAnAlt,Janus5k,0.5,2
+LOLIAmAnAlt,Johnbobb,0,0
+LOLIAmAnAlt,JONALEON1,0.5,2
+LOLIAmAnAlt,junk_funk,0,0
+LOLIAmAnAlt,kaonashi1,0.5,2
+LOLIAmAnAlt,KCF0107,0.5,2
+LOLIAmAnAlt,KommunistKoala,0,0
+Lopen,_Harmonica_,0,0
+Lopen,_LouieG_,0,0
+Lopen,Advokaiser,0.75,16
+Lopen,Akkrillic,0.455,11
+Lopen,Arti,0.688,16
+Lopen,azuarc,0.375,16
+Lopen,Baconus_Yum,0.429,14
+Lopen,banananor,0,0
+Lopen,banshiryuu,0.25,16
+Lopen,barreldragon88,0,0
+Lopen,ben10kenobi,0,0
+Lopen,Bluenugget64,0.625,16
+Lopen,bwburke94,0,0
+Lopen,cakophon,0.5,14
+Lopen,Chuck_Tingle,0,0
+Lopen,Collen,0.313,16
+Lopen,DM_DOKURO,0,0
+Lopen,dowolf,0.625,16
+Lopen,DragonImps,0.563,16
+Lopen,FL81,0.375,16
+Lopen,Flamander,0.5,16
+Lopen,GameBopAdv,0.313,16
+Lopen,greengravy294,0,0
+Lopen,handsomeboy2012,0.583,12
+Lopen,Haste_2,0.563,16
+Lopen,HBJDubs,0.4,10
+Lopen,Hbthebattle,1,1
+Lopen,-hotdogturtle--,0,0
+Lopen,Hydras,0,0
+Lopen,Janus5k,0.75,16
+Lopen,Johnbobb,0,0
+Lopen,JONALEON1,0.5,16
+Lopen,junk_funk,0,0
+Lopen,kaonashi1,0.563,16
+Lopen,KCF0107,0.438,16
+Lopen,KommunistKoala,0,0
+Lopen,LOLIAmAnAlt,0,0
+Lord Bob Bree,_Harmonica_,0.583,12
+Lord Bob Bree,_LouieG_,0.333,3
+Lord Bob Bree,Advokaiser,0.476,21
+Lord Bob Bree,Akkrillic,0.556,18
+Lord Bob Bree,Arti,0.619,21
+Lord Bob Bree,azuarc,0.632,19
+Lord Bob Bree,Baconus_Yum,0.714,21
+Lord Bob Bree,banananor,0,0
+Lord Bob Bree,banshiryuu,0.381,21
+Lord Bob Bree,barreldragon88,0,0
+Lord Bob Bree,ben10kenobi,0.667,3
+Lord Bob Bree,Bluenugget64,0.611,18
+Lord Bob Bree,bwburke94,0.667,6
+Lord Bob Bree,cakophon,0.476,21
+Lord Bob Bree,Chuck_Tingle,0.333,3
+Lord Bob Bree,Collen,0.429,21
+Lord Bob Bree,DM_DOKURO,0.5,12
+Lord Bob Bree,dowolf,0.429,21
+Lord Bob Bree,DragonImps,0.619,21
+Lord Bob Bree,FL81,0.286,21
+Lord Bob Bree,Flamander,0.476,21
+Lord Bob Bree,GameBopAdv,0.143,21
+Lord Bob Bree,greengravy294,0,0
+Lord Bob Bree,handsomeboy2012,0.7,10
+Lord Bob Bree,Haste_2,0.533,15
+Lord Bob Bree,HBJDubs,0.81,21
+Lord Bob Bree,Hbthebattle,0.6,15
+Lord Bob Bree,-hotdogturtle--,0.333,15
+Lord Bob Bree,Hydras,0,0
+Lord Bob Bree,Janus5k,0.476,21
+Lord Bob Bree,Johnbobb,0.667,3
+Lord Bob Bree,JONALEON1,0.429,21
+Lord Bob Bree,junk_funk,0,0
+Lord Bob Bree,kaonashi1,0.429,21
+Lord Bob Bree,KCF0107,0.476,21
+Lord Bob Bree,KommunistKoala,1,3
+Lord Bob Bree,LOLIAmAnAlt,0,0
+Lord Bob Bree,Lopen,0,0
+LordoftheMorons,_Harmonica_,0,0
+LordoftheMorons,_LouieG_,0,0
+LordoftheMorons,Advokaiser,0.667,3
+LordoftheMorons,Akkrillic,0.333,3
+LordoftheMorons,Arti,0.667,3
+LordoftheMorons,azuarc,0.333,3
+LordoftheMorons,Baconus_Yum,0.333,3
+LordoftheMorons,banananor,0,0
+LordoftheMorons,banshiryuu,0,3
+LordoftheMorons,barreldragon88,0,0
+LordoftheMorons,ben10kenobi,0,0
+LordoftheMorons,Bluenugget64,0,0
+LordoftheMorons,bwburke94,0,0
+LordoftheMorons,cakophon,0.667,3
+LordoftheMorons,Chuck_Tingle,0,0
+LordoftheMorons,Collen,0,3
+LordoftheMorons,DM_DOKURO,0,0
+LordoftheMorons,dowolf,0.667,3
+LordoftheMorons,DragonImps,0.667,3
+LordoftheMorons,FL81,0.667,3
+LordoftheMorons,Flamander,0.667,3
+LordoftheMorons,GameBopAdv,0,3
+LordoftheMorons,greengravy294,0,0
+LordoftheMorons,handsomeboy2012,1,2
+LordoftheMorons,Haste_2,0,0
+LordoftheMorons,HBJDubs,1,3
+LordoftheMorons,Hbthebattle,1,3
+LordoftheMorons,-hotdogturtle--,0.333,3
+LordoftheMorons,Hydras,0,0
+LordoftheMorons,Janus5k,0.333,3
+LordoftheMorons,Johnbobb,0,0
+LordoftheMorons,JONALEON1,0.333,3
+LordoftheMorons,junk_funk,0,0
+LordoftheMorons,kaonashi1,0,3
+LordoftheMorons,KCF0107,0.333,3
+LordoftheMorons,KommunistKoala,1,3
+LordoftheMorons,LOLIAmAnAlt,0,0
+LordoftheMorons,Lopen,0,0
+LordoftheMorons,Lord Bob Bree,1,3
+loweffortmemes,_Harmonica_,0.467,15
+loweffortmemes,_LouieG_,0.6,5
+loweffortmemes,Advokaiser,0.586,191
+loweffortmemes,Akkrillic,0.517,151
+loweffortmemes,Arti,0.565,170
+loweffortmemes,azuarc,0.495,184
+loweffortmemes,Baconus_Yum,0.478,157
+loweffortmemes,banananor,0,1
+loweffortmemes,banshiryuu,0.534,191
+loweffortmemes,barreldragon88,0,2
+loweffortmemes,ben10kenobi,0.667,9
+loweffortmemes,Bluenugget64,0.65,177
+loweffortmemes,bwburke94,0.5,8
+loweffortmemes,cakophon,0.591,171
+loweffortmemes,Chuck_Tingle,0.667,3
+loweffortmemes,Collen,0.377,191
+loweffortmemes,DM_DOKURO,0.667,18
+loweffortmemes,dowolf,0.613,191
+loweffortmemes,DragonImps,0.55,191
+loweffortmemes,FL81,0.529,191
+loweffortmemes,Flamander,0.574,188
+loweffortmemes,GameBopAdv,0.471,191
+loweffortmemes,greengravy294,1,1
+loweffortmemes,handsomeboy2012,0.592,120
+loweffortmemes,Haste_2,0.549,184
+loweffortmemes,HBJDubs,0.439,157
+loweffortmemes,Hbthebattle,0.538,65
+loweffortmemes,-hotdogturtle--,0.6,15
+loweffortmemes,Hydras,0.5,2
+loweffortmemes,Janus5k,0.597,191
+loweffortmemes,Johnbobb,0.333,3
+loweffortmemes,JONALEON1,0.555,191
+loweffortmemes,junk_funk,0.167,6
+loweffortmemes,kaonashi1,0.538,186
+loweffortmemes,KCF0107,0.419,191
+loweffortmemes,KommunistKoala,0.545,11
+loweffortmemes,LOLIAmAnAlt,0.5,2
+loweffortmemes,Lopen,0.813,16
+loweffortmemes,Lord Bob Bree,0.381,21
+loweffortmemes,LordoftheMorons,0.333,3
+Mac Arrowny,_Harmonica_,0.4,15
+Mac Arrowny,_LouieG_,0.4,5
+Mac Arrowny,Advokaiser,0.681,191
+Mac Arrowny,Akkrillic,0.55,151
+Mac Arrowny,Arti,0.524,170
+Mac Arrowny,azuarc,0.565,184
+Mac Arrowny,Baconus_Yum,0.573,157
+Mac Arrowny,banananor,0,1
+Mac Arrowny,banshiryuu,0.586,191
+Mac Arrowny,barreldragon88,0,2
+Mac Arrowny,ben10kenobi,0.778,9
+Mac Arrowny,Bluenugget64,0.576,177
+Mac Arrowny,bwburke94,0.375,8
+Mac Arrowny,cakophon,0.48,171
+Mac Arrowny,Chuck_Tingle,1,3
+Mac Arrowny,Collen,0.44,191
+Mac Arrowny,DM_DOKURO,0.556,18
+Mac Arrowny,dowolf,0.508,191
+Mac Arrowny,DragonImps,0.403,191
+Mac Arrowny,FL81,0.539,191
+Mac Arrowny,Flamander,0.489,188
+Mac Arrowny,GameBopAdv,0.513,191
+Mac Arrowny,greengravy294,0,1
+Mac Arrowny,handsomeboy2012,0.55,120
+Mac Arrowny,Haste_2,0.571,184
+Mac Arrowny,HBJDubs,0.484,157
+Mac Arrowny,Hbthebattle,0.492,65
+Mac Arrowny,-hotdogturtle--,0.667,15
+Mac Arrowny,Hydras,0.5,2
+Mac Arrowny,Janus5k,0.691,191
+Mac Arrowny,Johnbobb,0,3
+Mac Arrowny,JONALEON1,0.471,191
+Mac Arrowny,junk_funk,0.5,6
+Mac Arrowny,kaonashi1,0.473,186
+Mac Arrowny,KCF0107,0.45,191
+Mac Arrowny,KommunistKoala,0.364,11
+Mac Arrowny,LOLIAmAnAlt,0.5,2
+Mac Arrowny,Lopen,0.688,16
+Mac Arrowny,Lord Bob Bree,0.476,21
+Mac Arrowny,LordoftheMorons,0.333,3
+Mac Arrowny,loweffortmemes,0.613,191
+malyg,_Harmonica_,0.467,15
+malyg,_LouieG_,0.2,5
+malyg,Advokaiser,0.565,184
+malyg,Akkrillic,0.463,147
+malyg,Arti,0.554,166
+malyg,azuarc,0.452,177
+malyg,Baconus_Yum,0.487,154
+malyg,banananor,1,1
+malyg,banshiryuu,0.408,184
+malyg,barreldragon88,0.5,2
+malyg,ben10kenobi,0.556,9
+malyg,Bluenugget64,0.465,170
+malyg,bwburke94,0.5,8
+malyg,cakophon,0.449,167
+malyg,Chuck_Tingle,0.333,3
+malyg,Collen,0.413,184
+malyg,DM_DOKURO,0.333,18
+malyg,dowolf,0.538,184
+malyg,DragonImps,0.435,184
+malyg,FL81,0.446,184
+malyg,Flamander,0.359,181
+malyg,GameBopAdv,0.44,184
+malyg,greengravy294,0,1
+malyg,handsomeboy2012,0.456,114
+malyg,Haste_2,0.475,177
+malyg,HBJDubs,0.573,150
+malyg,Hbthebattle,0.548,62
+malyg,-hotdogturtle--,0.4,15
+malyg,Hydras,0.5,2
+malyg,Janus5k,0.511,184
+malyg,Johnbobb,0.667,3
+malyg,JONALEON1,0.516,184
+malyg,junk_funk,0.8,5
+malyg,kaonashi1,0.514,179
+malyg,KCF0107,0.576,184
+malyg,KommunistKoala,0.818,11
+malyg,LOLIAmAnAlt,0,2
+malyg,Lopen,0.625,16
+malyg,Lord Bob Bree,0.667,21
+malyg,LordoftheMorons,0.667,3
+malyg,loweffortmemes,0.495,184
+malyg,Mac Arrowny,0.549,184
+MargaretAnnMid,_Harmonica_,0.556,9
+MargaretAnnMid,_LouieG_,0.6,5
+MargaretAnnMid,Advokaiser,0.508,63
+MargaretAnnMid,Akkrillic,0.415,53
+MargaretAnnMid,Arti,0.527,55
+MargaretAnnMid,azuarc,0.583,60
+MargaretAnnMid,Baconus_Yum,0.574,54
+MargaretAnnMid,banananor,0,0
+MargaretAnnMid,banshiryuu,0.381,63
+MargaretAnnMid,barreldragon88,0,0
+MargaretAnnMid,ben10kenobi,1,3
+MargaretAnnMid,Bluenugget64,0.518,56
+MargaretAnnMid,bwburke94,0.667,3
+MargaretAnnMid,cakophon,0.508,61
+MargaretAnnMid,Chuck_Tingle,0.667,3
+MargaretAnnMid,Collen,0.317,63
+MargaretAnnMid,DM_DOKURO,0.6,15
+MargaretAnnMid,dowolf,0.619,63
+MargaretAnnMid,DragonImps,0.365,63
+MargaretAnnMid,FL81,0.54,63
+MargaretAnnMid,Flamander,0.508,63
+MargaretAnnMid,GameBopAdv,0.381,63
+MargaretAnnMid,greengravy294,0,0
+MargaretAnnMid,handsomeboy2012,0.575,40
+MargaretAnnMid,Haste_2,0.544,57
+MargaretAnnMid,HBJDubs,0.643,56
+MargaretAnnMid,Hbthebattle,0.444,27
+MargaretAnnMid,-hotdogturtle--,0.333,12
+MargaretAnnMid,Hydras,0,0
+MargaretAnnMid,Janus5k,0.524,63
+MargaretAnnMid,Johnbobb,0.333,3
+MargaretAnnMid,JONALEON1,0.524,63
+MargaretAnnMid,junk_funk,0.5,2
+MargaretAnnMid,kaonashi1,0.492,63
+MargaretAnnMid,KCF0107,0.492,63
+MargaretAnnMid,KommunistKoala,0.5,6
+MargaretAnnMid,LOLIAmAnAlt,0,0
+MargaretAnnMid,Lopen,0.667,3
+MargaretAnnMid,Lord Bob Bree,0.8,15
+MargaretAnnMid,LordoftheMorons,0.667,3
+MargaretAnnMid,loweffortmemes,0.603,63
+MargaretAnnMid,Mac Arrowny,0.603,63
+MargaretAnnMid,malyg,0.619,63
+MartinFF7,_Harmonica_,0,0
+MartinFF7,_LouieG_,0,0
+MartinFF7,Advokaiser,0.667,3
+MartinFF7,Akkrillic,0,0
+MartinFF7,Arti,0.667,3
+MartinFF7,azuarc,0,3
+MartinFF7,Baconus_Yum,0.333,3
+MartinFF7,banananor,0,0
+MartinFF7,banshiryuu,0,3
+MartinFF7,barreldragon88,0,0
+MartinFF7,ben10kenobi,0,0
+MartinFF7,Bluenugget64,0.333,3
+MartinFF7,bwburke94,0,0
+MartinFF7,cakophon,0.333,3
+MartinFF7,Chuck_Tingle,0,0
+MartinFF7,Collen,0.333,3
+MartinFF7,DM_DOKURO,0,0
+MartinFF7,dowolf,0.667,3
+MartinFF7,DragonImps,0.667,3
+MartinFF7,FL81,0.667,3
+MartinFF7,Flamander,0,3
+MartinFF7,GameBopAdv,0.333,3
+MartinFF7,greengravy294,0,0
+MartinFF7,handsomeboy2012,0.333,3
+MartinFF7,Haste_2,0.667,3
+MartinFF7,HBJDubs,0,0
+MartinFF7,Hbthebattle,0,0
+MartinFF7,-hotdogturtle--,0,0
+MartinFF7,Hydras,0,0
+MartinFF7,Janus5k,1,3
+MartinFF7,Johnbobb,0,0
+MartinFF7,JONALEON1,0.667,3
+MartinFF7,junk_funk,0,0
+MartinFF7,kaonashi1,0.333,3
+MartinFF7,KCF0107,0.333,3
+MartinFF7,KommunistKoala,0,0
+MartinFF7,LOLIAmAnAlt,0,0
+MartinFF7,Lopen,1,3
+MartinFF7,Lord Bob Bree,0,0
+MartinFF7,LordoftheMorons,0,0
+MartinFF7,loweffortmemes,0.667,3
+MartinFF7,Mac Arrowny,0.667,3
+MartinFF7,malyg,1,3
+MartinFF7,MargaretAnnMid,0,0
+MC_XD,_Harmonica_,0.733,15
+MC_XD,_LouieG_,0.2,5
+MC_XD,Advokaiser,0.623,191
+MC_XD,Akkrillic,0.563,151
+MC_XD,Arti,0.535,170
+MC_XD,azuarc,0.505,184
+MC_XD,Baconus_Yum,0.522,157
+MC_XD,banananor,1,1
+MC_XD,banshiryuu,0.539,191
+MC_XD,barreldragon88,0.5,2
+MC_XD,ben10kenobi,0.667,9
+MC_XD,Bluenugget64,0.469,177
+MC_XD,bwburke94,0.25,8
+MC_XD,cakophon,0.462,171
+MC_XD,Chuck_Tingle,1,3
+MC_XD,Collen,0.445,191
+MC_XD,DM_DOKURO,0.444,18
+MC_XD,dowolf,0.524,191
+MC_XD,DragonImps,0.482,191
+MC_XD,FL81,0.513,191
+MC_XD,Flamander,0.505,188
+MC_XD,GameBopAdv,0.424,191
+MC_XD,greengravy294,0,1
+MC_XD,handsomeboy2012,0.483,120
+MC_XD,Haste_2,0.489,184
+MC_XD,HBJDubs,0.611,157
+MC_XD,Hbthebattle,0.662,65
+MC_XD,-hotdogturtle--,0.333,15
+MC_XD,Hydras,0.5,2
+MC_XD,Janus5k,0.602,191
+MC_XD,Johnbobb,0,3
+MC_XD,JONALEON1,0.508,191
+MC_XD,junk_funk,0.5,6
+MC_XD,kaonashi1,0.478,186
+MC_XD,KCF0107,0.508,191
+MC_XD,KommunistKoala,0.636,11
+MC_XD,LOLIAmAnAlt,0.5,2
+MC_XD,Lopen,0.688,16
+MC_XD,Lord Bob Bree,0.524,21
+MC_XD,LordoftheMorons,0.667,3
+MC_XD,loweffortmemes,0.607,191
+MC_XD,Mac Arrowny,0.586,191
+MC_XD,malyg,0.598,184
+MC_XD,MargaretAnnMid,0.587,63
+MC_XD,MartinFF7,1,3
+MoonRunes,_Harmonica_,0.333,12
+MoonRunes,_LouieG_,0.6,5
+MoonRunes,Advokaiser,0.441,188
+MoonRunes,Akkrillic,0.589,151
+MoonRunes,Arti,0.437,167
+MoonRunes,azuarc,0.448,181
+MoonRunes,Baconus_Yum,0.532,154
+MoonRunes,banananor,0,1
+MoonRunes,banshiryuu,0.633,188
+MoonRunes,barreldragon88,0.5,2
+MoonRunes,ben10kenobi,0.444,9
+MoonRunes,Bluenugget64,0.529,174
+MoonRunes,bwburke94,0.875,8
+MoonRunes,cakophon,0.583,168
+MoonRunes,Chuck_Tingle,0.667,3
+MoonRunes,Collen,0.654,188
+MoonRunes,DM_DOKURO,0.533,15
+MoonRunes,dowolf,0.553,188
+MoonRunes,DragonImps,0.532,188
+MoonRunes,FL81,0.543,188
+MoonRunes,Flamander,0.649,185
+MoonRunes,GameBopAdv,0.596,188
+MoonRunes,greengravy294,1,1
+MoonRunes,handsomeboy2012,0.466,118
+MoonRunes,Haste_2,0.53,181
+MoonRunes,HBJDubs,0.487,154
+MoonRunes,Hbthebattle,0.468,62
+MoonRunes,-hotdogturtle--,0.5,12
+MoonRunes,Hydras,0.5,2
+MoonRunes,Janus5k,0.489,188
+MoonRunes,Johnbobb,0.333,3
+MoonRunes,JONALEON1,0.601,188
+MoonRunes,junk_funk,0.5,6
+MoonRunes,kaonashi1,0.607,183
+MoonRunes,KCF0107,0.511,188
+MoonRunes,KommunistKoala,0.182,11
+MoonRunes,LOLIAmAnAlt,0.5,2
+MoonRunes,Lopen,0.563,16
+MoonRunes,Lord Bob Bree,0.389,18
+MoonRunes,LordoftheMorons,0,3
+MoonRunes,loweffortmemes,0.484,188
+MoonRunes,Mac Arrowny,0.516,188
+MoonRunes,malyg,0.475,181
+MoonRunes,MargaretAnnMid,0.567,60
+MoonRunes,MartinFF7,0.667,3
+MoonRunes,MC_XD,0.516,188
+Mr Lasastryke,_Harmonica_,0.444,9
+Mr Lasastryke,_LouieG_,1,3
+Mr Lasastryke,Advokaiser,0.515,68
+Mr Lasastryke,Akkrillic,0.563,64
+Mr Lasastryke,Arti,0.4,65
+Mr Lasastryke,azuarc,0.277,65
+Mr Lasastryke,Baconus_Yum,0.446,56
+Mr Lasastryke,banananor,1,1
+Mr Lasastryke,banshiryuu,0.647,68
+Mr Lasastryke,barreldragon88,1,1
+Mr Lasastryke,ben10kenobi,0.75,4
+Mr Lasastryke,Bluenugget64,0.54,63
+Mr Lasastryke,bwburke94,0.667,6
+Mr Lasastryke,cakophon,0.661,62
+Mr Lasastryke,Chuck_Tingle,0.333,3
+Mr Lasastryke,Collen,0.662,68
+Mr Lasastryke,DM_DOKURO,0.333,15
+Mr Lasastryke,dowolf,0.471,68
+Mr Lasastryke,DragonImps,0.515,68
+Mr Lasastryke,FL81,0.441,68
+Mr Lasastryke,Flamander,0.632,68
+Mr Lasastryke,GameBopAdv,0.618,68
+Mr Lasastryke,greengravy294,0,0
+Mr Lasastryke,handsomeboy2012,0.585,41
+Mr Lasastryke,Haste_2,0.516,64
+Mr Lasastryke,HBJDubs,0.407,59
+Mr Lasastryke,Hbthebattle,0.455,22
+Mr Lasastryke,-hotdogturtle--,0.556,9
+Mr Lasastryke,Hydras,0,0
+Mr Lasastryke,Janus5k,0.471,68
+Mr Lasastryke,Johnbobb,0.667,3
+Mr Lasastryke,JONALEON1,0.735,68
+Mr Lasastryke,junk_funk,1,4
+Mr Lasastryke,kaonashi1,0.716,67
+Mr Lasastryke,KCF0107,0.471,68
+Mr Lasastryke,KommunistKoala,0.5,2
+Mr Lasastryke,LOLIAmAnAlt,0,0
+Mr Lasastryke,Lopen,0.5,6
+Mr Lasastryke,Lord Bob Bree,0.4,15
+Mr Lasastryke,LordoftheMorons,0,0
+Mr Lasastryke,loweffortmemes,0.515,68
+Mr Lasastryke,Mac Arrowny,0.485,68
+Mr Lasastryke,malyg,0.5,68
+Mr Lasastryke,MargaretAnnMid,0.394,33
+Mr Lasastryke,MartinFF7,0,0
+Mr Lasastryke,MC_XD,0.515,68
+Mr Lasastryke,MoonRunes,0.691,68
+MrSmartGuy,_Harmonica_,0,0
+MrSmartGuy,_LouieG_,0,0
+MrSmartGuy,Advokaiser,0.6,5
+MrSmartGuy,Akkrillic,1,3
+MrSmartGuy,Arti,0.333,3
+MrSmartGuy,azuarc,0.8,5
+MrSmartGuy,Baconus_Yum,0.4,5
+MrSmartGuy,banananor,0,0
+MrSmartGuy,banshiryuu,0.6,5
+MrSmartGuy,barreldragon88,0,0
+MrSmartGuy,ben10kenobi,0,0
+MrSmartGuy,Bluenugget64,0.2,5
+MrSmartGuy,bwburke94,0,0
+MrSmartGuy,cakophon,0.8,5
+MrSmartGuy,Chuck_Tingle,0,0
+MrSmartGuy,Collen,0.6,5
+MrSmartGuy,DM_DOKURO,0,0
+MrSmartGuy,dowolf,0.6,5
+MrSmartGuy,DragonImps,0.6,5
+MrSmartGuy,FL81,0.8,5
+MrSmartGuy,Flamander,0.5,2
+MrSmartGuy,GameBopAdv,0.8,5
+MrSmartGuy,greengravy294,0,0
+MrSmartGuy,handsomeboy2012,0,2
+MrSmartGuy,Haste_2,0.2,5
+MrSmartGuy,HBJDubs,0.667,3
+MrSmartGuy,Hbthebattle,0.6,5
+MrSmartGuy,-hotdogturtle--,0,0
+MrSmartGuy,Hydras,0,0
+MrSmartGuy,Janus5k,0.6,5
+MrSmartGuy,Johnbobb,0,0
+MrSmartGuy,JONALEON1,0.8,5
+MrSmartGuy,junk_funk,0,0
+MrSmartGuy,kaonashi1,0.4,5
+MrSmartGuy,KCF0107,0.4,5
+MrSmartGuy,KommunistKoala,0,0
+MrSmartGuy,LOLIAmAnAlt,0,0
+MrSmartGuy,Lopen,0,0
+MrSmartGuy,Lord Bob Bree,0,0
+MrSmartGuy,LordoftheMorons,0,0
+MrSmartGuy,loweffortmemes,0.6,5
+MrSmartGuy,Mac Arrowny,0.6,5
+MrSmartGuy,malyg,0.6,5
+MrSmartGuy,MargaretAnnMid,0,0
+MrSmartGuy,MartinFF7,0,0
+MrSmartGuy,MC_XD,0.6,5
+MrSmartGuy,MoonRunes,0.2,5
+MrSmartGuy,Mr Lasastryke,0,0
+MycroProcessor,_Harmonica_,0.4,15
+MycroProcessor,_LouieG_,0.6,5
+MycroProcessor,Advokaiser,0.408,191
+MycroProcessor,Akkrillic,0.57,151
+MycroProcessor,Arti,0.365,170
+MycroProcessor,azuarc,0.326,184
+MycroProcessor,Baconus_Yum,0.414,157
+MycroProcessor,banananor,0,1
+MycroProcessor,banshiryuu,0.607,191
+MycroProcessor,barreldragon88,0.5,2
+MycroProcessor,ben10kenobi,0.556,9
+MycroProcessor,Bluenugget64,0.531,177
+MycroProcessor,bwburke94,0.875,8
+MycroProcessor,cakophon,0.69,171
+MycroProcessor,Chuck_Tingle,0.667,3
+MycroProcessor,Collen,0.618,191
+MycroProcessor,DM_DOKURO,0.556,18
+MycroProcessor,dowolf,0.571,191
+MycroProcessor,DragonImps,0.571,191
+MycroProcessor,FL81,0.424,191
+MycroProcessor,Flamander,0.644,188
+MycroProcessor,GameBopAdv,0.649,191
+MycroProcessor,greengravy294,1,1
+MycroProcessor,handsomeboy2012,0.492,120
+MycroProcessor,Haste_2,0.603,184
+MycroProcessor,HBJDubs,0.439,157
+MycroProcessor,Hbthebattle,0.431,65
+MycroProcessor,-hotdogturtle--,0.4,15
+MycroProcessor,Hydras,0.5,2
+MycroProcessor,Janus5k,0.492,191
+MycroProcessor,Johnbobb,0.333,3
+MycroProcessor,JONALEON1,0.733,191
+MycroProcessor,junk_funk,0.333,6
+MycroProcessor,kaonashi1,0.833,186
+MycroProcessor,KCF0107,0.555,191
+MycroProcessor,KommunistKoala,0.455,11
+MycroProcessor,LOLIAmAnAlt,0.5,2
+MycroProcessor,Lopen,0.5,16
+MycroProcessor,Lord Bob Bree,0.476,21
+MycroProcessor,LordoftheMorons,0.333,3
+MycroProcessor,loweffortmemes,0.529,191
+MycroProcessor,Mac Arrowny,0.403,191
+MycroProcessor,malyg,0.473,184
+MycroProcessor,MargaretAnnMid,0.46,63
+MycroProcessor,MartinFF7,0.333,3
+MycroProcessor,MC_XD,0.45,191
+MycroProcessor,MoonRunes,0.644,188
+MycroProcessor,Mr Lasastryke,0.75,68
+MycroProcessor,MrSmartGuy,0.4,5
+MZero11,_Harmonica_,0,0
+MZero11,_LouieG_,0,0
+MZero11,Advokaiser,1,2
+MZero11,Akkrillic,0.5,2
+MZero11,Arti,1,2
+MZero11,azuarc,1,2
+MZero11,Baconus_Yum,1,2
+MZero11,banananor,0,0
+MZero11,banshiryuu,0,2
+MZero11,barreldragon88,0,0
+MZero11,ben10kenobi,0,0
+MZero11,Bluenugget64,1,2
+MZero11,bwburke94,0,0
+MZero11,cakophon,0,2
+MZero11,Chuck_Tingle,0,0
+MZero11,Collen,0.5,2
+MZero11,DM_DOKURO,0,0
+MZero11,dowolf,0,2
+MZero11,DragonImps,0,2
+MZero11,FL81,0,2
+MZero11,Flamander,1,2
+MZero11,GameBopAdv,0,2
+MZero11,greengravy294,0,0
+MZero11,handsomeboy2012,1,2
+MZero11,Haste_2,0.5,2
+MZero11,HBJDubs,1,2
+MZero11,Hbthebattle,0,0
+MZero11,-hotdogturtle--,0,0
+MZero11,Hydras,0,0
+MZero11,Janus5k,1,2
+MZero11,Johnbobb,0,0
+MZero11,JONALEON1,0,2
+MZero11,junk_funk,0,0
+MZero11,kaonashi1,0,2
+MZero11,KCF0107,0.5,2
+MZero11,KommunistKoala,0,0
+MZero11,LOLIAmAnAlt,0,0
+MZero11,Lopen,0,0
+MZero11,Lord Bob Bree,0,0
+MZero11,LordoftheMorons,0,0
+MZero11,loweffortmemes,1,2
+MZero11,Mac Arrowny,1,2
+MZero11,malyg,0.5,2
+MZero11,MargaretAnnMid,0,0
+MZero11,MartinFF7,0,0
+MZero11,MC_XD,1,2
+MZero11,MoonRunes,0.5,2
+MZero11,Mr Lasastryke,0,0
+MZero11,MrSmartGuy,0,0
+MZero11,MycroProcessor,0,2
+NFUN,_Harmonica_,0.333,12
+NFUN,_LouieG_,0.333,3
+NFUN,Advokaiser,0.521,165
+NFUN,Akkrillic,0.606,132
+NFUN,Arti,0.435,147
+NFUN,azuarc,0.589,158
+NFUN,Baconus_Yum,0.559,136
+NFUN,banananor,0,1
+NFUN,banshiryuu,0.594,165
+NFUN,barreldragon88,0,1
+NFUN,ben10kenobi,0.625,8
+NFUN,Bluenugget64,0.529,155
+NFUN,bwburke94,0.833,6
+NFUN,cakophon,0.582,146
+NFUN,Chuck_Tingle,1,2
+NFUN,Collen,0.576,165
+NFUN,DM_DOKURO,0.625,16
+NFUN,dowolf,0.57,165
+NFUN,DragonImps,0.479,165
+NFUN,FL81,0.582,165
+NFUN,Flamander,0.58,162
+NFUN,GameBopAdv,0.527,165
+NFUN,greengravy294,1,1
+NFUN,handsomeboy2012,0.548,104
+NFUN,Haste_2,0.535,159
+NFUN,HBJDubs,0.53,134
+NFUN,Hbthebattle,0.482,56
+NFUN,-hotdogturtle--,0.5,14
+NFUN,Hydras,1,1
+NFUN,Janus5k,0.527,165
+NFUN,Johnbobb,0,2
+NFUN,JONALEON1,0.533,165
+NFUN,junk_funk,0.25,4
+NFUN,kaonashi1,0.55,160
+NFUN,KCF0107,0.418,165
+NFUN,KommunistKoala,0.625,8
+NFUN,LOLIAmAnAlt,1,2
+NFUN,Lopen,0.538,13
+NFUN,Lord Bob Bree,0.474,19
+NFUN,LordoftheMorons,1,3
+NFUN,loweffortmemes,0.558,165
+NFUN,Mac Arrowny,0.497,165
+NFUN,malyg,0.472,159
+NFUN,MargaretAnnMid,0.491,53
+NFUN,MartinFF7,1,3
+NFUN,MC_XD,0.564,165
+NFUN,MoonRunes,0.556,162
+NFUN,Mr Lasastryke,0.509,55
+NFUN,MrSmartGuy,0.4,5
+NFUN,MycroProcessor,0.552,165
+NFUN,MZero11,0.5,2
+NioraptH,_Harmonica_,0,0
+NioraptH,_LouieG_,0,0
+NioraptH,Advokaiser,0.5,2
+NioraptH,Akkrillic,0.5,2
+NioraptH,Arti,1,2
+NioraptH,azuarc,0,2
+NioraptH,Baconus_Yum,0,2
+NioraptH,banananor,0,0
+NioraptH,banshiryuu,0,2
+NioraptH,barreldragon88,0,0
+NioraptH,ben10kenobi,0,0
+NioraptH,Bluenugget64,0.5,2
+NioraptH,bwburke94,0,0
+NioraptH,cakophon,0.5,2
+NioraptH,Chuck_Tingle,0,0
+NioraptH,Collen,0,2
+NioraptH,DM_DOKURO,0,0
+NioraptH,dowolf,0.5,2
+NioraptH,DragonImps,0.5,2
+NioraptH,FL81,1,2
+NioraptH,Flamander,0,2
+NioraptH,GameBopAdv,0,2
+NioraptH,greengravy294,0,0
+NioraptH,handsomeboy2012,0,0
+NioraptH,Haste_2,1,2
+NioraptH,HBJDubs,0.5,2
+NioraptH,Hbthebattle,0,0
+NioraptH,-hotdogturtle--,0,0
+NioraptH,Hydras,0,0
+NioraptH,Janus5k,0.5,2
+NioraptH,Johnbobb,0,0
+NioraptH,JONALEON1,0.5,2
+NioraptH,junk_funk,0,0
+NioraptH,kaonashi1,0.5,2
+NioraptH,KCF0107,0.5,2
+NioraptH,KommunistKoala,0,0
+NioraptH,LOLIAmAnAlt,0,2
+NioraptH,Lopen,0,0
+NioraptH,Lord Bob Bree,0,0
+NioraptH,LordoftheMorons,0,0
+NioraptH,loweffortmemes,0.5,2
+NioraptH,Mac Arrowny,0.5,2
+NioraptH,malyg,1,2
+NioraptH,MargaretAnnMid,0,0
+NioraptH,MartinFF7,0,0
+NioraptH,MC_XD,0.5,2
+NioraptH,MoonRunes,0.5,2
+NioraptH,Mr Lasastryke,0,0
+NioraptH,MrSmartGuy,0,0
+NioraptH,MycroProcessor,0.5,2
+NioraptH,MZero11,0,0
+NioraptH,NFUN,0,2
+Pablo Smith,_Harmonica_,0,0
+Pablo Smith,_LouieG_,0,0
+Pablo Smith,Advokaiser,0.5,2
+Pablo Smith,Akkrillic,0.5,2
+Pablo Smith,Arti,0,2
+Pablo Smith,azuarc,0,2
+Pablo Smith,Baconus_Yum,0,2
+Pablo Smith,banananor,0,0
+Pablo Smith,banshiryuu,0.5,2
+Pablo Smith,barreldragon88,0,0
+Pablo Smith,ben10kenobi,0,0
+Pablo Smith,Bluenugget64,0,1
+Pablo Smith,bwburke94,0,0
+Pablo Smith,cakophon,0.5,2
+Pablo Smith,Chuck_Tingle,0,0
+Pablo Smith,Collen,1,2
+Pablo Smith,DM_DOKURO,0,0
+Pablo Smith,dowolf,0,2
+Pablo Smith,DragonImps,0,2
+Pablo Smith,FL81,0,2
+Pablo Smith,Flamander,0.5,2
+Pablo Smith,GameBopAdv,0.5,2
+Pablo Smith,greengravy294,0,0
+Pablo Smith,handsomeboy2012,0,0
+Pablo Smith,Haste_2,0.5,2
+Pablo Smith,HBJDubs,0,0
+Pablo Smith,Hbthebattle,0,0
+Pablo Smith,-hotdogturtle--,0,0
+Pablo Smith,Hydras,0,0
+Pablo Smith,Janus5k,0.5,2
+Pablo Smith,Johnbobb,0,0
+Pablo Smith,JONALEON1,1,2
+Pablo Smith,junk_funk,1,2
+Pablo Smith,kaonashi1,1,2
+Pablo Smith,KCF0107,1,2
+Pablo Smith,KommunistKoala,0.5,2
+Pablo Smith,LOLIAmAnAlt,0,0
+Pablo Smith,Lopen,0,0
+Pablo Smith,Lord Bob Bree,0,0
+Pablo Smith,LordoftheMorons,0,0
+Pablo Smith,loweffortmemes,0,2
+Pablo Smith,Mac Arrowny,1,2
+Pablo Smith,malyg,0.5,2
+Pablo Smith,MargaretAnnMid,1,1
+Pablo Smith,MartinFF7,0,0
+Pablo Smith,MC_XD,0,2
+Pablo Smith,MoonRunes,1,2
+Pablo Smith,Mr Lasastryke,1,2
+Pablo Smith,MrSmartGuy,0,0
+Pablo Smith,MycroProcessor,0.5,2
+Pablo Smith,MZero11,0,0
+Pablo Smith,NFUN,1,1
+Pablo Smith,NioraptH,0,0
+paulg235,_Harmonica_,0,0
+paulg235,_LouieG_,0,0
+paulg235,Advokaiser,0,2
+paulg235,Akkrillic,0,2
+paulg235,Arti,0.5,2
+paulg235,azuarc,0.5,2
+paulg235,Baconus_Yum,0,0
+paulg235,banananor,0,0
+paulg235,banshiryuu,0.5,2
+paulg235,barreldragon88,0,0
+paulg235,ben10kenobi,0,0
+paulg235,Bluenugget64,0.5,2
+paulg235,bwburke94,0,0
+paulg235,cakophon,0.5,2
+paulg235,Chuck_Tingle,0,0
+paulg235,Collen,0.5,2
+paulg235,DM_DOKURO,0,0
+paulg235,dowolf,1,2
+paulg235,DragonImps,0.5,2
+paulg235,FL81,0,2
+paulg235,Flamander,1,2
+paulg235,GameBopAdv,0,2
+paulg235,greengravy294,0,0
+paulg235,handsomeboy2012,0,0
+paulg235,Haste_2,0.5,2
+paulg235,HBJDubs,1,2
+paulg235,Hbthebattle,0,0
+paulg235,-hotdogturtle--,0,0
+paulg235,Hydras,0,0
+paulg235,Janus5k,0,2
+paulg235,Johnbobb,0,0
+paulg235,JONALEON1,0.5,2
+paulg235,junk_funk,0,0
+paulg235,kaonashi1,0.5,2
+paulg235,KCF0107,0.5,2
+paulg235,KommunistKoala,0,0
+paulg235,LOLIAmAnAlt,0,0
+paulg235,Lopen,1,2
+paulg235,Lord Bob Bree,0,0
+paulg235,LordoftheMorons,0,0
+paulg235,loweffortmemes,0,2
+paulg235,Mac Arrowny,0,2
+paulg235,malyg,0.5,2
+paulg235,MargaretAnnMid,0,0
+paulg235,MartinFF7,0,0
+paulg235,MC_XD,1,2
+paulg235,MoonRunes,1,2
+paulg235,Mr Lasastryke,0,0
+paulg235,MrSmartGuy,0,0
+paulg235,MycroProcessor,0.5,2
+paulg235,MZero11,0,0
+paulg235,NFUN,1,2
+paulg235,NioraptH,0,0
+paulg235,Pablo Smith,0,0
+PIayer_0,_Harmonica_,0.6,15
+PIayer_0,_LouieG_,0.6,5
+PIayer_0,Advokaiser,0.55,189
+PIayer_0,Akkrillic,0.584,149
+PIayer_0,Arti,0.559,170
+PIayer_0,azuarc,0.473,182
+PIayer_0,Baconus_Yum,0.452,155
+PIayer_0,banananor,1,1
+PIayer_0,banshiryuu,0.402,189
+PIayer_0,barreldragon88,1,1
+PIayer_0,ben10kenobi,0.667,9
+PIayer_0,Bluenugget64,0.469,175
+PIayer_0,bwburke94,0.5,8
+PIayer_0,cakophon,0.467,169
+PIayer_0,Chuck_Tingle,0,3
+PIayer_0,Collen,0.376,189
+PIayer_0,DM_DOKURO,0.556,18
+PIayer_0,dowolf,0.577,189
+PIayer_0,DragonImps,0.519,189
+PIayer_0,FL81,0.513,189
+PIayer_0,Flamander,0.403,186
+PIayer_0,GameBopAdv,0.397,189
+PIayer_0,greengravy294,1,1
+PIayer_0,handsomeboy2012,0.525,118
+PIayer_0,Haste_2,0.593,182
+PIayer_0,HBJDubs,0.619,155
+PIayer_0,Hbthebattle,0.708,65
+PIayer_0,-hotdogturtle--,0.067,15
+PIayer_0,Hydras,1,2
+PIayer_0,Janus5k,0.492,189
+PIayer_0,Johnbobb,1,3
+PIayer_0,JONALEON1,0.508,189
+PIayer_0,junk_funk,0.5,6
+PIayer_0,kaonashi1,0.5,184
+PIayer_0,KCF0107,0.492,189
+PIayer_0,KommunistKoala,0.727,11
+PIayer_0,LOLIAmAnAlt,0,2
+PIayer_0,Lopen,0.375,16
+PIayer_0,Lord Bob Bree,0.619,21
+PIayer_0,LordoftheMorons,0.667,3
+PIayer_0,loweffortmemes,0.519,189
+PIayer_0,Mac Arrowny,0.508,189
+PIayer_0,malyg,0.632,182
+PIayer_0,MargaretAnnMid,0.587,63
+PIayer_0,MartinFF7,0.333,3
+PIayer_0,MC_XD,0.55,189
+PIayer_0,MoonRunes,0.441,186
+PIayer_0,Mr Lasastryke,0.441,68
+PIayer_0,MrSmartGuy,0.8,5
+PIayer_0,MycroProcessor,0.444,189
+PIayer_0,MZero11,0.5,2
+PIayer_0,NFUN,0.47,164
+PIayer_0,NioraptH,1,2
+PIayer_0,Pablo Smith,0,2
+PIayer_0,paulg235,0,2
+pjbasis,_Harmonica_,0.333,3
+pjbasis,_LouieG_,0.667,3
+pjbasis,Advokaiser,0.333,3
+pjbasis,Akkrillic,0.667,3
+pjbasis,Arti,0,3
+pjbasis,azuarc,0.333,3
+pjbasis,Baconus_Yum,0.667,3
+pjbasis,banananor,0,0
+pjbasis,banshiryuu,1,3
+pjbasis,barreldragon88,0,0
+pjbasis,ben10kenobi,0,0
+pjbasis,Bluenugget64,0.667,3
+pjbasis,bwburke94,0.667,3
+pjbasis,cakophon,0.667,3
+pjbasis,Chuck_Tingle,0.667,3
+pjbasis,Collen,1,3
+pjbasis,DM_DOKURO,1,3
+pjbasis,dowolf,0.667,3
+pjbasis,DragonImps,0.667,3
+pjbasis,FL81,0.667,3
+pjbasis,Flamander,0.333,3
+pjbasis,GameBopAdv,0.333,3
+pjbasis,greengravy294,0,0
+pjbasis,handsomeboy2012,0,0
+pjbasis,Haste_2,1,3
+pjbasis,HBJDubs,0.667,3
+pjbasis,Hbthebattle,0.333,3
+pjbasis,-hotdogturtle--,0.333,3
+pjbasis,Hydras,0,0
+pjbasis,Janus5k,1,3
+pjbasis,Johnbobb,0.333,3
+pjbasis,JONALEON1,1,3
+pjbasis,junk_funk,0,0
+pjbasis,kaonashi1,1,3
+pjbasis,KCF0107,0.667,3
+pjbasis,KommunistKoala,0,0
+pjbasis,LOLIAmAnAlt,0,0
+pjbasis,Lopen,0,0
+pjbasis,Lord Bob Bree,0.667,3
+pjbasis,LordoftheMorons,0,0
+pjbasis,loweffortmemes,0.333,3
+pjbasis,Mac Arrowny,0.667,3
+pjbasis,malyg,0.667,3
+pjbasis,MargaretAnnMid,1,3
+pjbasis,MartinFF7,0,0
+pjbasis,MC_XD,0.667,3
+pjbasis,MoonRunes,1,3
+pjbasis,Mr Lasastryke,0.667,3
+pjbasis,MrSmartGuy,0,0
+pjbasis,MycroProcessor,1,3
+pjbasis,MZero11,0,0
+pjbasis,NFUN,1,2
+pjbasis,NioraptH,0,0
+pjbasis,Pablo Smith,0,0
+pjbasis,paulg235,0,0
+pjbasis,PIayer_0,0.333,3
+Place,_Harmonica_,0.4,15
+Place,_LouieG_,1,5
+Place,Advokaiser,0.444,180
+Place,Akkrillic,0.575,146
+Place,Arti,0.34,162
+Place,azuarc,0.434,173
+Place,Baconus_Yum,0.479,146
+Place,banananor,0,1
+Place,banshiryuu,0.628,180
+Place,barreldragon88,0,2
+Place,ben10kenobi,0.333,9
+Place,Bluenugget64,0.596,166
+Place,bwburke94,0.75,8
+Place,cakophon,0.764,161
+Place,Chuck_Tingle,0.333,3
+Place,Collen,0.65,180
+Place,DM_DOKURO,0.556,18
+Place,dowolf,0.522,180
+Place,DragonImps,0.506,180
+Place,FL81,0.489,180
+Place,Flamander,0.644,177
+Place,GameBopAdv,0.744,180
+Place,greengravy294,1,1
+Place,handsomeboy2012,0.486,111
+Place,Haste_2,0.523,174
+Place,HBJDubs,0.47,149
+Place,Hbthebattle,0.462,65
+Place,-hotdogturtle--,0.6,15
+Place,Hydras,1,2
+Place,Janus5k,0.406,180
+Place,Johnbobb,0.667,3
+Place,JONALEON1,0.617,180
+Place,junk_funk,0.333,6
+Place,kaonashi1,0.663,175
+Place,KCF0107,0.539,180
+Place,KommunistKoala,0.4,10
+Place,LOLIAmAnAlt,1,2
+Place,Lopen,0.385,13
+Place,Lord Bob Bree,0.429,21
+Place,LordoftheMorons,0.667,3
+Place,loweffortmemes,0.489,180
+Place,Mac Arrowny,0.428,180
+Place,malyg,0.457,173
+Place,MargaretAnnMid,0.429,63
+Place,MartinFF7,0,0
+Place,MC_XD,0.428,180
+Place,MoonRunes,0.684,177
+Place,Mr Lasastryke,0.708,65
+Place,MrSmartGuy,0.8,5
+Place,MycroProcessor,0.733,180
+Place,MZero11,0,2
+Place,NFUN,0.545,156
+Place,NioraptH,0,2
+Place,Pablo Smith,0.5,2
+Place,paulg235,0.5,2
+Place,PIayer_0,0.393,178
+Place,pjbasis,0.667,3
+Plasman,_Harmonica_,0,0
+Plasman,_LouieG_,0,0
+Plasman,Advokaiser,0.778,9
+Plasman,Akkrillic,0.333,6
+Plasman,Arti,0.5,6
+Plasman,azuarc,0.778,9
+Plasman,Baconus_Yum,0.5,6
+Plasman,banananor,0,0
+Plasman,banshiryuu,0.556,9
+Plasman,barreldragon88,0,0
+Plasman,ben10kenobi,0,0
+Plasman,Bluenugget64,0.5,6
+Plasman,bwburke94,0,0
+Plasman,cakophon,0.667,9
+Plasman,Chuck_Tingle,0,0
+Plasman,Collen,0.667,9
+Plasman,DM_DOKURO,1,3
+Plasman,dowolf,0.667,9
+Plasman,DragonImps,0.556,9
+Plasman,FL81,0.667,9
+Plasman,Flamander,0.444,9
+Plasman,GameBopAdv,0.444,9
+Plasman,greengravy294,0,0
+Plasman,handsomeboy2012,0.25,8
+Plasman,Haste_2,0.556,9
+Plasman,HBJDubs,0.333,9
+Plasman,Hbthebattle,0.75,4
+Plasman,-hotdogturtle--,0,0
+Plasman,Hydras,0,0
+Plasman,Janus5k,0.778,9
+Plasman,Johnbobb,0,0
+Plasman,JONALEON1,0.444,9
+Plasman,junk_funk,0,0
+Plasman,kaonashi1,0.444,9
+Plasman,KCF0107,0.222,9
+Plasman,KommunistKoala,0,0
+Plasman,LOLIAmAnAlt,0,0
+Plasman,Lopen,0,0
+Plasman,Lord Bob Bree,0,0
+Plasman,LordoftheMorons,0,0
+Plasman,loweffortmemes,0.889,9
+Plasman,Mac Arrowny,0.444,9
+Plasman,malyg,0.333,9
+Plasman,MargaretAnnMid,0.333,6
+Plasman,MartinFF7,0,0
+Plasman,MC_XD,0.444,9
+Plasman,MoonRunes,0.333,9
+Plasman,Mr Lasastryke,0.333,3
+Plasman,MrSmartGuy,0,0
+Plasman,MycroProcessor,0.444,9
+Plasman,MZero11,0,0
+Plasman,NFUN,0.875,8
+Plasman,NioraptH,0,0
+Plasman,Pablo Smith,0,0
+Plasman,paulg235,0,0
+Plasman,PIayer_0,0.333,9
+Plasman,pjbasis,0,0
+Plasman,Place,0.333,6
+Popcorn_Fairy,_Harmonica_,0.556,9
+Popcorn_Fairy,_LouieG_,0.333,3
+Popcorn_Fairy,Advokaiser,0.476,21
+Popcorn_Fairy,Akkrillic,0.389,18
+Popcorn_Fairy,Arti,0.5,18
+Popcorn_Fairy,azuarc,0.579,19
+Popcorn_Fairy,Baconus_Yum,0.619,21
+Popcorn_Fairy,banananor,0,0
+Popcorn_Fairy,banshiryuu,0.429,21
+Popcorn_Fairy,barreldragon88,0,0
+Popcorn_Fairy,ben10kenobi,0,3
+Popcorn_Fairy,Bluenugget64,0.619,21
+Popcorn_Fairy,bwburke94,0.333,3
+Popcorn_Fairy,cakophon,0.611,18
+Popcorn_Fairy,Chuck_Tingle,1,3
+Popcorn_Fairy,Collen,0.571,21
+Popcorn_Fairy,DM_DOKURO,0.625,8
+Popcorn_Fairy,dowolf,0.571,21
+Popcorn_Fairy,DragonImps,0.476,21
+Popcorn_Fairy,FL81,0.429,21
+Popcorn_Fairy,Flamander,0.429,21
+Popcorn_Fairy,GameBopAdv,0.524,21
+Popcorn_Fairy,greengravy294,0,0
+Popcorn_Fairy,handsomeboy2012,0.5,10
+Popcorn_Fairy,Haste_2,0.611,18
+Popcorn_Fairy,HBJDubs,0.444,18
+Popcorn_Fairy,Hbthebattle,0.588,17
+Popcorn_Fairy,-hotdogturtle--,0.444,9
+Popcorn_Fairy,Hydras,0,0
+Popcorn_Fairy,Janus5k,0.333,21
+Popcorn_Fairy,Johnbobb,0,3
+Popcorn_Fairy,JONALEON1,0.476,21
+Popcorn_Fairy,junk_funk,0,0
+Popcorn_Fairy,kaonashi1,0.667,21
+Popcorn_Fairy,KCF0107,0.571,21
+Popcorn_Fairy,KommunistKoala,0,0
+Popcorn_Fairy,LOLIAmAnAlt,0,0
+Popcorn_Fairy,Lopen,0,0
+Popcorn_Fairy,Lord Bob Bree,0.545,11
+Popcorn_Fairy,LordoftheMorons,0,0
+Popcorn_Fairy,loweffortmemes,0.429,21
+Popcorn_Fairy,Mac Arrowny,0.476,21
+Popcorn_Fairy,malyg,0.619,21
+Popcorn_Fairy,MargaretAnnMid,0.625,16
+Popcorn_Fairy,MartinFF7,0,0
+Popcorn_Fairy,MC_XD,0.524,21
+Popcorn_Fairy,MoonRunes,0.556,18
+Popcorn_Fairy,Mr Lasastryke,0.4,10
+Popcorn_Fairy,MrSmartGuy,0,0
+Popcorn_Fairy,MycroProcessor,0.571,21
+Popcorn_Fairy,MZero11,0,0
+Popcorn_Fairy,NFUN,0.6,20
+Popcorn_Fairy,NioraptH,0,0
+Popcorn_Fairy,Pablo Smith,0,0
+Popcorn_Fairy,paulg235,0,0
+Popcorn_Fairy,PIayer_0,0.524,21
+Popcorn_Fairy,pjbasis,0.667,3
+Popcorn_Fairy,Place,0.619,21
+Popcorn_Fairy,Plasman,0,0
+PrinceKaro,_Harmonica_,0,0
+PrinceKaro,_LouieG_,0,0
+PrinceKaro,Advokaiser,1,6
+PrinceKaro,Akkrillic,0.833,6
+PrinceKaro,Arti,0.5,6
+PrinceKaro,azuarc,0.667,6
+PrinceKaro,Baconus_Yum,0.5,6
+PrinceKaro,banananor,0,0
+PrinceKaro,banshiryuu,0.667,6
+PrinceKaro,barreldragon88,0,0
+PrinceKaro,ben10kenobi,0,0
+PrinceKaro,Bluenugget64,0.5,6
+PrinceKaro,bwburke94,0,0
+PrinceKaro,cakophon,0.5,6
+PrinceKaro,Chuck_Tingle,0,0
+PrinceKaro,Collen,0.5,6
+PrinceKaro,DM_DOKURO,0,0
+PrinceKaro,dowolf,0.667,6
+PrinceKaro,DragonImps,0.333,6
+PrinceKaro,FL81,0.333,6
+PrinceKaro,Flamander,0.5,6
+PrinceKaro,GameBopAdv,0.333,6
+PrinceKaro,greengravy294,0,0
+PrinceKaro,handsomeboy2012,0.75,4
+PrinceKaro,Haste_2,0.8,5
+PrinceKaro,HBJDubs,0.8,5
+PrinceKaro,Hbthebattle,1,2
+PrinceKaro,-hotdogturtle--,0,0
+PrinceKaro,Hydras,0,0
+PrinceKaro,Janus5k,0.667,6
+PrinceKaro,Johnbobb,0,0
+PrinceKaro,JONALEON1,0.5,6
+PrinceKaro,junk_funk,1,1
+PrinceKaro,kaonashi1,0.333,6
+PrinceKaro,KCF0107,0.667,6
+PrinceKaro,KommunistKoala,1,1
+PrinceKaro,LOLIAmAnAlt,0,0
+PrinceKaro,Lopen,0,0
+PrinceKaro,Lord Bob Bree,0,0
+PrinceKaro,LordoftheMorons,0,0
+PrinceKaro,loweffortmemes,0.5,6
+PrinceKaro,Mac Arrowny,0.833,6
+PrinceKaro,malyg,0.5,6
+PrinceKaro,MargaretAnnMid,1,1
+PrinceKaro,MartinFF7,0,0
+PrinceKaro,MC_XD,0.667,6
+PrinceKaro,MoonRunes,0.667,6
+PrinceKaro,Mr Lasastryke,0.75,4
+PrinceKaro,MrSmartGuy,0,0
+PrinceKaro,MycroProcessor,0.333,6
+PrinceKaro,MZero11,0,0
+PrinceKaro,NFUN,0.667,3
+PrinceKaro,NioraptH,0,0
+PrinceKaro,Pablo Smith,1,1
+PrinceKaro,paulg235,0,0
+PrinceKaro,PIayer_0,0.5,6
+PrinceKaro,pjbasis,0,0
+PrinceKaro,Place,0.333,3
+PrinceKaro,Plasman,0,0
+PrinceKaro,Popcorn_Fairy,0,0
+Prody Parrot,_Harmonica_,0.333,15
+Prody Parrot,_LouieG_,0.6,5
+Prody Parrot,Advokaiser,0.661,189
+Prody Parrot,Akkrillic,0.644,149
+Prody Parrot,Arti,0.423,168
+Prody Parrot,azuarc,0.495,182
+Prody Parrot,Baconus_Yum,0.542,155
+Prody Parrot,banananor,0,1
+Prody Parrot,banshiryuu,0.746,189
+Prody Parrot,barreldragon88,0,2
+Prody Parrot,ben10kenobi,0.556,9
+Prody Parrot,Bluenugget64,0.583,175
+Prody Parrot,bwburke94,0.625,8
+Prody Parrot,cakophon,0.585,171
+Prody Parrot,Chuck_Tingle,0.667,3
+Prody Parrot,Collen,0.571,189
+Prody Parrot,DM_DOKURO,0.389,18
+Prody Parrot,dowolf,0.513,189
+Prody Parrot,DragonImps,0.497,189
+Prody Parrot,FL81,0.54,189
+Prody Parrot,Flamander,0.559,186
+Prody Parrot,GameBopAdv,0.603,189
+Prody Parrot,greengravy294,1,1
+Prody Parrot,handsomeboy2012,0.55,120
+Prody Parrot,Haste_2,0.615,182
+Prody Parrot,HBJDubs,0.445,155
+Prody Parrot,Hbthebattle,0.554,65
+Prody Parrot,-hotdogturtle--,0.533,15
+Prody Parrot,Hydras,1,2
+Prody Parrot,Janus5k,0.64,189
+Prody Parrot,Johnbobb,0.333,3
+Prody Parrot,JONALEON1,0.524,189
+Prody Parrot,junk_funk,0.5,6
+Prody Parrot,kaonashi1,0.538,184
+Prody Parrot,KCF0107,0.524,189
+Prody Parrot,KommunistKoala,0.455,11
+Prody Parrot,LOLIAmAnAlt,1,2
+Prody Parrot,Lopen,0.5,14
+Prody Parrot,Lord Bob Bree,0.333,21
+Prody Parrot,LordoftheMorons,0.667,3
+Prody Parrot,loweffortmemes,0.55,189
+Prody Parrot,Mac Arrowny,0.635,189
+Prody Parrot,malyg,0.434,182
+Prody Parrot,MargaretAnnMid,0.377,61
+Prody Parrot,MartinFF7,0.333,3
+Prody Parrot,MC_XD,0.519,189
+Prody Parrot,MoonRunes,0.591,186
+Prody Parrot,Mr Lasastryke,0.636,66
+Prody Parrot,MrSmartGuy,0.4,5
+Prody Parrot,MycroProcessor,0.534,189
+Prody Parrot,MZero11,0.5,2
+Prody Parrot,NFUN,0.601,163
+Prody Parrot,NioraptH,0,2
+Prody Parrot,Pablo Smith,1,2
+Prody Parrot,paulg235,0.5,2
+Prody Parrot,PIayer_0,0.465,187
+Prody Parrot,pjbasis,0.333,3
+Prody Parrot,Place,0.556,178
+Prody Parrot,Plasman,0.667,9
+Prody Parrot,Popcorn_Fairy,0.429,21
+Prody Parrot,PrinceKaro,0.833,6
+PSI_NESS,_Harmonica_,0.667,15
+PSI_NESS,_LouieG_,0.8,5
+PSI_NESS,Advokaiser,0.408,191
+PSI_NESS,Akkrillic,0.543,151
+PSI_NESS,Arti,0.412,170
+PSI_NESS,azuarc,0.516,184
+PSI_NESS,Baconus_Yum,0.497,157
+PSI_NESS,banananor,1,1
+PSI_NESS,banshiryuu,0.461,191
+PSI_NESS,barreldragon88,0,2
+PSI_NESS,ben10kenobi,0.444,9
+PSI_NESS,Bluenugget64,0.475,177
+PSI_NESS,bwburke94,0.25,8
+PSI_NESS,cakophon,0.48,171
+PSI_NESS,Chuck_Tingle,0.667,3
+PSI_NESS,Collen,0.628,191
+PSI_NESS,DM_DOKURO,0.333,18
+PSI_NESS,dowolf,0.476,191
+PSI_NESS,DragonImps,0.424,191
+PSI_NESS,FL81,0.508,191
+PSI_NESS,Flamander,0.495,188
+PSI_NESS,GameBopAdv,0.618,191
+PSI_NESS,greengravy294,1,1
+PSI_NESS,handsomeboy2012,0.542,120
+PSI_NESS,Haste_2,0.424,184
+PSI_NESS,HBJDubs,0.605,157
+PSI_NESS,Hbthebattle,0.446,65
+PSI_NESS,-hotdogturtle--,0.6,15
+PSI_NESS,Hydras,0,2
+PSI_NESS,Janus5k,0.429,191
+PSI_NESS,Johnbobb,0.333,3
+PSI_NESS,JONALEON1,0.534,191
+PSI_NESS,junk_funk,1,6
+PSI_NESS,kaonashi1,0.527,186
+PSI_NESS,KCF0107,0.639,191
+PSI_NESS,KommunistKoala,0.545,11
+PSI_NESS,LOLIAmAnAlt,0.5,2
+PSI_NESS,Lopen,0.313,16
+PSI_NESS,Lord Bob Bree,0.333,21
+PSI_NESS,LordoftheMorons,0.333,3
+PSI_NESS,loweffortmemes,0.424,191
+PSI_NESS,Mac Arrowny,0.466,191
+PSI_NESS,malyg,0.516,184
+PSI_NESS,MargaretAnnMid,0.556,63
+PSI_NESS,MartinFF7,0.333,3
+PSI_NESS,MC_XD,0.524,191
+PSI_NESS,MoonRunes,0.521,188
+PSI_NESS,Mr Lasastryke,0.574,68
+PSI_NESS,MrSmartGuy,0.6,5
+PSI_NESS,MycroProcessor,0.518,191
+PSI_NESS,MZero11,0,2
+PSI_NESS,NFUN,0.467,165
+PSI_NESS,NioraptH,0.5,2
+PSI_NESS,Pablo Smith,1,2
+PSI_NESS,paulg235,0.5,2
+PSI_NESS,PIayer_0,0.529,189
+PSI_NESS,pjbasis,0.333,3
+PSI_NESS,Place,0.522,180
+PSI_NESS,Plasman,0,9
+PSI_NESS,Popcorn_Fairy,0.524,21
+PSI_NESS,PrinceKaro,0.667,6
+PSI_NESS,Prody Parrot,0.503,189
+pyresword,_Harmonica_,0.467,15
+pyresword,_LouieG_,0.667,3
+pyresword,Advokaiser,0.443,158
+pyresword,Akkrillic,0.508,126
+pyresword,Arti,0.593,140
+pyresword,azuarc,0.562,153
+pyresword,Baconus_Yum,0.561,132
+pyresword,banananor,0,1
+pyresword,banshiryuu,0.443,158
+pyresword,barreldragon88,0,0
+pyresword,ben10kenobi,0.667,9
+pyresword,Bluenugget64,0.503,147
+pyresword,bwburke94,0.375,8
+pyresword,cakophon,0.407,140
+pyresword,Chuck_Tingle,0.667,3
+pyresword,Collen,0.481,158
+pyresword,DM_DOKURO,0.5,18
+pyresword,dowolf,0.525,158
+pyresword,DragonImps,0.544,158
+pyresword,FL81,0.532,158
+pyresword,Flamander,0.468,158
+pyresword,GameBopAdv,0.418,158
+pyresword,greengravy294,0,1
+pyresword,handsomeboy2012,0.466,103
+pyresword,Haste_2,0.503,151
+pyresword,HBJDubs,0.565,131
+pyresword,Hbthebattle,0.442,52
+pyresword,-hotdogturtle--,0.533,15
+pyresword,Hydras,0,0
+pyresword,Janus5k,0.519,158
+pyresword,Johnbobb,0.333,3
+pyresword,JONALEON1,0.405,158
+pyresword,junk_funk,0,6
+pyresword,kaonashi1,0.429,154
+pyresword,KCF0107,0.513,158
+pyresword,KommunistKoala,0.375,8
+pyresword,LOLIAmAnAlt,0.5,2
+pyresword,Lopen,0.429,14
+pyresword,Lord Bob Bree,0.524,21
+pyresword,LordoftheMorons,0.667,3
+pyresword,loweffortmemes,0.544,158
+pyresword,Mac Arrowny,0.506,158
+pyresword,malyg,0.507,152
+pyresword,MargaretAnnMid,0.526,57
+pyresword,MartinFF7,0,3
+pyresword,MC_XD,0.506,158
+pyresword,MoonRunes,0.465,155
+pyresword,Mr Lasastryke,0.397,58
+pyresword,MrSmartGuy,1,2
+pyresword,MycroProcessor,0.418,158
+pyresword,MZero11,1,2
+pyresword,NFUN,0.525,141
+pyresword,NioraptH,0.5,2
+pyresword,Pablo Smith,0,2
+pyresword,paulg235,1,2
+pyresword,PIayer_0,0.538,158
+pyresword,pjbasis,1,3
+pyresword,Place,0.419,148
+pyresword,Plasman,0.667,9
+pyresword,Popcorn_Fairy,0.286,21
+pyresword,PrinceKaro,0.333,6
+pyresword,Prody Parrot,0.442,156
+pyresword,PSI_NESS,0.513,158
+Raetsel_Lapin,_Harmonica_,0.467,15
+Raetsel_Lapin,_LouieG_,0.6,5
+Raetsel_Lapin,Advokaiser,0.534,191
+Raetsel_Lapin,Akkrillic,0.563,151
+Raetsel_Lapin,Arti,0.488,170
+Raetsel_Lapin,azuarc,0.478,184
+Raetsel_Lapin,Baconus_Yum,0.484,157
+Raetsel_Lapin,banananor,0,1
+Raetsel_Lapin,banshiryuu,0.545,191
+Raetsel_Lapin,barreldragon88,1,2
+Raetsel_Lapin,ben10kenobi,0.222,9
+Raetsel_Lapin,Bluenugget64,0.52,177
+Raetsel_Lapin,bwburke94,0.625,8
+Raetsel_Lapin,cakophon,0.509,171
+Raetsel_Lapin,Chuck_Tingle,0.333,3
+Raetsel_Lapin,Collen,0.461,191
+Raetsel_Lapin,DM_DOKURO,0.5,18
+Raetsel_Lapin,dowolf,0.518,191
+Raetsel_Lapin,DragonImps,0.518,191
+Raetsel_Lapin,FL81,0.445,191
+Raetsel_Lapin,Flamander,0.532,188
+Raetsel_Lapin,GameBopAdv,0.513,191
+Raetsel_Lapin,greengravy294,0,1
+Raetsel_Lapin,handsomeboy2012,0.5,120
+Raetsel_Lapin,Haste_2,0.5,184
+Raetsel_Lapin,HBJDubs,0.478,157
+Raetsel_Lapin,Hbthebattle,0.415,65
+Raetsel_Lapin,-hotdogturtle--,0.467,15
+Raetsel_Lapin,Hydras,0,2
+Raetsel_Lapin,Janus5k,0.492,191
+Raetsel_Lapin,Johnbobb,0.667,3
+Raetsel_Lapin,JONALEON1,0.555,191
+Raetsel_Lapin,junk_funk,0.167,6
+Raetsel_Lapin,kaonashi1,0.522,186
+Raetsel_Lapin,KCF0107,0.471,191
+Raetsel_Lapin,KommunistKoala,0.455,11
+Raetsel_Lapin,LOLIAmAnAlt,1,2
+Raetsel_Lapin,Lopen,0.625,16
+Raetsel_Lapin,Lord Bob Bree,0.286,21
+Raetsel_Lapin,LordoftheMorons,0.333,3
+Raetsel_Lapin,loweffortmemes,0.55,191
+Raetsel_Lapin,Mac Arrowny,0.539,191
+Raetsel_Lapin,malyg,0.473,184
+Raetsel_Lapin,MargaretAnnMid,0.429,63
+Raetsel_Lapin,MartinFF7,0.667,3
+Raetsel_Lapin,MC_XD,0.482,191
+Raetsel_Lapin,MoonRunes,0.516,188
+Raetsel_Lapin,Mr Lasastryke,0.574,68
+Raetsel_Lapin,MrSmartGuy,0.2,5
+Raetsel_Lapin,MycroProcessor,0.55,191
+Raetsel_Lapin,MZero11,1,2
+Raetsel_Lapin,NFUN,0.436,165
+Raetsel_Lapin,NioraptH,0,2
+Raetsel_Lapin,Pablo Smith,0,2
+Raetsel_Lapin,paulg235,0,2
+Raetsel_Lapin,PIayer_0,0.497,189
+Raetsel_Lapin,pjbasis,0.667,3
+Raetsel_Lapin,Place,0.539,180
+Raetsel_Lapin,Plasman,0.333,9
+Raetsel_Lapin,Popcorn_Fairy,0.619,21
+Raetsel_Lapin,PrinceKaro,0.333,6
+Raetsel_Lapin,Prody Parrot,0.524,189
+Raetsel_Lapin,PSI_NESS,0.424,191
+Raetsel_Lapin,pyresword,0.424,158
+rwlh,_Harmonica_,0.6,15
+rwlh,_LouieG_,0.2,5
+rwlh,Advokaiser,0.44,191
+rwlh,Akkrillic,0.55,151
+rwlh,Arti,0.506,170
+rwlh,azuarc,0.478,184
+rwlh,Baconus_Yum,0.573,157
+rwlh,banananor,0,1
+rwlh,banshiryuu,0.492,191
+rwlh,barreldragon88,1,2
+rwlh,ben10kenobi,0.333,9
+rwlh,Bluenugget64,0.52,177
+rwlh,bwburke94,0.375,8
+rwlh,cakophon,0.526,171
+rwlh,Chuck_Tingle,0.667,3
+rwlh,Collen,0.524,191
+rwlh,DM_DOKURO,0.556,18
+rwlh,dowolf,0.518,191
+rwlh,DragonImps,0.602,191
+rwlh,FL81,0.487,191
+rwlh,Flamander,0.5,188
+rwlh,GameBopAdv,0.565,191
+rwlh,greengravy294,1,1
+rwlh,handsomeboy2012,0.475,120
+rwlh,Haste_2,0.473,184
+rwlh,HBJDubs,0.478,157
+rwlh,Hbthebattle,0.4,65
+rwlh,-hotdogturtle--,0.733,15
+rwlh,Hydras,0,2
+rwlh,Janus5k,0.419,191
+rwlh,Johnbobb,0.333,3
+rwlh,JONALEON1,0.513,191
+rwlh,junk_funk,0,6
+rwlh,kaonashi1,0.538,186
+rwlh,KCF0107,0.492,191
+rwlh,KommunistKoala,0.545,11
+rwlh,LOLIAmAnAlt,0,2
+rwlh,Lopen,0.438,16
+rwlh,Lord Bob Bree,0.524,21
+rwlh,LordoftheMorons,0.333,3
+rwlh,loweffortmemes,0.445,191
+rwlh,Mac Arrowny,0.445,191
+rwlh,malyg,0.484,184
+rwlh,MargaretAnnMid,0.333,63
+rwlh,MartinFF7,1,3
+rwlh,MC_XD,0.461,191
+rwlh,MoonRunes,0.468,188
+rwlh,Mr Lasastryke,0.5,68
+rwlh,MrSmartGuy,0.2,5
+rwlh,MycroProcessor,0.539,191
+rwlh,MZero11,0.5,2
+rwlh,NFUN,0.485,165
+rwlh,NioraptH,1,2
+rwlh,Pablo Smith,0,2
+rwlh,paulg235,0.5,2
+rwlh,PIayer_0,0.513,189
+rwlh,pjbasis,0.333,3
+rwlh,Place,0.556,180
+rwlh,Plasman,0.333,9
+rwlh,Popcorn_Fairy,0.619,21
+rwlh,PrinceKaro,0,6
+rwlh,Prody Parrot,0.471,189
+rwlh,PSI_NESS,0.529,191
+rwlh,pyresword,0.525,158
+rwlh,Raetsel_Lapin,0.571,191
+RySenkari,_Harmonica_,0.417,12
+RySenkari,_LouieG_,0.333,3
+RySenkari,Advokaiser,0.4,15
+RySenkari,Akkrillic,0.5,12
+RySenkari,Arti,0.6,15
+RySenkari,azuarc,0.462,13
+RySenkari,Baconus_Yum,0.733,15
+RySenkari,banananor,0,0
+RySenkari,banshiryuu,0.533,15
+RySenkari,barreldragon88,0,0
+RySenkari,ben10kenobi,0.667,6
+RySenkari,Bluenugget64,0.75,12
+RySenkari,bwburke94,0.8,5
+RySenkari,cakophon,0.4,15
+RySenkari,Chuck_Tingle,0.333,3
+RySenkari,Collen,0.667,15
+RySenkari,DM_DOKURO,0.5,6
+RySenkari,dowolf,0.333,15
+RySenkari,DragonImps,0.533,15
+RySenkari,FL81,0.267,15
+RySenkari,Flamander,0.533,15
+RySenkari,GameBopAdv,0.4,15
+RySenkari,greengravy294,0,0
+RySenkari,handsomeboy2012,0.571,7
+RySenkari,Haste_2,0.667,9
+RySenkari,HBJDubs,0.667,15
+RySenkari,Hbthebattle,0.5,12
+RySenkari,-hotdogturtle--,0.5,12
+RySenkari,Hydras,0,0
+RySenkari,Janus5k,0.6,15
+RySenkari,Johnbobb,0.667,3
+RySenkari,JONALEON1,0.333,15
+RySenkari,junk_funk,0,0
+RySenkari,kaonashi1,0.6,15
+RySenkari,KCF0107,0.467,15
+RySenkari,KommunistKoala,0.333,3
+RySenkari,LOLIAmAnAlt,0,0
+RySenkari,Lopen,0,0
+RySenkari,Lord Bob Bree,0.75,12
+RySenkari,LordoftheMorons,0.333,3
+RySenkari,loweffortmemes,0.4,15
+RySenkari,Mac Arrowny,0.533,15
+RySenkari,malyg,0.667,15
+RySenkari,MargaretAnnMid,0.5,12
+RySenkari,MartinFF7,0,0
+RySenkari,MC_XD,0.4,15
+RySenkari,MoonRunes,0.583,12
+RySenkari,Mr Lasastryke,0.5,6
+RySenkari,MrSmartGuy,0,0
+RySenkari,MycroProcessor,0.533,15
+RySenkari,MZero11,0,0
+RySenkari,NFUN,0.308,13
+RySenkari,NioraptH,0,0
+RySenkari,Pablo Smith,0,0
+RySenkari,paulg235,0,0
+RySenkari,PIayer_0,0.467,15
+RySenkari,pjbasis,0.667,3
+RySenkari,Place,0.467,15
+RySenkari,Plasman,0,0
+RySenkari,Popcorn_Fairy,0.444,9
+RySenkari,PrinceKaro,0,0
+RySenkari,Prody Parrot,0.267,15
+RySenkari,PSI_NESS,0.4,15
+RySenkari,pyresword,0.6,15
+RySenkari,Raetsel_Lapin,0.267,15
+RySenkari,rwlh,0.533,15
+Sceptilesolar,_Harmonica_,0.467,15
+Sceptilesolar,_LouieG_,0.2,5
+Sceptilesolar,Advokaiser,0.607,191
+Sceptilesolar,Akkrillic,0.543,151
+Sceptilesolar,Arti,0.565,170
+Sceptilesolar,azuarc,0.484,184
+Sceptilesolar,Baconus_Yum,0.567,157
+Sceptilesolar,banananor,0,1
+Sceptilesolar,banshiryuu,0.513,191
+Sceptilesolar,barreldragon88,0,2
+Sceptilesolar,ben10kenobi,0.889,9
+Sceptilesolar,Bluenugget64,0.599,177
+Sceptilesolar,bwburke94,0.5,8
+Sceptilesolar,cakophon,0.538,171
+Sceptilesolar,Chuck_Tingle,0.333,3
+Sceptilesolar,Collen,0.408,191
+Sceptilesolar,DM_DOKURO,0.556,18
+Sceptilesolar,dowolf,0.623,191
+Sceptilesolar,DragonImps,0.592,191
+Sceptilesolar,FL81,0.55,191
+Sceptilesolar,Flamander,0.527,188
+Sceptilesolar,GameBopAdv,0.461,191
+Sceptilesolar,greengravy294,0,1
+Sceptilesolar,handsomeboy2012,0.55,120
+Sceptilesolar,Haste_2,0.56,184
+Sceptilesolar,HBJDubs,0.465,157
+Sceptilesolar,Hbthebattle,0.569,65
+Sceptilesolar,-hotdogturtle--,0.267,15
+Sceptilesolar,Hydras,0.5,2
+Sceptilesolar,Janus5k,0.649,191
+Sceptilesolar,Johnbobb,0.667,3
+Sceptilesolar,JONALEON1,0.545,191
+Sceptilesolar,junk_funk,0.333,6
+Sceptilesolar,kaonashi1,0.586,186
+Sceptilesolar,KCF0107,0.482,191
+Sceptilesolar,KommunistKoala,0.636,11
+Sceptilesolar,LOLIAmAnAlt,0.5,2
+Sceptilesolar,Lopen,0.688,16
+Sceptilesolar,Lord Bob Bree,0.571,21
+Sceptilesolar,LordoftheMorons,1,3
+Sceptilesolar,loweffortmemes,0.665,191
+Sceptilesolar,Mac Arrowny,0.592,191
+Sceptilesolar,malyg,0.614,184
+Sceptilesolar,MargaretAnnMid,0.54,63
+Sceptilesolar,MartinFF7,1,3
+Sceptilesolar,MC_XD,0.628,191
+Sceptilesolar,MoonRunes,0.473,188
+Sceptilesolar,Mr Lasastryke,0.485,68
+Sceptilesolar,MrSmartGuy,0.8,5
+Sceptilesolar,MycroProcessor,0.529,191
+Sceptilesolar,MZero11,1,2
+Sceptilesolar,NFUN,0.564,165
+Sceptilesolar,NioraptH,0.5,2
+Sceptilesolar,Pablo Smith,0.5,2
+Sceptilesolar,paulg235,0.5,2
+Sceptilesolar,PIayer_0,0.561,189
+Sceptilesolar,pjbasis,0.667,3
+Sceptilesolar,Place,0.5,180
+Sceptilesolar,Plasman,0.778,9
+Sceptilesolar,Popcorn_Fairy,0.476,21
+Sceptilesolar,PrinceKaro,0.333,6
+Sceptilesolar,Prody Parrot,0.524,189
+Sceptilesolar,PSI_NESS,0.414,191
+Sceptilesolar,pyresword,0.589,158
+Sceptilesolar,Raetsel_Lapin,0.476,191
+Sceptilesolar,rwlh,0.518,191
+Sceptilesolar,RySenkari,0.6,15
+Sheep007,_Harmonica_,0,0
+Sheep007,_LouieG_,0,0
+Sheep007,Advokaiser,0,1
+Sheep007,Akkrillic,1,1
+Sheep007,Arti,0,1
+Sheep007,azuarc,0,1
+Sheep007,Baconus_Yum,1,1
+Sheep007,banananor,0,0
+Sheep007,banshiryuu,0,1
+Sheep007,barreldragon88,0,0
+Sheep007,ben10kenobi,0,0
+Sheep007,Bluenugget64,0,0
+Sheep007,bwburke94,0,0
+Sheep007,cakophon,1,1
+Sheep007,Chuck_Tingle,0,0
+Sheep007,Collen,1,1
+Sheep007,DM_DOKURO,0,0
+Sheep007,dowolf,0,1
+Sheep007,DragonImps,1,1
+Sheep007,FL81,1,1
+Sheep007,Flamander,1,1
+Sheep007,GameBopAdv,1,1
+Sheep007,greengravy294,0,0
+Sheep007,handsomeboy2012,0,0
+Sheep007,Haste_2,0,1
+Sheep007,HBJDubs,0,1
+Sheep007,Hbthebattle,0,0
+Sheep007,-hotdogturtle--,0,0
+Sheep007,Hydras,0,0
+Sheep007,Janus5k,0,1
+Sheep007,Johnbobb,0,0
+Sheep007,JONALEON1,1,1
+Sheep007,junk_funk,0,0
+Sheep007,kaonashi1,1,1
+Sheep007,KCF0107,0,1
+Sheep007,KommunistKoala,1,1
+Sheep007,LOLIAmAnAlt,0,0
+Sheep007,Lopen,0,0
+Sheep007,Lord Bob Bree,0,0
+Sheep007,LordoftheMorons,0,0
+Sheep007,loweffortmemes,0,1
+Sheep007,Mac Arrowny,0,1
+Sheep007,malyg,0,1
+Sheep007,MargaretAnnMid,0,0
+Sheep007,MartinFF7,0,0
+Sheep007,MC_XD,0,1
+Sheep007,MoonRunes,1,1
+Sheep007,Mr Lasastryke,0,0
+Sheep007,MrSmartGuy,0,0
+Sheep007,MycroProcessor,1,1
+Sheep007,MZero11,0,0
+Sheep007,NFUN,1,1
+Sheep007,NioraptH,0,0
+Sheep007,Pablo Smith,0,0
+Sheep007,paulg235,0,0
+Sheep007,PIayer_0,1,1
+Sheep007,pjbasis,0,0
+Sheep007,Place,1,1
+Sheep007,Plasman,0,0
+Sheep007,Popcorn_Fairy,0,0
+Sheep007,PrinceKaro,0,0
+Sheep007,Prody Parrot,0,1
+Sheep007,PSI_NESS,1,1
+Sheep007,pyresword,0,1
+Sheep007,Raetsel_Lapin,0,1
+Sheep007,rwlh,1,1
+Sheep007,RySenkari,0,0
+Sheep007,Sceptilesolar,0,1
+Shonen_Bat,_Harmonica_,0.417,12
+Shonen_Bat,_LouieG_,0.667,3
+Shonen_Bat,Advokaiser,0.608,51
+Shonen_Bat,Akkrillic,0.524,42
+Shonen_Bat,Arti,0.449,49
+Shonen_Bat,azuarc,0.551,49
+Shonen_Bat,Baconus_Yum,0.429,42
+Shonen_Bat,banananor,0,0
+Shonen_Bat,banshiryuu,0.451,51
+Shonen_Bat,barreldragon88,1,1
+Shonen_Bat,ben10kenobi,0.333,3
+Shonen_Bat,Bluenugget64,0.455,44
+Shonen_Bat,bwburke94,0.5,8
+Shonen_Bat,cakophon,0.569,51
+Shonen_Bat,Chuck_Tingle,0,3
+Shonen_Bat,Collen,0.471,51
+Shonen_Bat,DM_DOKURO,0.533,15
+Shonen_Bat,dowolf,0.431,51
+Shonen_Bat,DragonImps,0.471,51
+Shonen_Bat,FL81,0.549,51
+Shonen_Bat,Flamander,0.529,51
+Shonen_Bat,GameBopAdv,0.51,51
+Shonen_Bat,greengravy294,0,0
+Shonen_Bat,handsomeboy2012,0.5,32
+Shonen_Bat,Haste_2,0.532,47
+Shonen_Bat,HBJDubs,0.5,46
+Shonen_Bat,Hbthebattle,0.586,29
+Shonen_Bat,-hotdogturtle--,0.417,12
+Shonen_Bat,Hydras,0,0
+Shonen_Bat,Janus5k,0.549,51
+Shonen_Bat,Johnbobb,1,3
+Shonen_Bat,JONALEON1,0.471,51
+Shonen_Bat,junk_funk,0,0
+Shonen_Bat,kaonashi1,0.412,51
+Shonen_Bat,KCF0107,0.333,51
+Shonen_Bat,KommunistKoala,1,3
+Shonen_Bat,LOLIAmAnAlt,0,0
+Shonen_Bat,Lopen,0.5,4
+Shonen_Bat,Lord Bob Bree,0.611,18
+Shonen_Bat,LordoftheMorons,1,3
+Shonen_Bat,loweffortmemes,0.471,51
+Shonen_Bat,Mac Arrowny,0.569,51
+Shonen_Bat,malyg,0.49,51
+Shonen_Bat,MargaretAnnMid,0.458,24
+Shonen_Bat,MartinFF7,0,0
+Shonen_Bat,MC_XD,0.529,51
+Shonen_Bat,MoonRunes,0.5,48
+Shonen_Bat,Mr Lasastryke,0.538,26
+Shonen_Bat,MrSmartGuy,0,0
+Shonen_Bat,MycroProcessor,0.51,51
+Shonen_Bat,MZero11,0,0
+Shonen_Bat,NFUN,0.585,41
+Shonen_Bat,NioraptH,0,0
+Shonen_Bat,Pablo Smith,0,0
+Shonen_Bat,paulg235,0,2
+Shonen_Bat,PIayer_0,0.612,49
+Shonen_Bat,pjbasis,0.333,3
+Shonen_Bat,Place,0.458,48
+Shonen_Bat,Plasman,0.667,3
+Shonen_Bat,Popcorn_Fairy,0.3,10
+Shonen_Bat,PrinceKaro,0.667,3
+Shonen_Bat,Prody Parrot,0.529,51
+Shonen_Bat,PSI_NESS,0.431,51
+Shonen_Bat,pyresword,0.383,47
+Shonen_Bat,Raetsel_Lapin,0.588,51
+Shonen_Bat,rwlh,0.49,51
+Shonen_Bat,RySenkari,0.5,12
+Shonen_Bat,Sceptilesolar,0.529,51
+Shonen_Bat,Sheep007,0,0
+slykirby,_Harmonica_,0.333,12
+slykirby,_LouieG_,1,2
+slykirby,Advokaiser,0.56,168
+slykirby,Akkrillic,0.463,134
+slykirby,Arti,0.516,153
+slykirby,azuarc,0.478,161
+slykirby,Baconus_Yum,0.517,145
+slykirby,banananor,1,1
+slykirby,banshiryuu,0.452,168
+slykirby,barreldragon88,0,1
+slykirby,ben10kenobi,0.444,9
+slykirby,Bluenugget64,0.541,159
+slykirby,bwburke94,0.4,5
+slykirby,cakophon,0.493,148
+slykirby,Chuck_Tingle,0,0
+slykirby,Collen,0.458,168
+slykirby,DM_DOKURO,0.5,12
+slykirby,dowolf,0.482,168
+slykirby,DragonImps,0.518,168
+slykirby,FL81,0.512,168
+slykirby,Flamander,0.485,165
+slykirby,GameBopAdv,0.452,168
+slykirby,greengravy294,1,1
+slykirby,handsomeboy2012,0.457,105
+slykirby,Haste_2,0.484,161
+slykirby,HBJDubs,0.515,134
+slykirby,Hbthebattle,0.618,55
+slykirby,-hotdogturtle--,0.5,12
+slykirby,Hydras,0,0
+slykirby,Janus5k,0.577,168
+slykirby,Johnbobb,0,0
+slykirby,JONALEON1,0.5,168
+slykirby,junk_funk,0.667,6
+slykirby,kaonashi1,0.423,163
+slykirby,KCF0107,0.524,168
+slykirby,KommunistKoala,1,9
+slykirby,LOLIAmAnAlt,1,2
+slykirby,Lopen,0.5,14
+slykirby,Lord Bob Bree,0.5,18
+slykirby,LordoftheMorons,1,3
+slykirby,loweffortmemes,0.458,168
+slykirby,Mac Arrowny,0.583,168
+slykirby,malyg,0.579,164
+slykirby,MargaretAnnMid,0.404,57
+slykirby,MartinFF7,1,3
+slykirby,MC_XD,0.583,168
+slykirby,MoonRunes,0.43,165
+slykirby,Mr Lasastryke,0.518,56
+slykirby,MrSmartGuy,0.4,5
+slykirby,MycroProcessor,0.44,168
+slykirby,MZero11,1,2
+slykirby,NFUN,0.547,148
+slykirby,NioraptH,0,2
+slykirby,Pablo Smith,0.5,2
+slykirby,paulg235,0.5,2
+slykirby,PIayer_0,0.536,168
+slykirby,pjbasis,0,0
+slykirby,Place,0.42,157
+slykirby,Plasman,0.333,6
+slykirby,Popcorn_Fairy,0.556,18
+slykirby,PrinceKaro,0.5,4
+slykirby,Prody Parrot,0.566,166
+slykirby,PSI_NESS,0.494,168
+slykirby,pyresword,0.489,141
+slykirby,Raetsel_Lapin,0.464,168
+slykirby,rwlh,0.542,168
+slykirby,RySenkari,0.583,12
+slykirby,Sceptilesolar,0.53,168
+slykirby,Sheep007,1,1
+slykirby,Shonen_Bat,0.667,42
+Snake5555555555,_Harmonica_,0.667,15
+Snake5555555555,_LouieG_,0.2,5
+Snake5555555555,Advokaiser,0.5,64
+Snake5555555555,Akkrillic,0.491,55
+Snake5555555555,Arti,0.569,58
+Snake5555555555,azuarc,0.597,62
+Snake5555555555,Baconus_Yum,0.5,60
+Snake5555555555,banananor,0,0
+Snake5555555555,banshiryuu,0.469,64
+Snake5555555555,barreldragon88,0,0
+Snake5555555555,ben10kenobi,0.333,6
+Snake5555555555,Bluenugget64,0.475,61
+Snake5555555555,bwburke94,0.375,8
+Snake5555555555,cakophon,0.483,58
+Snake5555555555,Chuck_Tingle,0.667,3
+Snake5555555555,Collen,0.531,64
+Snake5555555555,DM_DOKURO,0.467,15
+Snake5555555555,dowolf,0.516,64
+Snake5555555555,DragonImps,0.438,64
+Snake5555555555,FL81,0.484,64
+Snake5555555555,Flamander,0.5,64
+Snake5555555555,GameBopAdv,0.563,64
+Snake5555555555,greengravy294,0,0
+Snake5555555555,handsomeboy2012,0.545,44
+Snake5555555555,Haste_2,0.491,57
+Snake5555555555,HBJDubs,0.636,55
+Snake5555555555,Hbthebattle,0.419,31
+Snake5555555555,-hotdogturtle--,0.333,15
+Snake5555555555,Hydras,0,0
+Snake5555555555,Janus5k,0.469,64
+Snake5555555555,Johnbobb,0.333,3
+Snake5555555555,JONALEON1,0.547,64
+Snake5555555555,junk_funk,0,0
+Snake5555555555,kaonashi1,0.59,61
+Snake5555555555,KCF0107,0.516,64
+Snake5555555555,KommunistKoala,0,3
+Snake5555555555,LOLIAmAnAlt,0,0
+Snake5555555555,Lopen,0,0
+Snake5555555555,Lord Bob Bree,0.524,21
+Snake5555555555,LordoftheMorons,0,3
+Snake5555555555,loweffortmemes,0.641,64
+Snake5555555555,Mac Arrowny,0.5,64
+Snake5555555555,malyg,0.59,61
+Snake5555555555,MargaretAnnMid,0.561,41
+Snake5555555555,MartinFF7,0,0
+Snake5555555555,MC_XD,0.563,64
+Snake5555555555,MoonRunes,0.443,61
+Snake5555555555,Mr Lasastryke,0.371,35
+Snake5555555555,MrSmartGuy,0,0
+Snake5555555555,MycroProcessor,0.563,64
+Snake5555555555,MZero11,0,0
+Snake5555555555,NFUN,0.453,53
+Snake5555555555,NioraptH,0,0
+Snake5555555555,Pablo Smith,0,0
+Snake5555555555,paulg235,0,0
+Snake5555555555,PIayer_0,0.609,64
+Snake5555555555,pjbasis,0.333,3
+Snake5555555555,Place,0.492,61
+Snake5555555555,Plasman,0,0
+Snake5555555555,Popcorn_Fairy,0.563,16
+Snake5555555555,PrinceKaro,0.6,5
+Snake5555555555,Prody Parrot,0.453,64
+Snake5555555555,PSI_NESS,0.594,64
+Snake5555555555,pyresword,0.603,58
+Snake5555555555,Raetsel_Lapin,0.547,64
+Snake5555555555,rwlh,0.641,64
+Snake5555555555,RySenkari,0.533,15
+Snake5555555555,Sceptilesolar,0.609,64
+Snake5555555555,Sheep007,0,0
+Snake5555555555,Shonen_Bat,0.448,29
+Snake5555555555,slykirby,0.424,59
+SuperNiceDog,_Harmonica_,0.533,15
+SuperNiceDog,_LouieG_,0.333,3
+SuperNiceDog,Advokaiser,0.594,96
+SuperNiceDog,Akkrillic,0.542,72
+SuperNiceDog,Arti,0.625,80
+SuperNiceDog,azuarc,0.549,91
+SuperNiceDog,Baconus_Yum,0.518,83
+SuperNiceDog,banananor,0,0
+SuperNiceDog,banshiryuu,0.448,96
+SuperNiceDog,barreldragon88,1,2
+SuperNiceDog,ben10kenobi,0.667,6
+SuperNiceDog,Bluenugget64,0.478,90
+SuperNiceDog,bwburke94,0.5,8
+SuperNiceDog,cakophon,0.376,85
+SuperNiceDog,Chuck_Tingle,0.333,3
+SuperNiceDog,Collen,0.417,96
+SuperNiceDog,DM_DOKURO,0.5,10
+SuperNiceDog,dowolf,0.531,96
+SuperNiceDog,DragonImps,0.49,96
+SuperNiceDog,FL81,0.469,96
+SuperNiceDog,Flamander,0.49,96
+SuperNiceDog,GameBopAdv,0.396,96
+SuperNiceDog,greengravy294,0,0
+SuperNiceDog,handsomeboy2012,0.515,68
+SuperNiceDog,Haste_2,0.584,89
+SuperNiceDog,HBJDubs,0.583,84
+SuperNiceDog,Hbthebattle,0.525,40
+SuperNiceDog,-hotdogturtle--,0.133,15
+SuperNiceDog,Hydras,1,2
+SuperNiceDog,Janus5k,0.625,96
+SuperNiceDog,Johnbobb,0.667,3
+SuperNiceDog,JONALEON1,0.5,96
+SuperNiceDog,junk_funk,0,0
+SuperNiceDog,kaonashi1,0.452,93
+SuperNiceDog,KCF0107,0.417,96
+SuperNiceDog,KommunistKoala,0.6,5
+SuperNiceDog,LOLIAmAnAlt,0,2
+SuperNiceDog,Lopen,0.778,9
+SuperNiceDog,Lord Bob Bree,0.632,19
+SuperNiceDog,LordoftheMorons,0.667,3
+SuperNiceDog,loweffortmemes,0.469,96
+SuperNiceDog,Mac Arrowny,0.531,96
+SuperNiceDog,malyg,0.602,93
+SuperNiceDog,MargaretAnnMid,0.553,38
+SuperNiceDog,MartinFF7,1,3
+SuperNiceDog,MC_XD,0.625,96
+SuperNiceDog,MoonRunes,0.419,93
+SuperNiceDog,Mr Lasastryke,0.417,36
+SuperNiceDog,MrSmartGuy,0,0
+SuperNiceDog,MycroProcessor,0.469,96
+SuperNiceDog,MZero11,0,0
+SuperNiceDog,NFUN,0.556,81
+SuperNiceDog,NioraptH,1,2
+SuperNiceDog,Pablo Smith,0,0
+SuperNiceDog,paulg235,0,0
+SuperNiceDog,PIayer_0,0.67,94
+SuperNiceDog,pjbasis,0.667,3
+SuperNiceDog,Place,0.299,87
+SuperNiceDog,Plasman,0.333,6
+SuperNiceDog,Popcorn_Fairy,0.45,20
+SuperNiceDog,PrinceKaro,0.6,5
+SuperNiceDog,Prody Parrot,0.511,94
+SuperNiceDog,PSI_NESS,0.521,96
+SuperNiceDog,pyresword,0.446,83
+SuperNiceDog,Raetsel_Lapin,0.51,96
+SuperNiceDog,rwlh,0.521,96
+SuperNiceDog,RySenkari,0.6,15
+SuperNiceDog,Sceptilesolar,0.531,96
+SuperNiceDog,Sheep007,0,0
+SuperNiceDog,Shonen_Bat,0.625,32
+SuperNiceDog,slykirby,0.494,83
+SuperNiceDog,Snake5555555555,0.591,44
+tazzyboyishere,_Harmonica_,0.5,6
+tazzyboyishere,_LouieG_,0.333,3
+tazzyboyishere,Advokaiser,0.5,6
+tazzyboyishere,Akkrillic,0.333,3
+tazzyboyishere,Arti,1,6
+tazzyboyishere,azuarc,0.5,6
+tazzyboyishere,Baconus_Yum,0.5,6
+tazzyboyishere,banananor,0,0
+tazzyboyishere,banshiryuu,0.167,6
+tazzyboyishere,barreldragon88,0,0
+tazzyboyishere,ben10kenobi,0,0
+tazzyboyishere,Bluenugget64,0.5,6
+tazzyboyishere,bwburke94,0.333,3
+tazzyboyishere,cakophon,0.5,6
+tazzyboyishere,Chuck_Tingle,0.333,3
+tazzyboyishere,Collen,0.5,6
+tazzyboyishere,DM_DOKURO,0.167,6
+tazzyboyishere,dowolf,0.333,6
+tazzyboyishere,DragonImps,0.333,6
+tazzyboyishere,FL81,0.333,6
+tazzyboyishere,Flamander,0.5,6
+tazzyboyishere,GameBopAdv,0.667,6
+tazzyboyishere,greengravy294,0,0
+tazzyboyishere,handsomeboy2012,0.5,2
+tazzyboyishere,Haste_2,0.167,6
+tazzyboyishere,HBJDubs,0.667,6
+tazzyboyishere,Hbthebattle,0.5,6
+tazzyboyishere,-hotdogturtle--,0.667,6
+tazzyboyishere,Hydras,0,0
+tazzyboyishere,Janus5k,0.333,6
+tazzyboyishere,Johnbobb,0.667,3
+tazzyboyishere,JONALEON1,0.167,6
+tazzyboyishere,junk_funk,0,0
+tazzyboyishere,kaonashi1,0.333,6
+tazzyboyishere,KCF0107,0.5,6
+tazzyboyishere,KommunistKoala,0,0
+tazzyboyishere,LOLIAmAnAlt,0,0
+tazzyboyishere,Lopen,0,0
+tazzyboyishere,Lord Bob Bree,0.5,6
+tazzyboyishere,LordoftheMorons,0,0
+tazzyboyishere,loweffortmemes,0.667,6
+tazzyboyishere,Mac Arrowny,0.5,6
+tazzyboyishere,malyg,0.667,6
+tazzyboyishere,MargaretAnnMid,0.333,6
+tazzyboyishere,MartinFF7,0,0
+tazzyboyishere,MC_XD,0.333,6
+tazzyboyishere,MoonRunes,0,3
+tazzyboyishere,Mr Lasastryke,0.333,3
+tazzyboyishere,MrSmartGuy,0,0
+tazzyboyishere,MycroProcessor,0.333,6
+tazzyboyishere,MZero11,0,0
+tazzyboyishere,NFUN,0,5
+tazzyboyishere,NioraptH,0,0
+tazzyboyishere,Pablo Smith,0,0
+tazzyboyishere,paulg235,0,0
+tazzyboyishere,PIayer_0,0.5,6
+tazzyboyishere,pjbasis,0,3
+tazzyboyishere,Place,0.5,6
+tazzyboyishere,Plasman,0,0
+tazzyboyishere,Popcorn_Fairy,0.5,6
+tazzyboyishere,PrinceKaro,0,0
+tazzyboyishere,Prody Parrot,0.5,6
+tazzyboyishere,PSI_NESS,0.833,6
+tazzyboyishere,pyresword,0.5,6
+tazzyboyishere,Raetsel_Lapin,0.167,6
+tazzyboyishere,rwlh,0.5,6
+tazzyboyishere,RySenkari,0.667,6
+tazzyboyishere,Sceptilesolar,0.5,6
+tazzyboyishere,Sheep007,0,0
+tazzyboyishere,Shonen_Bat,0.5,6
+tazzyboyishere,slykirby,0.667,3
+tazzyboyishere,Snake5555555555,0.667,6
+tazzyboyishere,SuperNiceDog,0.5,6
+Team Rocket Elite,_Harmonica_,0.571,14
+Team Rocket Elite,_LouieG_,0.5,4
+Team Rocket Elite,Advokaiser,0.582,182
+Team Rocket Elite,Akkrillic,0.441,143
+Team Rocket Elite,Arti,0.549,162
+Team Rocket Elite,azuarc,0.503,175
+Team Rocket Elite,Baconus_Yum,0.513,150
+Team Rocket Elite,banananor,0,1
+Team Rocket Elite,banshiryuu,0.456,182
+Team Rocket Elite,barreldragon88,0.5,2
+Team Rocket Elite,ben10kenobi,0.778,9
+Team Rocket Elite,Bluenugget64,0.524,170
+Team Rocket Elite,bwburke94,0.429,7
+Team Rocket Elite,cakophon,0.463,162
+Team Rocket Elite,Chuck_Tingle,0,2
+Team Rocket Elite,Collen,0.335,182
+Team Rocket Elite,DM_DOKURO,0.467,15
+Team Rocket Elite,dowolf,0.533,182
+Team Rocket Elite,DragonImps,0.511,182
+Team Rocket Elite,FL81,0.489,182
+Team Rocket Elite,Flamander,0.408,179
+Team Rocket Elite,GameBopAdv,0.302,182
+Team Rocket Elite,greengravy294,1,1
+Team Rocket Elite,handsomeboy2012,0.547,117
+Team Rocket Elite,Haste_2,0.583,175
+Team Rocket Elite,HBJDubs,0.523,149
+Team Rocket Elite,Hbthebattle,0.617,60
+Team Rocket Elite,-hotdogturtle--,0.214,14
+Team Rocket Elite,Hydras,0.5,2
+Team Rocket Elite,Janus5k,0.577,182
+Team Rocket Elite,Johnbobb,1,2
+Team Rocket Elite,JONALEON1,0.434,182
+Team Rocket Elite,junk_funk,0.5,6
+Team Rocket Elite,kaonashi1,0.463,177
+Team Rocket Elite,KCF0107,0.407,182
+Team Rocket Elite,KommunistKoala,0.909,11
+Team Rocket Elite,LOLIAmAnAlt,0,0
+Team Rocket Elite,Lopen,0.625,16
+Team Rocket Elite,Lord Bob Bree,0.632,19
+Team Rocket Elite,LordoftheMorons,0.667,3
+Team Rocket Elite,loweffortmemes,0.582,182
+Team Rocket Elite,Mac Arrowny,0.533,182
+Team Rocket Elite,malyg,0.543,175
+Team Rocket Elite,MargaretAnnMid,0.633,60
+Team Rocket Elite,MartinFF7,1,3
+Team Rocket Elite,MC_XD,0.571,182
+Team Rocket Elite,MoonRunes,0.458,179
+Team Rocket Elite,Mr Lasastryke,0.476,63
+Team Rocket Elite,MrSmartGuy,0,5
+Team Rocket Elite,MycroProcessor,0.401,182
+Team Rocket Elite,MZero11,1,2
+Team Rocket Elite,NFUN,0.522,159
+Team Rocket Elite,NioraptH,0,0
+Team Rocket Elite,Pablo Smith,0.5,2
+Team Rocket Elite,paulg235,0.5,2
+Team Rocket Elite,PIayer_0,0.641,181
+Team Rocket Elite,pjbasis,0.5,2
+Team Rocket Elite,Place,0.368,171
+Team Rocket Elite,Plasman,0.75,8
+Team Rocket Elite,Popcorn_Fairy,0.368,19
+Team Rocket Elite,PrinceKaro,0.667,6
+Team Rocket Elite,Prody Parrot,0.489,180
+Team Rocket Elite,PSI_NESS,0.401,182
+Team Rocket Elite,pyresword,0.536,153
+Team Rocket Elite,Raetsel_Lapin,0.44,182
+Team Rocket Elite,rwlh,0.462,182
+Team Rocket Elite,RySenkari,0.714,14
+Team Rocket Elite,Sceptilesolar,0.632,182
+Team Rocket Elite,Sheep007,1,1
+Team Rocket Elite,Shonen_Bat,0.533,45
+Team Rocket Elite,slykirby,0.599,162
+Team Rocket Elite,Snake5555555555,0.516,62
+Team Rocket Elite,SuperNiceDog,0.589,90
+Team Rocket Elite,tazzyboyishere,0.6,5
+tennisboy213,_Harmonica_,0.667,15
+tennisboy213,_LouieG_,0.2,5
+tennisboy213,Advokaiser,0.497,191
+tennisboy213,Akkrillic,0.457,151
+tennisboy213,Arti,0.529,170
+tennisboy213,azuarc,0.609,184
+tennisboy213,Baconus_Yum,0.51,157
+tennisboy213,banananor,0,1
+tennisboy213,banshiryuu,0.351,191
+tennisboy213,barreldragon88,1,2
+tennisboy213,ben10kenobi,0.333,9
+tennisboy213,Bluenugget64,0.407,177
+tennisboy213,bwburke94,0.375,8
+tennisboy213,cakophon,0.398,171
+tennisboy213,Chuck_Tingle,0.333,3
+tennisboy213,Collen,0.424,191
+tennisboy213,DM_DOKURO,0.389,18
+tennisboy213,dowolf,0.513,191
+tennisboy213,DragonImps,0.555,191
+tennisboy213,FL81,0.503,191
+tennisboy213,Flamander,0.388,188
+tennisboy213,GameBopAdv,0.382,191
+tennisboy213,greengravy294,1,1
+tennisboy213,handsomeboy2012,0.533,120
+tennisboy213,Haste_2,0.397,184
+tennisboy213,HBJDubs,0.573,157
+tennisboy213,Hbthebattle,0.631,65
+tennisboy213,-hotdogturtle--,0.6,15
+tennisboy213,Hydras,0,2
+tennisboy213,Janus5k,0.497,191
+tennisboy213,Johnbobb,0.667,3
+tennisboy213,JONALEON1,0.361,191
+tennisboy213,junk_funk,0.167,6
+tennisboy213,kaonashi1,0.382,186
+tennisboy213,KCF0107,0.487,191
+tennisboy213,KommunistKoala,0.818,11
+tennisboy213,LOLIAmAnAlt,0.5,2
+tennisboy213,Lopen,0.375,16
+tennisboy213,Lord Bob Bree,0.619,21
+tennisboy213,LordoftheMorons,1,3
+tennisboy213,loweffortmemes,0.461,191
+tennisboy213,Mac Arrowny,0.482,191
+tennisboy213,malyg,0.549,184
+tennisboy213,MargaretAnnMid,0.556,63
+tennisboy213,MartinFF7,0.333,3
+tennisboy213,MC_XD,0.518,191
+tennisboy213,MoonRunes,0.362,188
+tennisboy213,Mr Lasastryke,0.338,68
+tennisboy213,MrSmartGuy,1,5
+tennisboy213,MycroProcessor,0.377,191
+tennisboy213,MZero11,0.5,2
+tennisboy213,NFUN,0.485,165
+tennisboy213,NioraptH,0.5,2
+tennisboy213,Pablo Smith,0,2
+tennisboy213,paulg235,0.5,2
+tennisboy213,PIayer_0,0.593,189
+tennisboy213,pjbasis,0,3
+tennisboy213,Place,0.406,180
+tennisboy213,Plasman,0.444,9
+tennisboy213,Popcorn_Fairy,0.381,21
+tennisboy213,PrinceKaro,0.5,6
+tennisboy213,Prody Parrot,0.429,189
+tennisboy213,PSI_NESS,0.534,191
+tennisboy213,pyresword,0.589,158
+tennisboy213,Raetsel_Lapin,0.44,191
+tennisboy213,rwlh,0.545,191
+tennisboy213,RySenkari,0.533,15
+tennisboy213,Sceptilesolar,0.492,191
+tennisboy213,Sheep007,1,1
+tennisboy213,Shonen_Bat,0.51,51
+tennisboy213,slykirby,0.524,168
+tennisboy213,Snake5555555555,0.469,64
+tennisboy213,SuperNiceDog,0.448,96
+tennisboy213,tazzyboyishere,0.833,6
+tennisboy213,Team Rocket Elite,0.549,182
+th3l3fty,_Harmonica_,0.333,15
+th3l3fty,_LouieG_,0.4,5
+th3l3fty,Advokaiser,0.592,191
+th3l3fty,Akkrillic,0.596,151
+th3l3fty,Arti,0.488,170
+th3l3fty,azuarc,0.511,184
+th3l3fty,Baconus_Yum,0.522,157
+th3l3fty,banananor,1,1
+th3l3fty,banshiryuu,0.602,191
+th3l3fty,barreldragon88,0,2
+th3l3fty,ben10kenobi,0.556,9
+th3l3fty,Bluenugget64,0.559,177
+th3l3fty,bwburke94,0.625,8
+th3l3fty,cakophon,0.561,171
+th3l3fty,Chuck_Tingle,1,3
+th3l3fty,Collen,0.55,191
+th3l3fty,DM_DOKURO,0.611,18
+th3l3fty,dowolf,0.534,191
+th3l3fty,DragonImps,0.419,191
+th3l3fty,FL81,0.565,191
+th3l3fty,Flamander,0.543,188
+th3l3fty,GameBopAdv,0.581,191
+th3l3fty,greengravy294,1,1
+th3l3fty,handsomeboy2012,0.633,120
+th3l3fty,Haste_2,0.587,184
+th3l3fty,HBJDubs,0.478,157
+th3l3fty,Hbthebattle,0.446,65
+th3l3fty,-hotdogturtle--,0.6,15
+th3l3fty,Hydras,0.5,2
+th3l3fty,Janus5k,0.55,191
+th3l3fty,Johnbobb,0,3
+th3l3fty,JONALEON1,0.529,191
+th3l3fty,junk_funk,0.5,6
+th3l3fty,kaonashi1,0.548,186
+th3l3fty,KCF0107,0.497,191
+th3l3fty,KommunistKoala,0.273,11
+th3l3fty,LOLIAmAnAlt,0.5,2
+th3l3fty,Lopen,0.5,16
+th3l3fty,Lord Bob Bree,0.429,21
+th3l3fty,LordoftheMorons,0.333,3
+th3l3fty,loweffortmemes,0.586,191
+th3l3fty,Mac Arrowny,0.576,191
+th3l3fty,malyg,0.424,184
+th3l3fty,MargaretAnnMid,0.571,63
+th3l3fty,MartinFF7,0.333,3
+th3l3fty,MC_XD,0.529,191
+th3l3fty,MoonRunes,0.58,188
+th3l3fty,Mr Lasastryke,0.529,68
+th3l3fty,MrSmartGuy,0.2,5
+th3l3fty,MycroProcessor,0.524,191
+th3l3fty,MZero11,0,2
+th3l3fty,NFUN,0.618,165
+th3l3fty,NioraptH,0.5,2
+th3l3fty,Pablo Smith,0.5,2
+th3l3fty,paulg235,0.5,2
+th3l3fty,PIayer_0,0.561,189
+th3l3fty,pjbasis,0.667,3
+th3l3fty,Place,0.544,180
+th3l3fty,Plasman,0.333,9
+th3l3fty,Popcorn_Fairy,0.476,21
+th3l3fty,PrinceKaro,0.5,6
+th3l3fty,Prody Parrot,0.598,189
+th3l3fty,PSI_NESS,0.524,191
+th3l3fty,pyresword,0.513,158
+th3l3fty,Raetsel_Lapin,0.534,191
+th3l3fty,rwlh,0.482,191
+th3l3fty,RySenkari,0.4,15
+th3l3fty,Sceptilesolar,0.534,191
+th3l3fty,Sheep007,1,1
+th3l3fty,Shonen_Bat,0.51,51
+th3l3fty,slykirby,0.464,168
+th3l3fty,Snake5555555555,0.594,64
+th3l3fty,SuperNiceDog,0.5,96
+th3l3fty,tazzyboyishere,0.333,6
+th3l3fty,Team Rocket Elite,0.582,182
+th3l3fty,tennisboy213,0.445,191
+TheArkOfTurus,_Harmonica_,0.667,15
+TheArkOfTurus,_LouieG_,0.6,5
+TheArkOfTurus,Advokaiser,0.565,191
+TheArkOfTurus,Akkrillic,0.55,151
+TheArkOfTurus,Arti,0.612,170
+TheArkOfTurus,azuarc,0.582,184
+TheArkOfTurus,Baconus_Yum,0.599,157
+TheArkOfTurus,banananor,0,1
+TheArkOfTurus,banshiryuu,0.482,191
+TheArkOfTurus,barreldragon88,0.5,2
+TheArkOfTurus,ben10kenobi,0.556,9
+TheArkOfTurus,Bluenugget64,0.537,177
+TheArkOfTurus,bwburke94,0.25,8
+TheArkOfTurus,cakophon,0.48,171
+TheArkOfTurus,Chuck_Tingle,1,3
+TheArkOfTurus,Collen,0.419,191
+TheArkOfTurus,DM_DOKURO,0.556,18
+TheArkOfTurus,dowolf,0.581,191
+TheArkOfTurus,DragonImps,0.581,191
+TheArkOfTurus,FL81,0.613,191
+TheArkOfTurus,Flamander,0.484,188
+TheArkOfTurus,GameBopAdv,0.45,191
+TheArkOfTurus,greengravy294,0,1
+TheArkOfTurus,handsomeboy2012,0.558,120
+TheArkOfTurus,Haste_2,0.549,184
+TheArkOfTurus,HBJDubs,0.439,157
+TheArkOfTurus,Hbthebattle,0.477,65
+TheArkOfTurus,-hotdogturtle--,0.467,15
+TheArkOfTurus,Hydras,0.5,2
+TheArkOfTurus,Janus5k,0.576,191
+TheArkOfTurus,Johnbobb,0,3
+TheArkOfTurus,JONALEON1,0.503,191
+TheArkOfTurus,junk_funk,0,6
+TheArkOfTurus,kaonashi1,0.565,186
+TheArkOfTurus,KCF0107,0.471,191
+TheArkOfTurus,KommunistKoala,0.545,11
+TheArkOfTurus,LOLIAmAnAlt,1,2
+TheArkOfTurus,Lopen,0.625,16
+TheArkOfTurus,Lord Bob Bree,0.571,21
+TheArkOfTurus,LordoftheMorons,0.333,3
+TheArkOfTurus,loweffortmemes,0.592,191
+TheArkOfTurus,Mac Arrowny,0.613,191
+TheArkOfTurus,malyg,0.511,184
+TheArkOfTurus,MargaretAnnMid,0.587,63
+TheArkOfTurus,MartinFF7,0.333,3
+TheArkOfTurus,MC_XD,0.555,191
+TheArkOfTurus,MoonRunes,0.495,188
+TheArkOfTurus,Mr Lasastryke,0.456,68
+TheArkOfTurus,MrSmartGuy,0.2,5
+TheArkOfTurus,MycroProcessor,0.497,191
+TheArkOfTurus,MZero11,0.5,2
+TheArkOfTurus,NFUN,0.57,165
+TheArkOfTurus,NioraptH,0,2
+TheArkOfTurus,Pablo Smith,0,2
+TheArkOfTurus,paulg235,0.5,2
+TheArkOfTurus,PIayer_0,0.524,189
+TheArkOfTurus,pjbasis,0.667,3
+TheArkOfTurus,Place,0.45,180
+TheArkOfTurus,Plasman,0.667,9
+TheArkOfTurus,Popcorn_Fairy,0.762,21
+TheArkOfTurus,PrinceKaro,0.5,6
+TheArkOfTurus,Prody Parrot,0.54,189
+TheArkOfTurus,PSI_NESS,0.455,191
+TheArkOfTurus,pyresword,0.589,158
+TheArkOfTurus,Raetsel_Lapin,0.508,191
+TheArkOfTurus,rwlh,0.529,191
+TheArkOfTurus,RySenkari,0.333,15
+TheArkOfTurus,Sceptilesolar,0.592,191
+TheArkOfTurus,Sheep007,0,1
+TheArkOfTurus,Shonen_Bat,0.51,51
+TheArkOfTurus,slykirby,0.53,168
+TheArkOfTurus,Snake5555555555,0.609,64
+TheArkOfTurus,SuperNiceDog,0.521,96
+TheArkOfTurus,tazzyboyishere,0.5,6
+TheArkOfTurus,Team Rocket Elite,0.527,182
+TheArkOfTurus,tennisboy213,0.524,191
+TheArkOfTurus,th3l3fty,0.524,191
+Tramalfadorian,_Harmonica_,0,3
+Tramalfadorian,_LouieG_,0.333,3
+Tramalfadorian,Advokaiser,0.667,3
+Tramalfadorian,Akkrillic,1,3
+Tramalfadorian,Arti,0.333,3
+Tramalfadorian,azuarc,0.667,3
+Tramalfadorian,Baconus_Yum,1,3
+Tramalfadorian,banananor,0,0
+Tramalfadorian,banshiryuu,0.667,3
+Tramalfadorian,barreldragon88,0,0
+Tramalfadorian,ben10kenobi,0,0
+Tramalfadorian,Bluenugget64,1,3
+Tramalfadorian,bwburke94,1,3
+Tramalfadorian,cakophon,0.333,3
+Tramalfadorian,Chuck_Tingle,0.333,3
+Tramalfadorian,Collen,0.667,3
+Tramalfadorian,DM_DOKURO,0.667,3
+Tramalfadorian,dowolf,0.333,3
+Tramalfadorian,DragonImps,0.333,3
+Tramalfadorian,FL81,0.333,3
+Tramalfadorian,Flamander,0.667,3
+Tramalfadorian,GameBopAdv,0,3
+Tramalfadorian,greengravy294,0,0
+Tramalfadorian,handsomeboy2012,0,0
+Tramalfadorian,Haste_2,0.667,3
+Tramalfadorian,HBJDubs,1,3
+Tramalfadorian,Hbthebattle,0.667,3
+Tramalfadorian,-hotdogturtle--,0,3
+Tramalfadorian,Hydras,0,0
+Tramalfadorian,Janus5k,0.667,3
+Tramalfadorian,Johnbobb,0.667,3
+Tramalfadorian,JONALEON1,0.667,3
+Tramalfadorian,junk_funk,0,0
+Tramalfadorian,kaonashi1,0.667,3
+Tramalfadorian,KCF0107,0.333,3
+Tramalfadorian,KommunistKoala,0,0
+Tramalfadorian,LOLIAmAnAlt,0,0
+Tramalfadorian,Lopen,0,0
+Tramalfadorian,Lord Bob Bree,1,3
+Tramalfadorian,LordoftheMorons,0,0
+Tramalfadorian,loweffortmemes,0,3
+Tramalfadorian,Mac Arrowny,0.333,3
+Tramalfadorian,malyg,1,3
+Tramalfadorian,MargaretAnnMid,0.667,3
+Tramalfadorian,MartinFF7,0,0
+Tramalfadorian,MC_XD,0.333,3
+Tramalfadorian,MoonRunes,0.667,3
+Tramalfadorian,Mr Lasastryke,0.333,3
+Tramalfadorian,MrSmartGuy,0,0
+Tramalfadorian,MycroProcessor,0.667,3
+Tramalfadorian,MZero11,0,0
+Tramalfadorian,NFUN,0.5,2
+Tramalfadorian,NioraptH,0,0
+Tramalfadorian,Pablo Smith,0,0
+Tramalfadorian,paulg235,0,0
+Tramalfadorian,PIayer_0,0.667,3
+Tramalfadorian,pjbasis,0.667,3
+Tramalfadorian,Place,0.333,3
+Tramalfadorian,Plasman,0,0
+Tramalfadorian,Popcorn_Fairy,0.333,3
+Tramalfadorian,PrinceKaro,0,0
+Tramalfadorian,Prody Parrot,0,3
+Tramalfadorian,PSI_NESS,0,3
+Tramalfadorian,pyresword,0.667,3
+Tramalfadorian,Raetsel_Lapin,0.333,3
+Tramalfadorian,rwlh,0.667,3
+Tramalfadorian,RySenkari,1,3
+Tramalfadorian,Sceptilesolar,1,3
+Tramalfadorian,Sheep007,0,0
+Tramalfadorian,Shonen_Bat,0.667,3
+Tramalfadorian,slykirby,0,0
+Tramalfadorian,Snake5555555555,0.667,3
+Tramalfadorian,SuperNiceDog,1,3
+Tramalfadorian,tazzyboyishere,0.333,3
+Tramalfadorian,Team Rocket Elite,1,2
+Tramalfadorian,tennisboy213,0.333,3
+Tramalfadorian,th3l3fty,0.333,3
+Tramalfadorian,TheArkOfTurus,0.333,3
+trdl23,_Harmonica_,1,3
+trdl23,_LouieG_,0,0
+trdl23,Advokaiser,0.667,15
+trdl23,Akkrillic,0.643,14
+trdl23,Arti,0.733,15
+trdl23,azuarc,0.857,14
+trdl23,Baconus_Yum,0.733,15
+trdl23,banananor,0,0
+trdl23,banshiryuu,0.4,15
+trdl23,barreldragon88,0,0
+trdl23,ben10kenobi,0.5,2
+trdl23,Bluenugget64,0.833,12
+trdl23,bwburke94,0,0
+trdl23,cakophon,0.333,15
+trdl23,Chuck_Tingle,0,0
+trdl23,Collen,0.333,15
+trdl23,DM_DOKURO,0.5,2
+trdl23,dowolf,0.533,15
+trdl23,DragonImps,0.867,15
+trdl23,FL81,0.533,15
+trdl23,Flamander,0.667,15
+trdl23,GameBopAdv,0.2,15
+trdl23,greengravy294,0,0
+trdl23,handsomeboy2012,0.5,8
+trdl23,Haste_2,0.778,9
+trdl23,HBJDubs,0.8,15
+trdl23,Hbthebattle,0.9,10
+trdl23,-hotdogturtle--,0.167,6
+trdl23,Hydras,0,0
+trdl23,Janus5k,0.467,15
+trdl23,Johnbobb,0,0
+trdl23,JONALEON1,0.2,15
+trdl23,junk_funk,0,0
+trdl23,kaonashi1,0.267,15
+trdl23,KCF0107,0.4,15
+trdl23,KommunistKoala,1,3
+trdl23,LOLIAmAnAlt,0,0
+trdl23,Lopen,0,0
+trdl23,Lord Bob Bree,0.857,7
+trdl23,LordoftheMorons,1,3
+trdl23,loweffortmemes,0.4,15
+trdl23,Mac Arrowny,0.4,15
+trdl23,malyg,0.533,15
+trdl23,MargaretAnnMid,0.583,12
+trdl23,MartinFF7,0,0
+trdl23,MC_XD,0.8,15
+trdl23,MoonRunes,0.429,14
+trdl23,Mr Lasastryke,0.364,11
+trdl23,MrSmartGuy,0,0
+trdl23,MycroProcessor,0.333,15
+trdl23,MZero11,0,0
+trdl23,NFUN,0.692,13
+trdl23,NioraptH,0,0
+trdl23,Pablo Smith,0,0
+trdl23,paulg235,0,0
+trdl23,PIayer_0,0.667,15
+trdl23,pjbasis,0,0
+trdl23,Place,0.417,12
+trdl23,Plasman,0,0
+trdl23,Popcorn_Fairy,0.667,6
+trdl23,PrinceKaro,1,3
+trdl23,Prody Parrot,0.533,15
+trdl23,PSI_NESS,0.667,15
+trdl23,pyresword,0.533,15
+trdl23,Raetsel_Lapin,0.267,15
+trdl23,rwlh,0.333,15
+trdl23,RySenkari,0.667,6
+trdl23,Sceptilesolar,0.667,15
+trdl23,Sheep007,0,0
+trdl23,Shonen_Bat,0.615,13
+trdl23,slykirby,0.667,15
+trdl23,Snake5555555555,0.467,15
+trdl23,SuperNiceDog,0.75,12
+trdl23,tazzyboyishere,1,1
+trdl23,Team Rocket Elite,0.714,14
+trdl23,tennisboy213,0.733,15
+trdl23,th3l3fty,0.333,15
+trdl23,TheArkOfTurus,0.6,15
+trdl23,Tramalfadorian,0,0
+TsunamiXXVIII,_Harmonica_,0.5,12
+TsunamiXXVIII,_LouieG_,0.667,3
+TsunamiXXVIII,Advokaiser,0.54,139
+TsunamiXXVIII,Akkrillic,0.469,113
+TsunamiXXVIII,Arti,0.456,125
+TsunamiXXVIII,azuarc,0.522,136
+TsunamiXXVIII,Baconus_Yum,0.518,114
+TsunamiXXVIII,banananor,1,1
+TsunamiXXVIII,banshiryuu,0.511,139
+TsunamiXXVIII,barreldragon88,0,2
+TsunamiXXVIII,ben10kenobi,0.5,6
+TsunamiXXVIII,Bluenugget64,0.512,129
+TsunamiXXVIII,bwburke94,0.5,8
+TsunamiXXVIII,cakophon,0.587,126
+TsunamiXXVIII,Chuck_Tingle,0.667,3
+TsunamiXXVIII,Collen,0.554,139
+TsunamiXXVIII,DM_DOKURO,0.667,15
+TsunamiXXVIII,dowolf,0.489,139
+TsunamiXXVIII,DragonImps,0.439,139
+TsunamiXXVIII,FL81,0.504,139
+TsunamiXXVIII,Flamander,0.493,136
+TsunamiXXVIII,GameBopAdv,0.482,139
+TsunamiXXVIII,greengravy294,0,0
+TsunamiXXVIII,handsomeboy2012,0.488,84
+TsunamiXXVIII,Haste_2,0.507,136
+TsunamiXXVIII,HBJDubs,0.552,116
+TsunamiXXVIII,Hbthebattle,0.536,56
+TsunamiXXVIII,-hotdogturtle--,0.417,12
+TsunamiXXVIII,Hydras,0.5,2
+TsunamiXXVIII,Janus5k,0.525,139
+TsunamiXXVIII,Johnbobb,0.333,3
+TsunamiXXVIII,JONALEON1,0.532,139
+TsunamiXXVIII,junk_funk,1,4
+TsunamiXXVIII,kaonashi1,0.518,137
+TsunamiXXVIII,KCF0107,0.504,139
+TsunamiXXVIII,KommunistKoala,0.875,8
+TsunamiXXVIII,LOLIAmAnAlt,0.5,2
+TsunamiXXVIII,Lopen,0.538,13
+TsunamiXXVIII,Lord Bob Bree,0.667,18
+TsunamiXXVIII,LordoftheMorons,1,3
+TsunamiXXVIII,loweffortmemes,0.532,139
+TsunamiXXVIII,Mac Arrowny,0.482,139
+TsunamiXXVIII,malyg,0.533,135
+TsunamiXXVIII,MargaretAnnMid,0.61,41
+TsunamiXXVIII,MartinFF7,0.667,3
+TsunamiXXVIII,MC_XD,0.496,139
+TsunamiXXVIII,MoonRunes,0.485,136
+TsunamiXXVIII,Mr Lasastryke,0.538,52
+TsunamiXXVIII,MrSmartGuy,0,5
+TsunamiXXVIII,MycroProcessor,0.489,139
+TsunamiXXVIII,MZero11,0,2
+TsunamiXXVIII,NFUN,0.669,124
+TsunamiXXVIII,NioraptH,0.5,2
+TsunamiXXVIII,Pablo Smith,1,1
+TsunamiXXVIII,paulg235,0.5,2
+TsunamiXXVIII,PIayer_0,0.54,137
+TsunamiXXVIII,pjbasis,1,3
+TsunamiXXVIII,Place,0.489,133
+TsunamiXXVIII,Plasman,0.857,7
+TsunamiXXVIII,Popcorn_Fairy,0.556,18
+TsunamiXXVIII,PrinceKaro,1,1
+TsunamiXXVIII,Prody Parrot,0.467,137
+TsunamiXXVIII,PSI_NESS,0.576,139
+TsunamiXXVIII,pyresword,0.535,114
+TsunamiXXVIII,Raetsel_Lapin,0.468,139
+TsunamiXXVIII,rwlh,0.532,139
+TsunamiXXVIII,RySenkari,0.333,12
+TsunamiXXVIII,Sceptilesolar,0.532,139
+TsunamiXXVIII,Sheep007,1,1
+TsunamiXXVIII,Shonen_Bat,0.525,40
+TsunamiXXVIII,slykirby,0.508,118
+TsunamiXXVIII,Snake5555555555,0.647,34
+TsunamiXXVIII,SuperNiceDog,0.542,72
+TsunamiXXVIII,tazzyboyishere,0.167,6
+TsunamiXXVIII,Team Rocket Elite,0.588,131
+TsunamiXXVIII,tennisboy213,0.46,139
+TsunamiXXVIII,th3l3fty,0.583,139
+TsunamiXXVIII,TheArkOfTurus,0.496,139
+TsunamiXXVIII,Tramalfadorian,0.667,3
+TsunamiXXVIII,trdl23,0.556,9
+Tulip_OHare,_Harmonica_,0,0
+Tulip_OHare,_LouieG_,0,0
+Tulip_OHare,Advokaiser,0.333,9
+Tulip_OHare,Akkrillic,0.667,6
+Tulip_OHare,Arti,0.667,6
+Tulip_OHare,azuarc,0.667,9
+Tulip_OHare,Baconus_Yum,0.75,8
+Tulip_OHare,banananor,0,0
+Tulip_OHare,banshiryuu,0.667,9
+Tulip_OHare,barreldragon88,0,0
+Tulip_OHare,ben10kenobi,0,0
+Tulip_OHare,Bluenugget64,0.5,6
+Tulip_OHare,bwburke94,0,0
+Tulip_OHare,cakophon,0.667,6
+Tulip_OHare,Chuck_Tingle,0,0
+Tulip_OHare,Collen,0.556,9
+Tulip_OHare,DM_DOKURO,0,0
+Tulip_OHare,dowolf,0.444,9
+Tulip_OHare,DragonImps,0.889,9
+Tulip_OHare,FL81,0.556,9
+Tulip_OHare,Flamander,0.444,9
+Tulip_OHare,GameBopAdv,0.667,9
+Tulip_OHare,greengravy294,0,0
+Tulip_OHare,handsomeboy2012,0.8,5
+Tulip_OHare,Haste_2,0.5,6
+Tulip_OHare,HBJDubs,0.667,9
+Tulip_OHare,Hbthebattle,0.6,5
+Tulip_OHare,-hotdogturtle--,0.667,3
+Tulip_OHare,Hydras,0,0
+Tulip_OHare,Janus5k,0.333,9
+Tulip_OHare,Johnbobb,0,0
+Tulip_OHare,JONALEON1,0.222,9
+Tulip_OHare,junk_funk,0,0
+Tulip_OHare,kaonashi1,0.556,9
+Tulip_OHare,KCF0107,0.444,9
+Tulip_OHare,KommunistKoala,0.667,3
+Tulip_OHare,LOLIAmAnAlt,0,0
+Tulip_OHare,Lopen,0,0
+Tulip_OHare,Lord Bob Bree,0.667,3
+Tulip_OHare,LordoftheMorons,0.667,3
+Tulip_OHare,loweffortmemes,0.111,9
+Tulip_OHare,Mac Arrowny,0.444,9
+Tulip_OHare,malyg,0.333,9
+Tulip_OHare,MargaretAnnMid,0.167,6
+Tulip_OHare,MartinFF7,0,0
+Tulip_OHare,MC_XD,0.333,9
+Tulip_OHare,MoonRunes,0.222,9
+Tulip_OHare,Mr Lasastryke,0,0
+Tulip_OHare,MrSmartGuy,0,0
+Tulip_OHare,MycroProcessor,0.333,9
+Tulip_OHare,MZero11,0,0
+Tulip_OHare,NFUN,0.875,8
+Tulip_OHare,NioraptH,0,0
+Tulip_OHare,Pablo Smith,0,0
+Tulip_OHare,paulg235,0,0
+Tulip_OHare,PIayer_0,0.333,9
+Tulip_OHare,pjbasis,0,0
+Tulip_OHare,Place,0.444,9
+Tulip_OHare,Plasman,0,0
+Tulip_OHare,Popcorn_Fairy,0.667,3
+Tulip_OHare,PrinceKaro,0,0
+Tulip_OHare,Prody Parrot,0.667,9
+Tulip_OHare,PSI_NESS,0.444,9
+Tulip_OHare,pyresword,0.444,9
+Tulip_OHare,Raetsel_Lapin,0.667,9
+Tulip_OHare,rwlh,0.778,9
+Tulip_OHare,RySenkari,0.667,3
+Tulip_OHare,Sceptilesolar,0.333,9
+Tulip_OHare,Sheep007,0,0
+Tulip_OHare,Shonen_Bat,0.667,3
+Tulip_OHare,slykirby,0.778,9
+Tulip_OHare,Snake5555555555,0.333,6
+Tulip_OHare,SuperNiceDog,0.667,9
+Tulip_OHare,tazzyboyishere,0,0
+Tulip_OHare,Team Rocket Elite,0.667,9
+Tulip_OHare,tennisboy213,0.333,9
+Tulip_OHare,th3l3fty,0.556,9
+Tulip_OHare,TheArkOfTurus,0.667,9
+Tulip_OHare,Tramalfadorian,0,0
+Tulip_OHare,trdl23,0.667,3
+Tulip_OHare,TsunamiXXVIII,0.667,6
+UF8,_Harmonica_,0.467,15
+UF8,_LouieG_,1,5
+UF8,Advokaiser,0.515,171
+UF8,Akkrillic,0.518,137
+UF8,Arti,0.445,155
+UF8,azuarc,0.367,166
+UF8,Baconus_Yum,0.399,138
+UF8,banananor,0,1
+UF8,banshiryuu,0.532,171
+UF8,barreldragon88,0.5,2
+UF8,ben10kenobi,0.556,9
+UF8,Bluenugget64,0.532,158
+UF8,bwburke94,0.625,8
+UF8,cakophon,0.596,151
+UF8,Chuck_Tingle,0.333,3
+UF8,Collen,0.55,171
+UF8,DM_DOKURO,0.444,18
+UF8,dowolf,0.55,171
+UF8,DragonImps,0.62,171
+UF8,FL81,0.474,171
+UF8,Flamander,0.601,168
+UF8,GameBopAdv,0.55,171
+UF8,greengravy294,0,0
+UF8,handsomeboy2012,0.482,110
+UF8,Haste_2,0.515,165
+UF8,HBJDubs,0.438,146
+UF8,Hbthebattle,0.474,57
+UF8,-hotdogturtle--,0.533,15
+UF8,Hydras,0,2
+UF8,Janus5k,0.561,171
+UF8,Johnbobb,0.667,3
+UF8,JONALEON1,0.637,171
+UF8,junk_funk,0.667,6
+UF8,kaonashi1,0.608,166
+UF8,KCF0107,0.503,171
+UF8,KommunistKoala,0.636,11
+UF8,LOLIAmAnAlt,0.5,2
+UF8,Lopen,0.5,16
+UF8,Lord Bob Bree,0.476,21
+UF8,LordoftheMorons,0.667,3
+UF8,loweffortmemes,0.596,171
+UF8,Mac Arrowny,0.509,171
+UF8,malyg,0.409,164
+UF8,MargaretAnnMid,0.467,60
+UF8,MartinFF7,0.333,3
+UF8,MC_XD,0.427,171
+UF8,MoonRunes,0.524,168
+UF8,Mr Lasastryke,0.607,61
+UF8,MrSmartGuy,0.667,3
+UF8,MycroProcessor,0.643,171
+UF8,MZero11,0.5,2
+UF8,NFUN,0.51,147
+UF8,NioraptH,0.5,2
+UF8,Pablo Smith,1,2
+UF8,paulg235,0,2
+UF8,PIayer_0,0.462,169
+UF8,pjbasis,0.667,3
+UF8,Place,0.555,164
+UF8,Plasman,0.667,6
+UF8,Popcorn_Fairy,0.158,19
+UF8,PrinceKaro,0.8,5
+UF8,Prody Parrot,0.544,169
+UF8,PSI_NESS,0.556,171
+UF8,pyresword,0.545,143
+UF8,Raetsel_Lapin,0.503,171
+UF8,rwlh,0.526,171
+UF8,RySenkari,0.333,15
+UF8,Sceptilesolar,0.52,171
+UF8,Sheep007,1,1
+UF8,Shonen_Bat,0.535,43
+UF8,slykirby,0.466,148
+UF8,Snake5555555555,0.517,60
+UF8,SuperNiceDog,0.488,86
+UF8,tazzyboyishere,0.333,6
+UF8,Team Rocket Elite,0.491,163
+UF8,tennisboy213,0.526,171
+UF8,th3l3fty,0.503,171
+UF8,TheArkOfTurus,0.544,171
+UF8,Tramalfadorian,0.333,3
+UF8,trdl23,0.5,12
+UF8,TsunamiXXVIII,0.537,123
+UF8,Tulip_OHare,0.333,9
+Underleveled,_Harmonica_,1,1
+Underleveled,_LouieG_,0,0
+Underleveled,Advokaiser,1,1
+Underleveled,Akkrillic,0,0
+Underleveled,Arti,0,1
+Underleveled,azuarc,1,1
+Underleveled,Baconus_Yum,0,1
+Underleveled,banananor,0,0
+Underleveled,banshiryuu,1,1
+Underleveled,barreldragon88,0,0
+Underleveled,ben10kenobi,0,0
+Underleveled,Bluenugget64,0,1
+Underleveled,bwburke94,0,0
+Underleveled,cakophon,0,1
+Underleveled,Chuck_Tingle,0,0
+Underleveled,Collen,0,1
+Underleveled,DM_DOKURO,0,1
+Underleveled,dowolf,0,1
+Underleveled,DragonImps,1,1
+Underleveled,FL81,1,1
+Underleveled,Flamander,0,1
+Underleveled,GameBopAdv,0,1
+Underleveled,greengravy294,0,0
+Underleveled,handsomeboy2012,0,1
+Underleveled,Haste_2,0,1
+Underleveled,HBJDubs,0,1
+Underleveled,Hbthebattle,1,1
+Underleveled,-hotdogturtle--,0,1
+Underleveled,Hydras,0,0
+Underleveled,Janus5k,0,1
+Underleveled,Johnbobb,0,0
+Underleveled,JONALEON1,0,1
+Underleveled,junk_funk,0,0
+Underleveled,kaonashi1,0,1
+Underleveled,KCF0107,0,1
+Underleveled,KommunistKoala,0,0
+Underleveled,LOLIAmAnAlt,0,0
+Underleveled,Lopen,0,0
+Underleveled,Lord Bob Bree,0,1
+Underleveled,LordoftheMorons,0,0
+Underleveled,loweffortmemes,0,1
+Underleveled,Mac Arrowny,0,1
+Underleveled,malyg,0,1
+Underleveled,MargaretAnnMid,0,1
+Underleveled,MartinFF7,0,0
+Underleveled,MC_XD,1,1
+Underleveled,MoonRunes,0,0
+Underleveled,Mr Lasastryke,0,0
+Underleveled,MrSmartGuy,0,0
+Underleveled,MycroProcessor,0,1
+Underleveled,MZero11,0,0
+Underleveled,NFUN,1,1
+Underleveled,NioraptH,0,0
+Underleveled,Pablo Smith,0,0
+Underleveled,paulg235,0,0
+Underleveled,PIayer_0,1,1
+Underleveled,pjbasis,0,0
+Underleveled,Place,0,1
+Underleveled,Plasman,0,0
+Underleveled,Popcorn_Fairy,0,1
+Underleveled,PrinceKaro,0,0
+Underleveled,Prody Parrot,1,1
+Underleveled,PSI_NESS,0,1
+Underleveled,pyresword,0,1
+Underleveled,Raetsel_Lapin,1,1
+Underleveled,rwlh,0,1
+Underleveled,RySenkari,0,1
+Underleveled,Sceptilesolar,0,1
+Underleveled,Sheep007,0,0
+Underleveled,Shonen_Bat,1,1
+Underleveled,slykirby,0,1
+Underleveled,Snake5555555555,0,1
+Underleveled,SuperNiceDog,1,1
+Underleveled,tazzyboyishere,0,1
+Underleveled,Team Rocket Elite,1,1
+Underleveled,tennisboy213,1,1
+Underleveled,th3l3fty,0,1
+Underleveled,TheArkOfTurus,0,1
+Underleveled,Tramalfadorian,0,0
+Underleveled,trdl23,0,0
+Underleveled,TsunamiXXVIII,0,1
+Underleveled,Tulip_OHare,0,0
+Underleveled,UF8,1,1
+Unmi,_Harmonica_,0.333,6
+Unmi,_LouieG_,0.667,3
+Unmi,Advokaiser,0.333,6
+Unmi,Akkrillic,0.333,6
+Unmi,Arti,0.667,6
+Unmi,azuarc,0.25,4
+Unmi,Baconus_Yum,0.5,6
+Unmi,banananor,0,0
+Unmi,banshiryuu,0.333,6
+Unmi,barreldragon88,0,0
+Unmi,ben10kenobi,0,3
+Unmi,Bluenugget64,0.667,6
+Unmi,bwburke94,0.667,3
+Unmi,cakophon,0.667,6
+Unmi,Chuck_Tingle,0,3
+Unmi,Collen,0.167,6
+Unmi,DM_DOKURO,0.333,3
+Unmi,dowolf,0.167,6
+Unmi,DragonImps,0.5,6
+Unmi,FL81,0.167,6
+Unmi,Flamander,0.667,6
+Unmi,GameBopAdv,0.333,6
+Unmi,greengravy294,0,0
+Unmi,handsomeboy2012,0,0
+Unmi,Haste_2,0.333,3
+Unmi,HBJDubs,0.333,6
+Unmi,Hbthebattle,1,3
+Unmi,-hotdogturtle--,0.333,6
+Unmi,Hydras,0,0
+Unmi,Janus5k,0.333,6
+Unmi,Johnbobb,1,3
+Unmi,JONALEON1,0.333,6
+Unmi,junk_funk,0,0
+Unmi,kaonashi1,0.333,6
+Unmi,KCF0107,0.167,6
+Unmi,KommunistKoala,0,0
+Unmi,LOLIAmAnAlt,0,0
+Unmi,Lopen,0,0
+Unmi,Lord Bob Bree,0.5,6
+Unmi,LordoftheMorons,0,0
+Unmi,loweffortmemes,0.333,6
+Unmi,Mac Arrowny,0.167,6
+Unmi,malyg,0.5,6
+Unmi,MargaretAnnMid,0.167,6
+Unmi,MartinFF7,0,0
+Unmi,MC_XD,0,6
+Unmi,MoonRunes,0.167,6
+Unmi,Mr Lasastryke,0.333,6
+Unmi,MrSmartGuy,0,0
+Unmi,MycroProcessor,0.167,6
+Unmi,MZero11,0,0
+Unmi,NFUN,0.2,5
+Unmi,NioraptH,0,0
+Unmi,Pablo Smith,0,0
+Unmi,paulg235,0,0
+Unmi,PIayer_0,0.833,6
+Unmi,pjbasis,0.333,3
+Unmi,Place,0.5,6
+Unmi,Plasman,0,0
+Unmi,Popcorn_Fairy,0.5,6
+Unmi,PrinceKaro,0,0
+Unmi,Prody Parrot,0.333,6
+Unmi,PSI_NESS,0.167,6
+Unmi,pyresword,0.333,6
+Unmi,Raetsel_Lapin,0.833,6
+Unmi,rwlh,0.5,6
+Unmi,RySenkari,0.5,6
+Unmi,Sceptilesolar,0.5,6
+Unmi,Sheep007,0,0
+Unmi,Shonen_Bat,1,3
+Unmi,slykirby,1,3
+Unmi,Snake5555555555,0.5,6
+Unmi,SuperNiceDog,0.667,6
+Unmi,tazzyboyishere,0.667,3
+Unmi,Team Rocket Elite,0.8,5
+Unmi,tennisboy213,0.667,6
+Unmi,th3l3fty,0.167,6
+Unmi,TheArkOfTurus,0.167,6
+Unmi,Tramalfadorian,0.667,3
+Unmi,trdl23,0.5,2
+Unmi,TsunamiXXVIII,0.333,3
+Unmi,Tulip_OHare,0,0
+Unmi,UF8,0.333,6
+Unmi,Underleveled,0,0
+Xiahou Shake,_Harmonica_,0,0
+Xiahou Shake,_LouieG_,0,0
+Xiahou Shake,Advokaiser,0.833,6
+Xiahou Shake,Akkrillic,0.667,3
+Xiahou Shake,Arti,0.5,6
+Xiahou Shake,azuarc,0.5,6
+Xiahou Shake,Baconus_Yum,0.5,6
+Xiahou Shake,banananor,0,0
+Xiahou Shake,banshiryuu,0,6
+Xiahou Shake,barreldragon88,0,0
+Xiahou Shake,ben10kenobi,0,0
+Xiahou Shake,Bluenugget64,0.5,6
+Xiahou Shake,bwburke94,0,0
+Xiahou Shake,cakophon,0.167,6
+Xiahou Shake,Chuck_Tingle,0,0
+Xiahou Shake,Collen,0.333,6
+Xiahou Shake,DM_DOKURO,1,1
+Xiahou Shake,dowolf,0.667,6
+Xiahou Shake,DragonImps,0.833,6
+Xiahou Shake,FL81,0.5,6
+Xiahou Shake,Flamander,0.333,6
+Xiahou Shake,GameBopAdv,0.5,6
+Xiahou Shake,greengravy294,0,0
+Xiahou Shake,handsomeboy2012,0.167,6
+Xiahou Shake,Haste_2,0.667,6
+Xiahou Shake,HBJDubs,0.667,3
+Xiahou Shake,Hbthebattle,1,3
+Xiahou Shake,-hotdogturtle--,0,0
+Xiahou Shake,Hydras,0,0
+Xiahou Shake,Janus5k,0.667,6
+Xiahou Shake,Johnbobb,0,0
+Xiahou Shake,JONALEON1,0.333,6
+Xiahou Shake,junk_funk,0,0
+Xiahou Shake,kaonashi1,0.333,6
+Xiahou Shake,KCF0107,0.333,6
+Xiahou Shake,KommunistKoala,0,0
+Xiahou Shake,LOLIAmAnAlt,0,0
+Xiahou Shake,Lopen,1,3
+Xiahou Shake,Lord Bob Bree,0,1
+Xiahou Shake,LordoftheMorons,0,0
+Xiahou Shake,loweffortmemes,0.5,6
+Xiahou Shake,Mac Arrowny,0.5,6
+Xiahou Shake,malyg,0.833,6
+Xiahou Shake,MargaretAnnMid,0.333,3
+Xiahou Shake,MartinFF7,1,3
+Xiahou Shake,MC_XD,1,6
+Xiahou Shake,MoonRunes,0.5,6
+Xiahou Shake,Mr Lasastryke,0.333,3
+Xiahou Shake,MrSmartGuy,0,0
+Xiahou Shake,MycroProcessor,0.333,6
+Xiahou Shake,MZero11,0,0
+Xiahou Shake,NFUN,1,6
+Xiahou Shake,NioraptH,0,0
+Xiahou Shake,Pablo Smith,0,0
+Xiahou Shake,paulg235,0,0
+Xiahou Shake,PIayer_0,0.5,6
+Xiahou Shake,pjbasis,0,0
+Xiahou Shake,Place,0.333,3
+Xiahou Shake,Plasman,0,0
+Xiahou Shake,Popcorn_Fairy,0.667,3
+Xiahou Shake,PrinceKaro,0,0
+Xiahou Shake,Prody Parrot,0.5,6
+Xiahou Shake,PSI_NESS,0.667,6
+Xiahou Shake,pyresword,0.167,6
+Xiahou Shake,Raetsel_Lapin,0.667,6
+Xiahou Shake,rwlh,1,6
+Xiahou Shake,RySenkari,0,0
+Xiahou Shake,Sceptilesolar,1,6
+Xiahou Shake,Sheep007,0,0
+Xiahou Shake,Shonen_Bat,1,3
+Xiahou Shake,slykirby,1,6
+Xiahou Shake,Snake5555555555,0.667,3
+Xiahou Shake,SuperNiceDog,0.833,6
+Xiahou Shake,tazzyboyishere,0,0
+Xiahou Shake,Team Rocket Elite,0.8,5
+Xiahou Shake,tennisboy213,0.5,6
+Xiahou Shake,th3l3fty,0.333,6
+Xiahou Shake,TheArkOfTurus,0.333,6
+Xiahou Shake,Tramalfadorian,0,0
+Xiahou Shake,trdl23,1,3
+Xiahou Shake,TsunamiXXVIII,0.667,6
+Xiahou Shake,Tulip_OHare,0,0
+Xiahou Shake,UF8,0.25,4
+Xiahou Shake,Underleveled,0,0
+Xiahou Shake,Unmi,0,0
+xp1337,_Harmonica_,0.467,15
+xp1337,_LouieG_,0.4,5
+xp1337,Advokaiser,0.654,191
+xp1337,Akkrillic,0.583,151
+xp1337,Arti,0.541,170
+xp1337,azuarc,0.435,184
+xp1337,Baconus_Yum,0.51,157
+xp1337,banananor,0,1
+xp1337,banshiryuu,0.539,191
+xp1337,barreldragon88,0.5,2
+xp1337,ben10kenobi,0.889,9
+xp1337,Bluenugget64,0.559,177
+xp1337,bwburke94,0.625,8
+xp1337,cakophon,0.474,171
+xp1337,Chuck_Tingle,0,3
+xp1337,Collen,0.382,191
+xp1337,DM_DOKURO,0.444,18
+xp1337,dowolf,0.555,191
+xp1337,DragonImps,0.565,191
+xp1337,FL81,0.524,191
+xp1337,Flamander,0.521,188
+xp1337,GameBopAdv,0.424,191
+xp1337,greengravy294,0,1
+xp1337,handsomeboy2012,0.575,120
+xp1337,Haste_2,0.565,184
+xp1337,HBJDubs,0.51,157
+xp1337,Hbthebattle,0.6,65
+xp1337,-hotdogturtle--,0.467,15
+xp1337,Hydras,1,2
+xp1337,Janus5k,0.623,191
+xp1337,Johnbobb,1,3
+xp1337,JONALEON1,0.466,191
+xp1337,junk_funk,0.333,6
+xp1337,kaonashi1,0.489,186
+xp1337,KCF0107,0.445,191
+xp1337,KommunistKoala,0.364,11
+xp1337,LOLIAmAnAlt,0.5,2
+xp1337,Lopen,0.875,16
+xp1337,Lord Bob Bree,0.667,21
+xp1337,LordoftheMorons,0.667,3
+xp1337,loweffortmemes,0.66,191
+xp1337,Mac Arrowny,0.586,191
+xp1337,malyg,0.478,184
+xp1337,MargaretAnnMid,0.508,63
+xp1337,MartinFF7,1,3
+xp1337,MC_XD,0.539,191
+xp1337,MoonRunes,0.468,188
+xp1337,Mr Lasastryke,0.574,68
+xp1337,MrSmartGuy,0.6,5
+xp1337,MycroProcessor,0.524,191
+xp1337,MZero11,0.5,2
+xp1337,NFUN,0.461,165
+xp1337,NioraptH,0.5,2
+xp1337,Pablo Smith,0.5,2
+xp1337,paulg235,0.5,2
+xp1337,PIayer_0,0.529,189
+xp1337,pjbasis,0.333,3
+xp1337,Place,0.494,180
+xp1337,Plasman,0.667,9
+xp1337,Popcorn_Fairy,0.19,21
+xp1337,PrinceKaro,0.667,6
+xp1337,Prody Parrot,0.545,189
+xp1337,PSI_NESS,0.325,191
+xp1337,pyresword,0.551,158
+xp1337,Raetsel_Lapin,0.565,191
+xp1337,rwlh,0.44,191
+xp1337,RySenkari,0.467,15
+xp1337,Sceptilesolar,0.681,191
+xp1337,Sheep007,0,1
+xp1337,Shonen_Bat,0.451,51
+xp1337,slykirby,0.47,168
+xp1337,Snake5555555555,0.547,64
+xp1337,SuperNiceDog,0.5,96
+xp1337,tazzyboyishere,0.667,6
+xp1337,Team Rocket Elite,0.56,182
+xp1337,tennisboy213,0.508,191
+xp1337,th3l3fty,0.518,191
+xp1337,TheArkOfTurus,0.534,191
+xp1337,Tramalfadorian,0.667,3
+xp1337,trdl23,0.533,15
+xp1337,TsunamiXXVIII,0.496,139
+xp1337,Tulip_OHare,0.222,9
+xp1337,UF8,0.561,171
+xp1337,Underleveled,0,1
+xp1337,Unmi,0.5,6
+xp1337,Xiahou Shake,0.667,6
+Xuxon,_Harmonica_,0.615,13
+Xuxon,_LouieG_,0.75,4
+Xuxon,Advokaiser,0.388,160
+Xuxon,Akkrillic,0.543,127
+Xuxon,Arti,0.57,142
+Xuxon,azuarc,0.529,153
+Xuxon,Baconus_Yum,0.442,129
+Xuxon,banananor,1,1
+Xuxon,banshiryuu,0.513,160
+Xuxon,barreldragon88,0.5,2
+Xuxon,ben10kenobi,0.571,7
+Xuxon,Bluenugget64,0.424,151
+Xuxon,bwburke94,0.333,6
+Xuxon,cakophon,0.438,144
+Xuxon,Chuck_Tingle,0.5,2
+Xuxon,Collen,0.594,160
+Xuxon,DM_DOKURO,0.412,17
+Xuxon,dowolf,0.456,160
+Xuxon,DragonImps,0.556,160
+Xuxon,FL81,0.481,160
+Xuxon,Flamander,0.444,160
+Xuxon,GameBopAdv,0.5,160
+Xuxon,greengravy294,1,1
+Xuxon,handsomeboy2012,0.462,104
+Xuxon,Haste_2,0.442,156
+Xuxon,HBJDubs,0.516,128
+Xuxon,Hbthebattle,0.408,49
+Xuxon,-hotdogturtle--,0.545,11
+Xuxon,Hydras,0,0
+Xuxon,Janus5k,0.419,160
+Xuxon,Johnbobb,0.5,2
+Xuxon,JONALEON1,0.531,160
+Xuxon,junk_funk,0.667,6
+Xuxon,kaonashi1,0.465,155
+Xuxon,KCF0107,0.606,160
+Xuxon,KommunistKoala,0.833,6
+Xuxon,LOLIAmAnAlt,0.5,2
+Xuxon,Lopen,0.462,13
+Xuxon,Lord Bob Bree,0.438,16
+Xuxon,LordoftheMorons,0,0
+Xuxon,loweffortmemes,0.45,160
+Xuxon,Mac Arrowny,0.375,160
+Xuxon,malyg,0.549,153
+Xuxon,MargaretAnnMid,0.481,54
+Xuxon,MartinFF7,0,3
+Xuxon,MC_XD,0.513,160
+Xuxon,MoonRunes,0.503,157
+Xuxon,Mr Lasastryke,0.475,61
+Xuxon,MrSmartGuy,1,2
+Xuxon,MycroProcessor,0.513,160
+Xuxon,MZero11,0,2
+Xuxon,NFUN,0.475,139
+Xuxon,NioraptH,0.5,2
+Xuxon,Pablo Smith,0.5,2
+Xuxon,paulg235,1,2
+Xuxon,PIayer_0,0.538,158
+Xuxon,pjbasis,1,2
+Xuxon,Place,0.47,149
+Xuxon,Plasman,0.222,9
+Xuxon,Popcorn_Fairy,0.278,18
+Xuxon,PrinceKaro,0.333,6
+Xuxon,Prody Parrot,0.468,158
+Xuxon,PSI_NESS,0.631,160
+Xuxon,pyresword,0.597,134
+Xuxon,Raetsel_Lapin,0.444,160
+Xuxon,rwlh,0.569,160
+Xuxon,RySenkari,0.364,11
+Xuxon,Sceptilesolar,0.419,160
+Xuxon,Sheep007,0,1
+Xuxon,Shonen_Bat,0.455,44
+Xuxon,slykirby,0.458,142
+Xuxon,Snake5555555555,0.574,54
+Xuxon,SuperNiceDog,0.519,81
+Xuxon,tazzyboyishere,0.2,5
+Xuxon,Team Rocket Elite,0.441,152
+Xuxon,tennisboy213,0.506,160
+Xuxon,th3l3fty,0.469,160
+Xuxon,TheArkOfTurus,0.544,160
+Xuxon,Tramalfadorian,0.5,2
+Xuxon,trdl23,0.4,10
+Xuxon,TsunamiXXVIII,0.518,114
+Xuxon,Tulip_OHare,0.333,3
+Xuxon,UF8,0.552,143
+Xuxon,Underleveled,1,1
+Xuxon,Unmi,0.2,5
+Xuxon,Xiahou Shake,0,4
+Xuxon,xp1337,0.375,160
+xx521xx,_Harmonica_,0.667,15
+xx521xx,_LouieG_,1,5
+xx521xx,Advokaiser,0.639,191
+xx521xx,Akkrillic,0.47,151
+xx521xx,Arti,0.541,170
+xx521xx,azuarc,0.592,184
+xx521xx,Baconus_Yum,0.522,157
+xx521xx,banananor,1,1
+xx521xx,banshiryuu,0.482,191
+xx521xx,barreldragon88,1,2
+xx521xx,ben10kenobi,0.778,9
+xx521xx,Bluenugget64,0.469,177
+xx521xx,bwburke94,0.125,8
+xx521xx,cakophon,0.357,171
+xx521xx,Chuck_Tingle,0.333,3
+xx521xx,Collen,0.471,191
+xx521xx,DM_DOKURO,0.5,18
+xx521xx,dowolf,0.529,191
+xx521xx,DragonImps,0.455,191
+xx521xx,FL81,0.529,191
+xx521xx,Flamander,0.42,188
+xx521xx,GameBopAdv,0.44,191
+xx521xx,greengravy294,1,1
+xx521xx,handsomeboy2012,0.608,120
+xx521xx,Haste_2,0.516,184
+xx521xx,HBJDubs,0.573,157
+xx521xx,Hbthebattle,0.538,65
+xx521xx,-hotdogturtle--,0.6,15
+xx521xx,Hydras,0.5,2
+xx521xx,Janus5k,0.555,191
+xx521xx,Johnbobb,0.667,3
+xx521xx,JONALEON1,0.429,191
+xx521xx,junk_funk,0.667,6
+xx521xx,kaonashi1,0.409,186
+xx521xx,KCF0107,0.45,191
+xx521xx,KommunistKoala,0.636,11
+xx521xx,LOLIAmAnAlt,1,2
+xx521xx,Lopen,0.5,16
+xx521xx,Lord Bob Bree,0.476,21
+xx521xx,LordoftheMorons,0.667,3
+xx521xx,loweffortmemes,0.518,191
+xx521xx,Mac Arrowny,0.56,191
+xx521xx,malyg,0.533,184
+xx521xx,MargaretAnnMid,0.54,63
+xx521xx,MartinFF7,0.667,3
+xx521xx,MC_XD,0.597,191
+xx521xx,MoonRunes,0.489,188
+xx521xx,Mr Lasastryke,0.471,68
+xx521xx,MrSmartGuy,0.4,5
+xx521xx,MycroProcessor,0.351,191
+xx521xx,MZero11,0.5,2
+xx521xx,NFUN,0.545,165
+xx521xx,NioraptH,0,2
+xx521xx,Pablo Smith,0.5,2
+xx521xx,paulg235,0.5,2
+xx521xx,PIayer_0,0.571,189
+xx521xx,pjbasis,0.667,3
+xx521xx,Place,0.394,180
+xx521xx,Plasman,0.444,9
+xx521xx,Popcorn_Fairy,0.286,21
+xx521xx,PrinceKaro,0.667,6
+xx521xx,Prody Parrot,0.529,189
+xx521xx,PSI_NESS,0.508,191
+xx521xx,pyresword,0.563,158
+xx521xx,Raetsel_Lapin,0.487,191
+xx521xx,rwlh,0.414,191
+xx521xx,RySenkari,0.533,15
+xx521xx,Sceptilesolar,0.571,191
+xx521xx,Sheep007,0,1
+xx521xx,Shonen_Bat,0.49,51
+xx521xx,slykirby,0.524,168
+xx521xx,Snake5555555555,0.422,64
+xx521xx,SuperNiceDog,0.521,96
+xx521xx,tazzyboyishere,0.333,6
+xx521xx,Team Rocket Elite,0.632,182
+xx521xx,tennisboy213,0.555,191
+xx521xx,th3l3fty,0.586,191
+xx521xx,TheArkOfTurus,0.497,191
+xx521xx,Tramalfadorian,0.333,3
+xx521xx,trdl23,0.667,15
+xx521xx,TsunamiXXVIII,0.504,139
+xx521xx,Tulip_OHare,0.556,9
+xx521xx,UF8,0.45,171
+xx521xx,Underleveled,1,1
+xx521xx,Unmi,0.333,6
+xx521xx,Xiahou Shake,0.667,6
+xx521xx,xp1337,0.545,191
+xx521xx,Xuxon,0.494,160
+Zigzagoon,_Harmonica_,0.667,15
+Zigzagoon,_LouieG_,0.333,3
+Zigzagoon,Advokaiser,0.686,70
+Zigzagoon,Akkrillic,0.596,57
+Zigzagoon,Arti,0.532,62
+Zigzagoon,azuarc,0.618,68
+Zigzagoon,Baconus_Yum,0.649,57
+Zigzagoon,banananor,0,0
+Zigzagoon,banshiryuu,0.457,70
+Zigzagoon,barreldragon88,0,1
+Zigzagoon,ben10kenobi,1,6
+Zigzagoon,Bluenugget64,0.545,66
+Zigzagoon,bwburke94,0.375,8
+Zigzagoon,cakophon,0.373,67
+Zigzagoon,Chuck_Tingle,1,3
+Zigzagoon,Collen,0.414,70
+Zigzagoon,DM_DOKURO,0.6,15
+Zigzagoon,dowolf,0.457,70
+Zigzagoon,DragonImps,0.6,70
+Zigzagoon,FL81,0.571,70
+Zigzagoon,Flamander,0.4,70
+Zigzagoon,GameBopAdv,0.471,70
+Zigzagoon,greengravy294,0,1
+Zigzagoon,handsomeboy2012,0.578,45
+Zigzagoon,Haste_2,0.587,63
+Zigzagoon,HBJDubs,0.545,66
+Zigzagoon,Hbthebattle,0.758,33
+Zigzagoon,-hotdogturtle--,0.4,15
+Zigzagoon,Hydras,0,0
+Zigzagoon,Janus5k,0.614,70
+Zigzagoon,Johnbobb,0,3
+Zigzagoon,JONALEON1,0.314,70
+Zigzagoon,junk_funk,0,0
+Zigzagoon,kaonashi1,0.457,70
+Zigzagoon,KCF0107,0.586,70
+Zigzagoon,KommunistKoala,0.333,3
+Zigzagoon,LOLIAmAnAlt,0,0
+Zigzagoon,Lopen,0.5,4
+Zigzagoon,Lord Bob Bree,0.524,21
+Zigzagoon,LordoftheMorons,0.333,3
+Zigzagoon,loweffortmemes,0.529,70
+Zigzagoon,Mac Arrowny,0.671,70
+Zigzagoon,malyg,0.522,67
+Zigzagoon,MargaretAnnMid,0.514,35
+Zigzagoon,MartinFF7,0,0
+Zigzagoon,MC_XD,0.657,70
+Zigzagoon,MoonRunes,0.433,67
+Zigzagoon,Mr Lasastryke,0.436,39
+Zigzagoon,MrSmartGuy,0,0
+Zigzagoon,MycroProcessor,0.329,70
+Zigzagoon,MZero11,0,0
+Zigzagoon,NFUN,0.475,59
+Zigzagoon,NioraptH,0,0
+Zigzagoon,Pablo Smith,0,0
+Zigzagoon,paulg235,0,2
+Zigzagoon,PIayer_0,0.629,70
+Zigzagoon,pjbasis,0.667,3
+Zigzagoon,Place,0.403,67
+Zigzagoon,Plasman,0,0
+Zigzagoon,Popcorn_Fairy,0.688,16
+Zigzagoon,PrinceKaro,0.6,5
+Zigzagoon,Prody Parrot,0.586,70
+Zigzagoon,PSI_NESS,0.514,70
+Zigzagoon,pyresword,0.453,64
+Zigzagoon,Raetsel_Lapin,0.386,70
+Zigzagoon,rwlh,0.386,70
+Zigzagoon,RySenkari,0.467,15
+Zigzagoon,Sceptilesolar,0.571,70
+Zigzagoon,Sheep007,0,0
+Zigzagoon,Shonen_Bat,0.455,33
+Zigzagoon,slykirby,0.556,63
+Zigzagoon,Snake5555555555,0.442,52
+Zigzagoon,SuperNiceDog,0.532,47
+Zigzagoon,tazzyboyishere,0.333,6
+Zigzagoon,Team Rocket Elite,0.642,67
+Zigzagoon,tennisboy213,0.586,70
+Zigzagoon,th3l3fty,0.571,70
+Zigzagoon,TheArkOfTurus,0.643,70
+Zigzagoon,Tramalfadorian,0.333,3
+Zigzagoon,trdl23,0.733,15
+Zigzagoon,TsunamiXXVIII,0.489,47
+Zigzagoon,Tulip_OHare,0.833,6
+Zigzagoon,UF8,0.492,63
+Zigzagoon,Underleveled,1,1
+Zigzagoon,Unmi,0,6
+Zigzagoon,Xiahou Shake,1,3
+Zigzagoon,xp1337,0.6,70
+Zigzagoon,Xuxon,0.429,56
+Zigzagoon,xx521xx,0.614,70
+Zyxyz0,_Harmonica_,0.583,12
+Zyxyz0,_LouieG_,0.667,3
+Zyxyz0,Advokaiser,0.5,46
+Zyxyz0,Akkrillic,0.622,37
+Zyxyz0,Arti,0.452,42
+Zyxyz0,azuarc,0.591,44
+Zyxyz0,Baconus_Yum,0.659,41
+Zyxyz0,banananor,0,0
+Zyxyz0,banshiryuu,0.522,46
+Zyxyz0,barreldragon88,0,0
+Zyxyz0,ben10kenobi,0.333,3
+Zyxyz0,Bluenugget64,0.523,44
+Zyxyz0,bwburke94,0.625,8
+Zyxyz0,cakophon,0.548,42
+Zyxyz0,Chuck_Tingle,0.667,3
+Zyxyz0,Collen,0.587,46
+Zyxyz0,DM_DOKURO,0.643,14
+Zyxyz0,dowolf,0.522,46
+Zyxyz0,DragonImps,0.522,46
+Zyxyz0,FL81,0.609,46
+Zyxyz0,Flamander,0.522,46
+Zyxyz0,GameBopAdv,0.522,46
+Zyxyz0,greengravy294,0,1
+Zyxyz0,handsomeboy2012,0.581,31
+Zyxyz0,Haste_2,0.422,45
+Zyxyz0,HBJDubs,0.61,41
+Zyxyz0,Hbthebattle,0.467,15
+Zyxyz0,-hotdogturtle--,0.333,9
+Zyxyz0,Hydras,0,0
+Zyxyz0,Janus5k,0.457,46
+Zyxyz0,Johnbobb,0.333,3
+Zyxyz0,JONALEON1,0.457,46
+Zyxyz0,junk_funk,0,2
+Zyxyz0,kaonashi1,0.595,42
+Zyxyz0,KCF0107,0.5,46
+Zyxyz0,KommunistKoala,0,2
+Zyxyz0,LOLIAmAnAlt,1,2
+Zyxyz0,Lopen,0,2
+Zyxyz0,Lord Bob Bree,0.571,14
+Zyxyz0,LordoftheMorons,0,0
+Zyxyz0,loweffortmemes,0.522,46
+Zyxyz0,Mac Arrowny,0.5,46
+Zyxyz0,malyg,0.522,46
+Zyxyz0,MargaretAnnMid,0.667,21
+Zyxyz0,MartinFF7,0,0
+Zyxyz0,MC_XD,0.543,46
+Zyxyz0,MoonRunes,0.651,43
+Zyxyz0,Mr Lasastryke,0.56,25
+Zyxyz0,MrSmartGuy,0,0
+Zyxyz0,MycroProcessor,0.543,46
+Zyxyz0,MZero11,0,0
+Zyxyz0,NFUN,0.703,37
+Zyxyz0,NioraptH,0,2
+Zyxyz0,Pablo Smith,0,0
+Zyxyz0,paulg235,0,0
+Zyxyz0,PIayer_0,0.478,46
+Zyxyz0,pjbasis,1,3
+Zyxyz0,Place,0.605,43
+Zyxyz0,Plasman,0,0
+Zyxyz0,Popcorn_Fairy,0.714,7
+Zyxyz0,PrinceKaro,0.667,3
+Zyxyz0,Prody Parrot,0.457,46
+Zyxyz0,PSI_NESS,0.543,46
+Zyxyz0,pyresword,0.558,43
+Zyxyz0,Raetsel_Lapin,0.587,46
+Zyxyz0,rwlh,0.457,46
+Zyxyz0,RySenkari,0.333,9
+Zyxyz0,Sceptilesolar,0.457,46
+Zyxyz0,Sheep007,0,0
+Zyxyz0,Shonen_Bat,0.4,20
+Zyxyz0,slykirby,0.317,41
+Zyxyz0,Snake5555555555,0.484,31
+Zyxyz0,SuperNiceDog,0.452,31
+Zyxyz0,tazzyboyishere,0.167,6
+Zyxyz0,Team Rocket Elite,0.372,43
+Zyxyz0,tennisboy213,0.543,46
+Zyxyz0,th3l3fty,0.543,46
+Zyxyz0,TheArkOfTurus,0.652,46
+Zyxyz0,Tramalfadorian,0.667,3
+Zyxyz0,trdl23,0.75,4
+Zyxyz0,TsunamiXXVIII,0.677,31
+Zyxyz0,Tulip_OHare,0,0
+Zyxyz0,UF8,0.591,44
+Zyxyz0,Underleveled,1,1
+Zyxyz0,Unmi,0.333,3
+Zyxyz0,Xiahou Shake,0,0
+Zyxyz0,xp1337,0.609,46
+Zyxyz0,Xuxon,0.405,42
+Zyxyz0,xx521xx,0.5,46
+Zyxyz0,Zigzagoon,0.606,33

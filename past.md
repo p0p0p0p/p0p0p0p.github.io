@@ -9,7 +9,7 @@ List of brackets from previous tournaments, with the result of each one's finals
 * [VGMC 2 (2008)](http://www.bracketmaker.com/tlist.cfm?tid=276389)
   * Metal Gear Solid Main Theme (Metal Gear Solid 2) 44-29 Dragon Roost Island (Zelda: The Wind Waker)
 * [VGMC 3 (2009)](http://www.bracketmaker.com/tlist.cfm?tid=327002)
-  * "Reset" ~ "Thank You" Version (Okami) 32-30 Diving (Waterworld)
+  * Reset ~ "Thank You" Version (Okami) 32-30 Diving (Waterworld)
 * [VGMC 4 (2010)](http://www.bracketmaker.com/tlist.cfm?tid=364957)
   * Hope (Umineko no Naku Koro ni 1) 32-30 Trombe! (Super Robot Wars Alpha 3)
 * [VGMC 5 (2011)](http://www.bracketmaker.com/tlist.cfm?tid=397610)
