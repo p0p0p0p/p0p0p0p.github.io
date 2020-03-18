@@ -1,13 +1,12 @@
 var graph = Viva.Graph.graph();
 
 jQuery(document).ready(function() {
-  /*jQuery.ajax({
+  jQuery.ajax({
     type: "GET",
     url: "https://p0p0p0p.github.io/js/data/noms14.csv",
     dataType: "text",
     success: function(data) {makeNodes(data);}
-   });*/
-  makeNodes("Song,azuarc,cako,dire,p0\nLove Scope,0,1,0,1\nTaliyah,1,0,1,1\n");
+   });
 });
 
 function makeNodes(data) {
@@ -20,13 +19,12 @@ function makeNodes(data) {
     }
   }
 
-  /*jQuery.ajax({
+  jQuery.ajax({
     type: "GET",
     url: "https://p0p0p0p.github.io/js/data/noms14.csv",
     dataType: "text",
     success: function(data) {makeLinks(data);}
-   });*/
-  makeLinks("Song,azuarc,cako,dire,p0\nLove Scope,0,1,0,1\nTaliyah,1,0,1,1\n");
+   });
 }
 
 function makeLinks(data) {
