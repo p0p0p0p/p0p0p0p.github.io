@@ -1,3 +1,4 @@
+var MIN_VOTES = 5;
 var graph = Viva.Graph.graph();
 
 jQuery(document).ready(function() {
@@ -31,12 +32,14 @@ function makeLinks(data) {
   parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
-    title = row['Song'];
-    for (let header in row) {
-      if (header != 'Song' && row[header] == 1) {
-        graph.addLink(row['Song'], header)
+    if (row['Votes'] >= MIN_VOTES) {
+      title = row['Song'];
+      for (let header in row) {
+        if (header != 'Song' && row[header] == 1) {
+          graph.addLink(row['Song'], header)
+        }
       }
-    }
+  }
   });
 
   renderGraph();
