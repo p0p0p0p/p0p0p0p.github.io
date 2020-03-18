@@ -1,74 +1,73 @@
 var MIN_VOTES = 150;
-var MIN_WEIGHT = 0.2;
+var MIN_WEIGHT = 0.6;
 var LO = 1
 var HI = 0
 
 var PNODE = 'VGMC 13 Results';
 var graph = Viva.Graph.graph();
-var graphics = Viva.Graph.View.svgGraphics();
 graph.addNode(PNODE);
 
-$(document).ready(function() {
-  /*$.ajax({
+jQuery(document).ready(function() {
+  jQuery.ajax({
     type: "GET",
-    url: "data/voters.csv",
+    url: "https://p0p0p0p.github.io/js/data/voters.csv",
     dataType: "text",
     success: function(data) {makeNodes(data);}
-   });*/
-  makeNodes("Name,Matches,Strength\nAdvokaiser,191,0.66\nAkkrillic,151,0.66\n");
+   });
 });
 
 function makeNodes(data) {
-  parse = $.csv.toObjects(data);
+  parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
-    console.log(row['Name']);
     if (row['Matches'] >= MIN_VOTES) {
       graph.addNode(row['Name']);
-      if (row['Strength'] >= MIN_WEIGHT) {
-        graph.addLink(PNODE, row['Name'], {strength: Number(row['Strength'])});
-      }
-      if (row['Strength'] < LO) {
-        LO = Number(row['Strength']);
-      }
-      if (row['Strength'] > HI) {
-        HI = Number(row['Strength']);
+      str = Number(row['Strength']);
+      if (str >= MIN_WEIGHT) {
+        graph.addLink(PNODE, row['Name'], {strength: str});
+        if (str < LO) {
+          LO = str;
+        }
+        if (str > HI) {
+          HI = str;
+        }
       }
     }
   });
 
-  /*$.ajax({
+  jQuery.ajax({
     type: "GET",
-    url: "data/voters.csv",
+    url: "data/links.csv",
     dataType: "text",
-    success: function(data) {makeNodes(data);}
-   });*/
-   makeLinks("Name1,Name2,Strength,Shared\nazuarc,Advokaiser,0.582,184\nbanana,Arti,0.32,50\n");
+    success: function(data) {makeLinks(data);}
+   });
 }
 
 function makeLinks(data) {
-  parse = $.csv.toObjects(data);
+  parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
+    if (graph.getNode(row['Name1']) && graph.getNode(row['Name2'])) {
+      str = Number(row['Strength']);
       if (row['Strength'] >= MIN_WEIGHT) {
-        graph.addLink(row['Name1'], row['Name2'], {strength: Number(row['Strength'])});
-        console.log(row['Name1']);
+        graph.addLink(row['Name1'], row['Name2'], {strength: str});
+        if (str < LO) {
+          LO = str;
+        }
+        if (str > HI) {
+          HI = str;
+        }
       }
-      if (row['Strength'] < LO) {
-        LO = Number(row['Strength']);
-      }
-      if (row['Strength'] > HI) {
-        HI = Number(row['Strength']);
-      }
+    }
   });
 
   renderGraph();
 }
 
 function renderGraph() {
-  graph.getNode(PNODE).isPinned = true;
-
+  var graphics = Viva.Graph.View.svgGraphics();
   var nodeSize = 6;
+  graph.getNode(PNODE).isPinned = true;
 
   graphics.node(function(node) {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
