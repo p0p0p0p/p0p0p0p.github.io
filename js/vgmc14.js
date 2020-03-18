@@ -1,62 +1,42 @@
-var MIN_VOTES = 150;
-var MIN_WEIGHT = 0.6;
-var LO = 1
-var HI = 0
-
-var PNODE = 'VGMC 13 Results';
 var graph = Viva.Graph.graph();
-graph.addNode(PNODE);
 
 jQuery(document).ready(function() {
-  jQuery.ajax({
+  /*jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/voters.csv",
+    url: "https://p0p0p0p.github.io/js/data/noms14.csv",
     dataType: "text",
     success: function(data) {makeNodes(data);}
-   });
+   });*/
+  makeNodes("Song,azuarc,cako,dire,p0\nLove Scope,0,1,0,1\nTaliyah,1,0,1,1\n");
 });
 
 function makeNodes(data) {
-  parse = jQuery.csv.toObjects(data);
+  parse = jQuery.csv.toObjects(data)[0];
 
-  parse.forEach(function(row) {
-    if (row['Matches'] >= MIN_VOTES) {
-      graph.addNode(row['Name']);
-      str = Number(row['Strength']);
-      if (str >= MIN_WEIGHT) {
-        graph.addLink(PNODE, row['Name'], {strength: str});
-        if (str < LO) {
-          LO = str;
-        }
-        if (str > HI) {
-          HI = str;
-        }
-      }
+  for (let header in parse) {
+    filter = ['Votes','Unique','Game','Song','Link'];
+    if (!filter.includes(header)) {
+      graph.addNode(header);
     }
-  });
+  }
 
-  jQuery.ajax({
+  /*jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/links.csv",
+    url: "https://p0p0p0p.github.io/js/data/noms14.csv",
     dataType: "text",
     success: function(data) {makeLinks(data);}
-   });
+   });*/
+  makeLinks("Song,azuarc,cako,dire,p0\nLove Scope,0,1,0,1\nTaliyah,1,0,1,1\n");
 }
 
 function makeLinks(data) {
   parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
-    if (graph.getNode(row['Name1']) && graph.getNode(row['Name2'])) {
-      str = Number(row['Strength']);
-      if (row['Strength'] >= MIN_WEIGHT) {
-        graph.addLink(row['Name1'], row['Name2'], {strength: str});
-        if (str < LO) {
-          LO = str;
-        }
-        if (str > HI) {
-          HI = str;
-        }
+    title = row['Song'];
+    for (let header in row) {
+      if (header != 'Song' && row[header] == 1) {
+        graph.addLink(row['Song'], header)
       }
     }
   });
@@ -67,7 +47,6 @@ function makeLinks(data) {
 function renderGraph() {
   var graphics = Viva.Graph.View.svgGraphics();
   var nodeSize = 6;
-  graph.getNode(PNODE).isPinned = true;
 
   graphics.node(function(node) {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
@@ -88,20 +67,17 @@ function renderGraph() {
   });
 
   var layout = Viva.Graph.Layout.forceDirected(graph, {
-      springLength : 10,
+      springLength : 500,
       springCoeff : 0.0008,
       dragCoeff : .08,
       gravity : -10,
-      springTransform: function (link, spring) {
-        spring.length = 500 * (1 - (link.data.strength-LO)/(HI-LO));
-      }
   });
 
   // Render the graph
   var renderer = Viva.Graph.View.renderer(graph, {
-        layout : layout,
-        graphics : graphics
-      });
-  
+    layout : layout,
+    graphics : graphics
+  });
+
   renderer.run();
 }
