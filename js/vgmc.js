@@ -37,7 +37,7 @@ function makeNodes(data) {
 
   jQuery.ajax({
     type: "GET",
-    url: "data/links.csv",
+    url: "https://p0p0p0p.github.io/js/data/links.csv",
     dataType: "text",
     success: function(data) {makeLinks(data);}
    });
@@ -102,6 +102,6 @@ function renderGraph() {
         layout : layout,
         graphics : graphics
       });
-
+  
   renderer.run();
 }
