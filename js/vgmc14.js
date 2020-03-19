@@ -1,3 +1,4 @@
+var PNODE = 'Variations on a Ra Melody';
 var MIN_VOTES = 5;
 var FILTER = ['Votes','Unique','Game','Song','Link'];
 var graph = Viva.Graph.graph();
@@ -5,7 +6,7 @@ var graph = Viva.Graph.graph();
 jQuery(document).ready(function() {
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/vgmc14/noms14.csv",
+    url: "https://p0p0p0p.github.io/js/data/vgmc14/noms.csv",
     dataType: "text",
     success: function(data) {makeNodes(data);}
    });
@@ -22,7 +23,7 @@ function makeNodes(data) {
 
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/vgmc14/noms14.csv",
+    url: "https://p0p0p0p.github.io/js/data/vgmc14/noms.csv",
     dataType: "text",
     success: function(data) {makeLinks(data);}
    });
@@ -49,6 +50,7 @@ function makeLinks(data) {
 function renderGraph() {
   var graphics = Viva.Graph.View.svgGraphics();
   var nodeSize = 4;
+  graph.getNode(PNODE).isPinned = true;
 
   graphics.node(function(node) {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
@@ -72,7 +74,7 @@ function renderGraph() {
   });
 
   var layout = Viva.Graph.Layout.forceDirected(graph, {
-      springLength : 500,
+      springLength : 300,
       springCoeff : 0.0008,
       dragCoeff : .08,
       gravity : -10,
