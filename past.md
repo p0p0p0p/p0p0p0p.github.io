@@ -5,7 +5,7 @@ layout: default
 List of brackets from previous tournaments, with the result of each one's finals match.
 
 Contest | Final
-:------- | :-----
+-------:|:-----
 [VGMC 1 (2007)](http://www.bracketmaker.com/tlist.cfm?tid=229929) | Scars of Time (Chrono Cross) 53-27<br>Baba Yetu (Civilization IV)
 [VGMC 2 (2008)](http://www.bracketmaker.com/tlist.cfm?tid=276389) | Metal Gear Solid Main Theme (Metal Gear Solid 2) 44-29<br>Dragon Roost Island (Zelda: The Wind Waker)
 [VGMC 3 (2009)](http://www.bracketmaker.com/tlist.cfm?tid=327002) | Reset ~ "Thank You" Version (Okami) 32-30<br>Diving (Waterworld)
