@@ -50,7 +50,7 @@ function makeLinks(data) {
 function renderGraph() {
   var graphics = Viva.Graph.View.svgGraphics();
   var nodeSize = 4;
-  graph.getNode(PNODE).isPinned = true;
+  // graph.getNode(PNODE).isPinned = true;
 
   graphics.node(function(node) {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
@@ -74,8 +74,8 @@ function renderGraph() {
   });
 
   var layout = Viva.Graph.Layout.forceDirected(graph, {
-      springLength : 250,
-      springCoeff : 0.0008,
+      springLength : 200,
+      springCoeff : 0.00025,
       dragCoeff : .08,
       gravity : -10,
   });
