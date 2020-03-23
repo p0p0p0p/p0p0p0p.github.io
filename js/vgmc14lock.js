@@ -6,7 +6,7 @@ var graph = Viva.Graph.graph();
 jQuery(document).ready(function() {
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/vgmc14/bracket.csv",
+    url: "https://p0p0p0p.github.io/js/data/vgmc14/locks.csv",
     dataType: "text",
     success: function(data) {makeNodes(data);}
    });
@@ -23,7 +23,7 @@ function makeNodes(data) {
 
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/vgmc14/bracket.csv",
+    url: "https://p0p0p0p.github.io/js/data/vgmc14/locks.csv",
     dataType: "text",
     success: function(data) {makeLinks(data);}
    });
