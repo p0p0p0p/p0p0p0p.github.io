@@ -56,10 +56,9 @@ function renderGraph() {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
     var ui = Viva.Graph.svg('g'),
         // Create SVG text element with user id as content
-          
-          
         svgText = Viva.Graph.svg('text').attr('text-anchor', 'middle').attr('y', '-4px').text(node.id);
         svgNode = Viva.Graph.svg("circle").attr("r", nodeSize).attr("fill", "#e00000");
+        
     if (node.data.type == 'song') {
       svgText = Viva.Graph.svg('text').attr('text-anchor', 'middle').attr('y', '-1px').attr('font-size', 12).text(node.id);
       svgNode = Viva.Graph.svg("rect").attr("width", nodeSize).attr("height", nodeSize).attr("fill", "#0000e0");
