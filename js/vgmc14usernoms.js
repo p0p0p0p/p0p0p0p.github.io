@@ -111,11 +111,11 @@ function renderGraph() {
 
   var layout = Viva.Graph.Layout.forceDirected(graph, {
       springLength : 10,
-      springCoeff : 0.00006,
+      springCoeff : 0.0002,
       dragCoeff : .08,
       gravity : -10,
       springTransform: function (link, spring) {
-        spring.length = 100 * (1 - (link.data.shared-2)/(8-2));
+        spring.length = 100 * (1 - (link.data.shared-3)/(8-3));
       }
   });
 
