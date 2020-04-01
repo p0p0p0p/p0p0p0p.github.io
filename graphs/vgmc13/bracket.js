@@ -10,7 +10,7 @@ graph.addNode(PNODE);
 jQuery(document).ready(function() {
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/vgmc13/nodes.csv",
+    url: "https://p0p0p0p.github.io/graphs/vgmc13/nodes.csv",
     dataType: "text",
     success: function(data) {makeNodes(data);}
    });
@@ -37,7 +37,7 @@ function makeNodes(data) {
 
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/vgmc13/links.csv",
+    url: "https://p0p0p0p.github.io/graphs/vgmc13/links.csv",
     dataType: "text",
     success: function(data) {makeLinks(data);}
    });
