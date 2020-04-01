@@ -5,7 +5,7 @@ var graph = Viva.Graph.graph();
 jQuery(document).ready(function() {
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/vgmc14/bracket.csv",
+    url: "https://p0p0p0p.github.io/graphs/vgmc14/noms.csv",
     dataType: "text",
     success: function(data) { makeNodes(data); }
    });
@@ -22,7 +22,7 @@ function makeNodes(data) {
 
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/js/data/vgmc14/bracket.csv",
+    url: "https://p0p0p0p.github.io/graphs/vgmc14/noms.csv",
     dataType: "text",
     success: function(data) { makeLinks(data); }
    });
@@ -114,7 +114,7 @@ function renderGraph() {
     dragCoeff: .08,
     gravity: -10,
     springTransform: function (link, spring) {
-      spring.length = 100 * (1 - (link.data.shared-3)/(8-3));
+      spring.length = 200 * (1 - (link.data.shared-MIN_SHARED)/(8-MIN_SHARED));
     }
   });
 
