@@ -1,4 +1,4 @@
-var FILTER = 'Winner';
+var FILTER = ['ID','Song A','Song B','Votes A','Votes B','Total','Margin','Winner'];
 var graph = Viva.Graph.graph();
 var PNODE = 'RESULTS';
 
@@ -16,7 +16,7 @@ function makeNodes(data) {
   graph.addNode(PNODE, {type: 'user'});
 
   for (let header in parse) {
-    if (header != FILTER) {
+    if (header && !FILTER.includes(header)) {
       graph.addNode(header, {type: 'user'});
     }
   }
@@ -33,13 +33,19 @@ function makeLinks(data) {
   let parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
+    let title = row['Song A'];
+    graph.addNode(title, {type: 'song'});
+    title = row['Song B'];
+    graph.addNode(title, {type: 'song'});
+
     for (let header in row) {
-      title = row[header];
-      if (title) {
-        graph.addNode(title, {type: 'song'});
-      }
-      if (header == FILTER) {
-        graph.addLink(title, header);
+      if (header == 'Winner') {
+        graph.addLink(PNODE, row[header]);
+      } else if (header && !FILTER.includes(header)) {
+        title = row[header];
+        if (title) {
+          graph.addLink(header, title);
+        }
       }
     }
   });
@@ -77,7 +83,7 @@ function renderGraph() {
 
   var layout = Viva.Graph.Layout.forceDirected(graph, {
     springLength: 100,
-    springCoeff: 0.00004,
+    springCoeff: 0.00002,
     dragCoeff: .08,
     gravity: -10,
   });

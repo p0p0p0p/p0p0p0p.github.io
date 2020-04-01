@@ -3,7 +3,7 @@ var MIN_WEIGHT = 0.6;
 var LO = 1
 var HI = 0
 
-var PNODE = 'VGMC 13 Results';
+var PNODE = 'RESULTS';
 var graph = Viva.Graph.graph();
 graph.addNode(PNODE);
 
