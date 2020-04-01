@@ -17,7 +17,7 @@ jQuery(document).ready(function() {
 });
 
 function makeNodes(data) {
-  parse = jQuery.csv.toObjects(data);
+  let parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
     if (row['Matches'] >= MIN_VOTES) {
@@ -44,7 +44,7 @@ function makeNodes(data) {
 }
 
 function makeLinks(data) {
-  parse = jQuery.csv.toObjects(data);
+  let parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
     if (graph.getNode(row['Name1']) && graph.getNode(row['Name2'])) {

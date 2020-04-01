@@ -11,7 +11,7 @@ jQuery(document).ready(function() {
 });
 
 function makeNodes(data) {
-  parse = jQuery.csv.toObjects(data)[0];
+  let parse = jQuery.csv.toObjects(data)[0];
 
   for (let header in parse) {
     if (!FILTER.includes(header)) {
@@ -28,7 +28,7 @@ function makeNodes(data) {
 }
 
 function makeLinks(data) {
-  parse = jQuery.csv.toObjects(data);
+  let parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
     title = row['Song'];

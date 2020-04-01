@@ -1,40 +1,44 @@
-var FILTER = ['Votes','Unique','Game','Song','Link'];
+var FILTER = 'Winner';
 var graph = Viva.Graph.graph();
+var PNODE = 'RESULTS';
 
 jQuery(document).ready(function() {
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/graphs/vgmc14/noms.csv",
+    url: "https://p0p0p0p.github.io/graphs/vgmc14/results.csv",
     dataType: "text",
     success: function(data) { makeNodes(data); }
    });
 });
 
 function makeNodes(data) {
-  parse = jQuery.csv.toObjects(data)[0];
+  let parse = jQuery.csv.toObjects(data)[0];
+  graph.addNode(PNODE, {type: 'user'});
 
   for (let header in parse) {
-    if (!FILTER.includes(header)) {
+    if (header != FILTER) {
       graph.addNode(header, {type: 'user'});
     }
   }
 
   jQuery.ajax({
     type: "GET",
-    url: "https://p0p0p0p.github.io/graphs/vgmc14/noms.csv",
+    url: "https://p0p0p0p.github.io/graphs/vgmc14/results.csv",
     dataType: "text",
     success: function(data) { makeLinks(data); }
    });
 }
 
 function makeLinks(data) {
-  parse = jQuery.csv.toObjects(data);
+  let parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
-    title = row['Song'];
-    graph.addNode(title, {type: 'song'});
     for (let header in row) {
-      if (!FILTER.includes(header) && row[header] >= 1) {
+      title = row[header];
+      if (title) {
+        graph.addNode(title, {type: 'song'});
+      }
+      if (header == FILTER) {
         graph.addLink(title, header);
       }
     }
@@ -46,6 +50,7 @@ function makeLinks(data) {
 function renderGraph() {
   var graphics = Viva.Graph.View.svgGraphics();
   var nodeSize = 4;
+  graph.getNode(PNODE).isPinned = true;
 
   graphics.node(function(node) {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
