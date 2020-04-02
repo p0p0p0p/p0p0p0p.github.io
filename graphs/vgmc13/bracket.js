@@ -1,7 +1,8 @@
 var MIN_VOTES = 150;
 var MIN_WEIGHT = 0.6;
-var LO = 1
-var HI = 0
+var MIN_WIN = 0.65;
+var LO = 1;
+var HI = 0;
 
 var PNODE = 'RESULTS';
 var graph = Viva.Graph.graph();
@@ -23,7 +24,7 @@ function makeNodes(data) {
     if (row['Matches'] >= MIN_VOTES) {
       graph.addNode(row['Name']);
       str = Number(row['Strength']);
-      if (str >= MIN_WEIGHT) {
+      if (str >= MIN_WIN) {
         graph.addLink(PNODE, row['Name'], {strength: str});
         if (str < LO) {
           LO = str;
