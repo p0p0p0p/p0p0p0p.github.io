@@ -1,6 +1,6 @@
 var FILTER = ['ID','Song A','Song B','Votes A','Votes B','Total','Margin','Winner'];
 var graph = Viva.Graph.graph();
-var PNODE = 'RESULTS';
+//var PNODE = 'RESULTS';
 
 jQuery(document).ready(function() {
   jQuery.ajax({
@@ -13,7 +13,7 @@ jQuery(document).ready(function() {
 
 function makeNodes(data) {
   let parse = jQuery.csv.toObjects(data)[0];
-  graph.addNode(PNODE, {type: 'user'});
+  //graph.addNode(PNODE, {type: 'user'});
 
   for (let header in parse) {
     if (header && !FILTER.includes(header)) {
@@ -40,7 +40,7 @@ function makeLinks(data) {
 
     for (let header in row) {
       if (header == 'Winner') {
-        graph.addLink(PNODE, row[header]);
+        //graph.addLink(PNODE, row[header]);
       } else if (header && !FILTER.includes(header)) {
         title = row[header];
         if (title) {
@@ -56,7 +56,7 @@ function makeLinks(data) {
 function renderGraph() {
   var graphics = Viva.Graph.View.svgGraphics();
   var nodeSize = 4;
-  graph.getNode(PNODE).isPinned = true;
+  //graph.getNode(PNODE).isPinned = true;
 
   graphics.node(function(node) {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
