@@ -85,7 +85,7 @@ function renderGraph() {
     springLength: 10,
     springCoeff: 0.00002,
     dragCoeff: .08,
-    gravity: -10,
+    gravity: -8,
   });
 
   // Render the graph
