@@ -1,4 +1,5 @@
 var FILTER = ['ID','Song A','Song B','Votes A','Votes B','Total','Margin','Winner'];
+var MAJORITY = 1;
 var graph = Viva.Graph.graph();
 var PNODE = 'RESULTS';
 
@@ -38,12 +39,19 @@ function makeLinks(data) {
     title = row['Song B'];
     graph.addNode(title, {type: 'song'});
 
+    var majority_song = "";
+    if (row['Votes A']/row['Total'] >= MAJORITY) {
+      majority_song = row['Song A'];
+    } else if (row['Votes B']/row['Total'] >= MAJORITY) {
+      majority_song = row['Song B'];
+    }
+
     for (let header in row) {
       if (header == 'Winner') {
         graph.addLink(PNODE, row[header]);
       } else if (header && !FILTER.includes(header)) {
         title = row[header];
-        if (title) {
+        if (title && title != majority_song) {
           graph.addLink(header, title);
         }
       }
