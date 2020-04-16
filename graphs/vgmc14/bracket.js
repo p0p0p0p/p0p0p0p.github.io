@@ -91,7 +91,7 @@ function renderGraph() {
 
   var layout = Viva.Graph.Layout.forceDirected(graph, {
     springLength: 10,
-    springCoeff: 0.00002,
+    springCoeff: 0.00001,
     dragCoeff: .08,
     gravity: -8,
   });
