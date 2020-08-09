@@ -1,5 +1,5 @@
 var FILTER = ['ID','Song A','Song B','Votes A','Votes B','Total','Margin'];
-var graph = Viva.Graph.graph();
+var App = {graph: Viva.Graph.graph()};
 var PNODE = {field: 'Winner', label: 'RESULTS'};
 var MIN_RATIO = 0.0;
 var MAX_RATIO = 0.0;
@@ -7,7 +7,10 @@ var MAX_RATIO = 0.0;
 jQuery(document).ready(resetGraph());
 
 function resetGraph() {
-  graph.clear();
+  if (App.renderer) {
+    App.renderer.dispose();
+    App.graph.clear();
+  }
 
   jQuery.ajax({
     type: "GET",
@@ -36,11 +39,18 @@ function makeNodes(data) {
     }
   });
 
-  document.getElementById("update").textContent = "Updated through match " + totals[PNODE.field];
+  document.getElementById("update").textContent = "Updated through match " + totals[PNODE.field] + " (Red/Blue = Endeavour/Isoleucine finals vote)";
 
   for (let key in totals) {
     if (totals[key] / totals[PNODE.field] >= min_voting) {
-      graph.addNode(key);
+      App.graph.addNode(key);
+      if (parse[parse.length-1][key]) {
+        if (parse[parse.length-1][key] == parse[parse.length-1]['Winner']) {
+          App.graph.getNode(key).data = 1;
+        } else {
+          App.graph.getNode(key).data = 0;
+        }
+      }
     }
   }
 
@@ -98,7 +108,7 @@ function makeLinks(data) {
     // (user1, user2, compatibility), skipping any entries for which either user did not meet the required
     // participation or no matches overlapped.
     for(n = 0; n < userArray.length; n++) {
-      if(graph.getNode(parse[0][i]) && graph.getNode(parse[0][i+n+1]) && userArray[n].total > 0) {
+      if(App.graph.getNode(parse[0][i]) && App.graph.getNode(parse[0][i+n+1]) && userArray[n].total > 0) {
         linkArray.push({user1: parse[0][i],
                         user2: parse[0][i+n+1],
                         ratio: userArray[n].matching / userArray[n].total});
@@ -109,7 +119,7 @@ function makeLinks(data) {
   // we only add links to the graph if two users reach or exceed the compatibility threshold defined by the input.
   linkArray.forEach(function(pair) {
     if (pair.ratio >= MIN_RATIO) {
-      graph.addLink(pair.user1, pair.user2, {ratio: pair.ratio});
+      App.graph.addLink(pair.user1, pair.user2, {ratio: pair.ratio});
       if (pair.ratio > MAX_RATIO) {
         MAX_RATIO = pair.ratio;
       }
@@ -122,7 +132,7 @@ function makeLinks(data) {
 function renderGraph() {
   var graphics = Viva.Graph.View.svgGraphics();
   var nodeSize = 3;
-  graph.getNode(PNODE.field).isPinned = true;
+  App.graph.getNode(PNODE.field).isPinned = true;
 
   graphics.node(function(node) {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
@@ -130,10 +140,15 @@ function renderGraph() {
     var ui = Viva.Graph.svg('g');
 
     var svgText = Viva.Graph.svg('text').attr('text-anchor', 'middle').attr('y', '-4px').text(node.id),
-        svgNode = Viva.Graph.svg("circle").attr("r", nodeSize).attr("fill", "#e00000");
+        svgNode = Viva.Graph.svg("circle").attr("r", nodeSize).attr("fill", "#999999");
 
     if (node.id == PNODE.field) {
       svgText = Viva.Graph.svg('text').attr('text-anchor', 'middle').attr('y', '-4px').text(PNODE.label);
+    }
+
+    if (node.data == 1) {
+      svgNode = Viva.Graph.svg("circle").attr("r", nodeSize).attr("fill", "#e00000");
+    } else if (node.data == 0) {
       svgNode = Viva.Graph.svg("circle").attr("r", nodeSize).attr("fill", "#0000e0");
     }
 
@@ -148,7 +163,7 @@ function renderGraph() {
                 ')');
   });
 
-  var layout = Viva.Graph.Layout.forceDirected(graph, {
+  var layout = Viva.Graph.Layout.forceDirected(App.graph, {
     springLength: 10,
     springCoeff: 0.0002,
     dragCoeff: .08,
@@ -159,10 +174,10 @@ function renderGraph() {
   });
 
   // Render the graph
-  var renderer = Viva.Graph.View.renderer(graph, {
+  App.renderer = Viva.Graph.View.renderer(App.graph, {
     layout: layout,
     graphics: graphics
   });
 
-  renderer.run();
+  App.renderer.run();
 }
