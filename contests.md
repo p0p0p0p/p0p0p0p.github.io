@@ -19,4 +19,4 @@ List of brackets from previous tournaments, with the result of each one's finals
 [VGMC 11 (2017)](http://www.bracketmaker.com/tlist.cfm?tid=466312) | Emil / Karma (NieR)<br>20-10<br>Flying Clouds, Drifting Haze (Atelier Shallie)
 [VGMC 12 (2018)](http://www.bracketmaker.com/tlist.cfm?tid=469506) | Sunshine Coastline (Ys VIII: Lacrimosa of Dana)<br>21-17<br>Hidra Heteromycin (Ar nosurge)
 [VGMC 13 (2019)](http://www.bracketmaker.com/tlist.cfm?tid=471679) | Class::EXSPHERE_NOSURGE; (Ar nosurge)<br>26-23<br>Revenger (Crystar)
-[VGMC 14/TOC 3 (2020)](http://www.bracketmaker.com/tlist.cfm?tid=473292) | [Ongoing!](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
+[VGMC 14/TOC 3 (2020)](http://www.bracketmaker.com/tlist.cfm?tid=473292) | Endeavour (Idola Phantasy Star Saga)<br>25-23<br>-(Isoleucine)- (13 Sentinels: Aegis Rim)
