@@ -2,9 +2,13 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/theme.default.min.css">
-<script type="text/javascript" src="/src/jquery-3.4.1.min.js">document.write("jquery-3.4.1.min.js not found")</script>
-<script type="text/javascript" src="./src/jquery.tablesorter.min.js">document.write("jquery.tablesorter.min.js not found")</script>
+# Retirees
+
+Shift+Click to sort by multiple columns! Wow!
+
+<link rel="stylesheet" href="./assets/css/theme.default.min.css">
+<script type="text/javascript" src="./assets/js/jquery-3.4.1.min.js">document.write("jquery-3.4.1.min.js not found")</script>
+<script type="text/javascript" src="./assets/js/jquery.tablesorter.min.js">document.write("jquery.tablesorter.min.js not found")</script>
 
 <script type="text/javascript">
   jQuery(function() {
@@ -12,1203 +16,201 @@ layout: default
   });
 </script>
 
-# Retirees
-
-what
-
-<div class="lol">rofl</div>
-
-|hello | bye|
-|------|----|
-|test1|test2|
-
-<table id="retiree_table" class="tablesorter">
-  <thead>
-    <tr>
-      <th>Song</th>
-      <th>Contest</th>
-      <th>Placement (1 = Champion, 2 = Finalist, etc.)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>13 Sentinels: Aegis Rim - -(Isoleucine)-</td>
-      <td>14</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>13 Sentinels: Aegis Rim - -[Deoxyribose]-</td>
-      <td>14</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>7th Dragon 2020 - The Last Location of Mankind</td>
-      <td>6</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Ace Combat 6 - The Liberation of Gracemeria</td>
-      <td>3</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Ace Combat Zero - Zero</td>
-      <td>6</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Ace Combat: Assault Horizon - White Devil</td>
-      <td>8</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Air - Summer Lights</td>
-      <td>8</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Alan Wake - The Poet and the Muse</td>
-      <td>7</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Ao no Kiseki Evolution - Seize the Truth!</td>
-      <td>9</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Ar nosurge - Class::EXSPHERE_NOSURGE;</td>
-      <td>13</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Ar nosurge - Hidra Heteromycin</td>
-      <td>12</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Ar tonelico II - EXEC_SPHILIA/.</td>
-      <td>7</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Ar tonelico II - The Moon-Dwelling Demon</td>
-      <td>2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Ar tonelico II - The Second Tower</td>
-      <td>2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Ar tonelico III - EXEC_REBIRTHIA=PROTOCOL/.</td>
-      <td>7</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Atelier Ayesha - Invitation Flower ~ Autumn</td>
-      <td>13</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Atelier Ayesha - Slag Dance</td>
-      <td>10</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Atelier Ayesha - Yesterday’s Opponents are Today’s Ingredients</td>
-      <td>13</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Atelier Rorona Plus - Flash Frost</td>
-      <td>13</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Atelier Shallie - Flying Clouds, Drifting Haze</td>
-      <td>11</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Aurora Memoria - Classroom</td>
-      <td>14</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Baldr Force - Face of Fact</td>
-      <td>9</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Baldr Heart - Innocence and Emptiness</td>
-      <td>13</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Baldr Sky - Ruins of Silence</td>
-      <td>6</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Barkley, Shut up and Jam Gaiden - johnathan taylor thomas</td>
-      <td>4</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Beatmania IIDX 21 Spada - Dark Legacy</td>
-      <td>9</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Beatmania IIDX 22 PENDUAL - Despair of ELFERIA</td>
-      <td>10</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Blue Reflection - TIGAR (All Phase Mix)</td>
-      <td>14</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Boku no Te no Naka no Rakuen - Papiliones</td>
-      <td>8</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Bravely Default - Serpent Eating the Ground</td>
-      <td>8</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Bravely Default - Wicked Flight</td>
-      <td>8</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Castle Crashers - Winterbliss</td>
-      <td>6</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Chrono Cross - Dream of the Shore Bordering Another World</td>
-      <td>1</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Chrono Cross - Scars of Time</td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Chrono Cross - Time of the Dreamwatch</td>
-      <td>1</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>Chrono Trigger - Time Circuits/Corridors of Time/12,000 B.C.</td>
-      <td>3</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Civilization IV - Baba Yetu</td>
-      <td>1</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>ClaDun: This Is an RPG - Slicing the Wind</td>
-      <td>6</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Clannad - Nagisa ~ Farewell at the Foot of a Hill</td>
-      <td>5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Cloudbuilt: Defiance - Monolith</td>
-      <td>11</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Crisis Core: Final Fantasy VII - The Price of Freedom</td>
-      <td>4</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Crypt of the Necrodancer - Six Feet Thunder</td>
-      <td>11</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Crystar - Revenger</td>
-      <td>13</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Cytus II - Chocolate Missile</td>
-      <td>13</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Dark Cloud - Dark Cloud Main Theme</td>
-      <td>4</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Deemo - Evolution Era</td>
-      <td>9</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Deltarune - Rude Buster</td>
-      <td>14</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Demon Truck - Dead Neon Hell City</td>
-      <td>13</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Digital: A Love Story - Paper Dolls</td>
-      <td>7</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Donkey Kong Country - Fear Factory</td>
-      <td>8</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Donkey Kong Country - Gangplank Galleon</td>
-      <td>3</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Donkey Kong Country 2 - Forest Interlude</td>
-      <td>3</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Donkey Kong Country 2 - Stickerbush Symphony</td>
-      <td>1</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Dra+Koi - Love Song of a Certain Dragon</td>
-      <td>5</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Drakengard 3 - Kuroi Uta ~ The Black Song (International Version)</td>
-      <td>10</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Ducktales - The Moon</td>
-      <td>5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Final Fantasy IX - You&#39;re Not Alone!</td>
-      <td>3</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Final Fantasy V - Battle with Gilgamesh/Clash on the Big Bridge</td>
-      <td>1</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>Final Fantasy VIII - The Extreme</td>
-      <td>5</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Final Fantasy X - Seymour Battle</td>
-      <td>6</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Final Fantasy X - Someday the Dream Will End</td>
-      <td>9</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Final Fantasy X - To Zanarkand</td>
-      <td>1</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>Fire Emblem: Fates - Desire Below (Flow)</td>
-      <td>14</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Fire Emblem: Fates - End of All (Land)</td>
-      <td>12</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>G-Darius - Kimera II</td>
-      <td>4</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Ginga Force - Zenith</td>
-      <td>12</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>GITADORA OverDrive - Douwa Kairou</td>
-      <td>13</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Gran Turismo 2 - Moon over the Castle</td>
-      <td>4</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Granado Espada - Laguerra del Mundo</td>
-      <td>12</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Granado Espada - Rapal</td>
-      <td>9</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Granblue Fantasy - New World Order</td>
-      <td>13</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Grandia II - FIGHT!! Ver. 4 ~ The Final Battle</td>
-      <td>4</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Guilty Gear Isuka - Riches in Me</td>
-      <td>3</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Halo 2 - Halo Theme Mjolnir Mix</td>
-      <td>5</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Higurashi no Naku Koro ni Kai 8 - You -Destructive-</td>
-      <td>5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Homestuck - Sburban Jungle</td>
-      <td>6</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Idola Phantasy Star Saga - Endeavour</td>
-      <td>14</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Jets&#39;n&#39;Guns - Shop Music</td>
-      <td>7</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>jubeat knit - Shining Wizard</td>
-      <td>8</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>jubeat Prop - Chloe</td>
-      <td>13</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Kingdom Hearts - Hikari ~ KINGDOM Orchestra Instrumental Version</td>
-      <td>2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Kirby 64 - Zero-Two</td>
-      <td>8</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Kirby Triple Deluxe - Moonstruck Blossom</td>
-      <td>14</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Lamento -Beyond the Void- - When the End</td>
-      <td>7</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Legend of Mana - Title</td>
-      <td>1</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Lufia II - Battle #3</td>
-      <td>5</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Lufia II - The Last Duel</td>
-      <td>8</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>maimai MiLK - Credits</td>
-      <td>14</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Mamorukun Curse! - YO-KAI Disco (Hell&#39;s Entrance World)</td>
-      <td>14</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Mario Kart 8 - Big Blue</td>
-      <td>11</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Mass Effect 2 - Suicide Mission</td>
-      <td>5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Mega Man 2 - Dr. Wily Stage 1</td>
-      <td>1</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>Mega Man 3 - Sparkman Stage</td>
-      <td>2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Mega Man 3 - Title</td>
-      <td>2</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Mega Man X5 - X vs. Zero</td>
-      <td>3</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Metal Gear Solid 2 - Metal Gear Solid 2 Main Theme</td>
-      <td>2</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Metal Gear Solid 3 - Metal Gear Solid 3 Main Theme</td>
-      <td>2</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Metal Masters - Metal Beat</td>
-      <td>9</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Metal Slug 5 - Windy Day</td>
-      <td>1</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>Monty on the Run - In-Game Music</td>
-      <td>5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Napple Tale: Arsia in Daydream - Wild Wind</td>
-      <td>4</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Neotokyo - Tin Soldiers</td>
-      <td>7</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Nier - Emil / Karma</td>
-      <td>11</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Nier - Shadowlord</td>
-      <td>4</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Nier - Song of the Ancients / Fate</td>
-      <td>5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Nier: Automata - Amusement Park</td>
-      <td>12</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Okami - “Reset” ~ “Thank You” Version</td>
-      <td>3</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Okami - The Sun Rises</td>
-      <td>5</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Opoona - Partizans</td>
-      <td>14</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Ougon Musou Kyoku Cross - Tomorrow</td>
-      <td>8</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Persona 3 - Memories of You</td>
-      <td>9</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Persona 3 - The Battle for Everyone&#39;s Souls</td>
-      <td>5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Persona 5 - Last Surprise</td>
-      <td>12</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Persona 5 - Rivers in the Desert</td>
-      <td>12</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Phantasy Star Online 2 - GUERRANT-OFENZA-SUPRONT-UNNE</td>
-      <td>14</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Pinball Fantasies - steelchambers2</td>
-      <td>13</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Pokemon Super Mystery Dungeon - Second Dark Matter Battle</td>
-      <td>14</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Pop’n Music 18 - Kurokami Midareshi Shura to Narite</td>
-      <td>9</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Professor Layton and the Unwound Future - Theme of the Last Time Travel</td>
-      <td>3</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Ragnarok Online II - Din Don Dan Dan Fo</td>
-      <td>4</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Ratchet &amp; Clank: Up Your Arsenal - Ratchet &amp; Courtney Battle</td>
-      <td>4</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Rivals of Aether - Luna Ascension EX (aka OST 7)</td>
-      <td>10</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Romancing SaGa: Minstrel Song - Battle With Saruin</td>
-      <td>9</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Shenmue - Memories of Distant Days</td>
-      <td>6</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Shikkoku no Sharnoth - Dorchadas</td>
-      <td>6</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Shovel Knight - Strike the Earth</td>
-      <td>9</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Silent Hill 2 - Theme of Laura</td>
-      <td>8</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Sol Survivor - Oil &amp; Sweat</td>
-      <td>7</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Solatorobo: Red the Hunter - Re-CODA</td>
-      <td>7</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Sonic 3D Blast (Saturn) - Rusty Ruins Act 2</td>
-      <td>4</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Sonic Generations [3DS] - Boss Battle: Big Arms</td>
-      <td>8</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Sonic the Hedgehog (2006) - Solaris Phase 2</td>
-      <td>6</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Sora - Rendezvous</td>
-      <td>6</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Sound Voltex III - Preserved Valkyria</td>
-      <td>10</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Steins;Gate - Skyclad Observer</td>
-      <td>13</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Subarashiki Hibi - Yoru no Himawari</td>
-      <td>6</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Super Castlevania IV - Bloody Tears</td>
-      <td>7</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Super Mario 64 - Dire, Dire Docks</td>
-      <td>3</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Super Mario Galaxy - Floater Land/Buoy Base Galaxy</td>
-      <td>2</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Super Mario RPG - Beware the Forest’s Mushrooms</td>
-      <td>2</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Super Robot Wars Alpha 3 - Trombe!</td>
-      <td>4</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Super Smash Bros. Brawl - Bramble Blast</td>
-      <td>6</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Super Smash Bros. Brawl - King Dedede’s Theme</td>
-      <td>2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Super Smash Bros. Brawl - Shin Onigashima</td>
-      <td>3</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Super Smash Bros. Melee - Mother 2</td>
-      <td>5</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Sword Art Online: Fatal Bullet - Dungeon - Geofront 4</td>
-      <td>14</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Taiko no Tatsujin 7 - Burning Force Medley</td>
-      <td>14</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Tales of Symphonia - Starry Heavens</td>
-      <td>9</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Tales of the Abyss - Meaning of Birth</td>
-      <td>9</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Tales of Zestiria - Flaming Bonds are Being Tested</td>
-      <td>9</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Terraria Calamity Mod - 1NF3S+@+!0N (Theme of Crabulon)</td>
-      <td>13</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Terraria Calamity Mod - Servants of the Scourge</td>
-      <td>13</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Terraria Calamity Mod - The Filthy Mind (Theme of the Hive Mind)</td>
-      <td>14</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>The Legend of Heroes: Trails in the Sky FC - Whereabouts of Light</td>
-      <td>11</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>The Legend of Heroes: Trails in the Sky SC - Silver Will</td>
-      <td>4</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>The Legend of Zelda: Link’s Awakening - Tal Tal Heights</td>
-      <td>2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>The Legend of Zelda: Ocarina of Time - Gerudo Valley</td>
-      <td>3</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>The Legend of Zelda: The Wind Waker - Dragon Roost Island</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>The Legend of Zelda: The Wind Waker - Staff Credits</td>
-      <td>7</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>The Ninja Warriors (Sega CD) - Daddy Mulk</td>
-      <td>11</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>The Seventh Seal - Rhythm of Red</td>
-      <td>2</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Touhou 8: Imperishable Night - Lunatic Eyes ~ Invisible Full Moon</td>
-      <td>1</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni 1 - goldenslaughterer</td>
-      <td>11</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni 1 - Hope</td>
-      <td>4</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni 1 - system0</td>
-      <td>9</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni 2 - worldenddominator</td>
-      <td>3</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni 3 - Happiness of Marionette</td>
-      <td>4</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni 3 - miragecoordinator</td>
-      <td>3</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni 4 - dreamenddischarger</td>
-      <td>3</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni 4 - Endless Nine</td>
-      <td>9</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni Chiru 5 - discolor</td>
-      <td>4</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni Chiru 6 - Life</td>
-      <td>5</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni Chiru 7 - the executioner</td>
-      <td>7</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni Chiru 8 - lastendconductor</td>
-      <td>7</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Umineko no Naku Koro ni Chiru 8 - Ricordando il Passato</td>
-      <td>10</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Undertale - ASGORE</td>
-      <td>10</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Undertale - Megalovania</td>
-      <td>10</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>VVVVVV - Piercing the Sky</td>
-      <td>6</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>VVVVVV - Positive force</td>
-      <td>5</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>VVVVVV - Potential for Anything</td>
-      <td>7</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>VVVVVV - Pushing Onwards</td>
-      <td>7</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Waterworld - Diving</td>
-      <td>3</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>White Knight Chronicles II - The Battlefield Flower (Violin Version)</td>
-      <td>6</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Wild Arms - Into the Wilderness</td>
-      <td>2</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Wild Arms 5 - At the Frozen Depths of the Heart</td>
-      <td>2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Wild Arms 5 - Persephone IPCC_3927 (Battle)</td>
-      <td>2</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Xenoblade Chronicles - Engage the Enemy</td>
-      <td>8</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Xenoblade Chronicles - Unfinished Battle</td>
-      <td>5</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Xenoblade Chronicles 2: Torna ~ The Golden Country - Battle!!</td>
-      <td>13</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Xenogears - Small Two of Pieces</td>
-      <td>8</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Xenosaga II - Communication Breakdown</td>
-      <td>1</td>
-      <td>12</td>
-    </tr>
-    <tr>
-      <td>Xenosaga III - Godsibb</td>
-      <td>6</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Ys Seven - Desert of Despair</td>
-      <td>7</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>Ys Seven - Innocent Primeval Breaker</td>
-      <td>8</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Ys VIII: Lacrimosa of Dana - Sunshine Coastline</td>
-      <td>12</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Ys: Memories of Celceta - False God of Causality</td>
-      <td>8</td>
-      <td>16</td>
-    </tr>
-  </tbody>
-</table>
-<!---
  Song | Contest | Placement (1 = Champion, 2 = Finalist, etc.)
 :-----|:--------|:---------------------------------------------
-13 Sentinels: Aegis Rim - -(Isoleucine)- | 14 | 2
-13 Sentinels: Aegis Rim - -[Deoxyribose]- | 14 | 4
-7th Dragon 2020 - The Last Location of Mankind | 6 | 16
-Ace Combat 6 - The Liberation of Gracemeria | 3 | 8
-Ace Combat Zero - Zero | 6 | 1
-Ace Combat: Assault Horizon - White Devil | 8 | 8
-Air - Summer Lights | 8 | 16
-Alan Wake - The Poet and the Muse | 7 | 16
-Ao no Kiseki Evolution - Seize the Truth! | 9 | 1
-Ar nosurge - Class::EXSPHERE_NOSURGE; | 13 | 1
-Ar nosurge - Hidra Heteromycin | 12 | 2
-Ar tonelico II - EXEC_SPHILIA/. | 7 | 1
-Ar tonelico II - The Moon-Dwelling Demon | 2 | 16
-Ar tonelico II - The Second Tower | 2 | 16
-Ar tonelico III - EXEC_REBIRTHIA=PROTOCOL/. | 7 | 16
-Atelier Ayesha - Invitation Flower ~ Autumn | 13 | 8
-Atelier Ayesha - Slag Dance | 10 | 8
-Atelier Ayesha - Yesterday’s Opponents are Today’s Ingredients | 13 | 16
-Atelier Rorona Plus - Flash Frost | 13 | 16
-Atelier Shallie - Flying Clouds, Drifting Haze | 11 | 2
-Aurora Memoria - Classroom | 14 | 16
-Baldr Force - Face of Fact | 9 | 8
-Baldr Heart - Innocence and Emptiness | 13 | 8
-Baldr Sky - Ruins of Silence | 6 | 16
-Barkley, Shut up and Jam Gaiden - johnathan taylor thomas | 4 | 8
-Beatmania IIDX 21 Spada - Dark Legacy | 9 | 4
-Beatmania IIDX 22 PENDUAL - Despair of ELFERIA | 10 | 1
-Blue Reflection - TIGAR (All Phase Mix) | 14 | 16
-Boku no Te no Naka no Rakuen - Papiliones | 8 | 1
-Bravely Default - Serpent Eating the Ground | 8 | 8
-Bravely Default - Wicked Flight | 8 | 4
-Castle Crashers - Winterbliss | 6 | 8
-Chrono Cross - Dream of the Shore Bordering Another World | 1 | 3
-Chrono Cross - Scars of Time | 1 | 1
-Chrono Cross - Time of the Dreamwatch | 1 | 12
-Chrono Trigger - Time Circuits/Corridors of Time/12,000 B.C. | 3 | 8
-Civilization IV - Baba Yetu | 1 | 3
-ClaDun: This Is an RPG - Slicing the Wind | 6 | 16
-Clannad - Nagisa ~ Farewell at the Foot of a Hill | 5 | 16
-Cloudbuilt: Defiance - Monolith | 11 | 8
-Crisis Core: Final Fantasy VII - The Price of Freedom | 4 | 8
-Crypt of the Necrodancer - Six Feet Thunder | 11 | 8
-Crystar - Revenger | 13 | 2
-Cytus II - Chocolate Missile | 13 | 8
-Dark Cloud - Dark Cloud Main Theme | 4 | 4
-Deemo - Evolution Era | 9 | 2
-Deltarune - Rude Buster | 14 | 8
-Demon Truck - Dead Neon Hell City | 13 | 16
-Digital: A Love Story - Paper Dolls | 7 | 16
-Donkey Kong Country - Fear Factory | 8 | 16
-Donkey Kong Country - Gangplank Galleon | 3 | 16
-Donkey Kong Country 2 - Forest Interlude | 3 | 16
-Donkey Kong Country 2 - Stickerbush Symphony | 1 | 6
-Dra+Koi - Love Song of a Certain Dragon | 5 | 8
-Drakengard 3 - Kuroi Uta ~ The Black Song (International Version) | 10 | 4
-Ducktales - The Moon | 5 | 16
-Final Fantasy IX - You're Not Alone! | 3 | 4
-Final Fantasy V - Battle with Gilgamesh/Clash on the Big Bridge | 1 | 12
-Final Fantasy VIII - The Extreme | 5 | 1
-Final Fantasy X - Seymour Battle | 6 | 16
-Final Fantasy X - Someday the Dream Will End | 9 | 16
-Final Fantasy X - To Zanarkand | 1 | 12
-Fire Emblem: Fates - Desire Below (Flow) | 14 | 16
-Fire Emblem: Fates - End of All (Land) | 12 | 4
-G-Darius - Kimera II | 4 | 16
-Ginga Force - Zenith | 12 | 8
-GITADORA OverDrive - Douwa Kairou | 13 | 16
-Gran Turismo 2 - Moon over the Castle | 4 | 4
-Granado Espada - Laguerra del Mundo | 12 | 4
-Granado Espada - Rapal | 9 | 16
-Granblue Fantasy - New World Order | 13 | 4
-Grandia II - FIGHT!! Ver. 4 ~ The Final Battle | 4 | 16
-Guilty Gear Isuka - Riches in Me | 3 | 8
-Halo 2 - Halo Theme Mjolnir Mix | 5 | 8
-Higurashi no Naku Koro ni Kai 8 - You -Destructive- | 5 | 16
-Homestuck - Sburban Jungle | 6 | 4
-Idola Phantasy Star Saga - Endeavour | 14 | 1
-Jets'n'Guns - Shop Music | 7 | 8
-jubeat knit - Shining Wizard | 8 | 16
-jubeat Prop - Chloe | 13 | 16
-Kingdom Hearts - Hikari ~ KINGDOM Orchestra Instrumental Version | 2 | 16
-Kirby 64 - Zero-Two | 8 | 2
-Kirby Triple Deluxe - Moonstruck Blossom | 14 | 8
-Lamento -Beyond the Void- - When the End | 7 | 16
-Legend of Mana - Title | 1 | 6
-Lufia II - Battle #3 | 5 | 8
-Lufia II - The Last Duel | 8 | 8
-maimai MiLK - Credits | 14 | 16
-Mamorukun Curse! - YO-KAI Disco (Hell's Entrance World) | 14 | 8
-Mario Kart 8 - Big Blue | 11 | 8
-Mass Effect 2 - Suicide Mission | 5 | 16
-Mega Man 2 - Dr. Wily Stage 1 | 1 | 12
-Mega Man 3 - Sparkman Stage | 2 | 16
-Mega Man 3 - Title | 2 | 4
-Mega Man X5 - X vs. Zero | 3 | 16
-Metal Gear Solid 2 - Metal Gear Solid 2 Main Theme | 2 | 1
-Metal Gear Solid 3 - Metal Gear Solid 3 Main Theme | 2 | 8
-Metal Masters - Metal Beat | 9 | 8
-Metal Slug 5 - Windy Day | 1 | 12
-Monty on the Run - In-Game Music | 5 | 16
-Napple Tale: Arsia in Daydream - Wild Wind | 4 | 16
-Neotokyo - Tin Soldiers | 7 | 8
-Nier - Emil / Karma | 11 | 1
-Nier - Shadowlord | 4 | 16
-Nier - Song of the Ancients / Fate | 5 | 16
-Nier: Automata - Amusement Park | 12 | 8
-Okami - “Reset” ~ “Thank You” Version | 3 | 1
-Okami - The Sun Rises | 5 | 2
-Opoona - Partizans | 14 | 16
-Ougon Musou Kyoku Cross - Tomorrow | 8 | 16
-Persona 3 - Memories of You | 9 | 16
-Persona 3 - The Battle for Everyone's Souls | 5 | 16
-Persona 5 - Last Surprise | 12 | 8
-Persona 5 - Rivers in the Desert | 12 | 8
-Phantasy Star Online 2 - GUERRANT-OFENZA-SUPRONT-UNNE | 14 | 16
-Pinball Fantasies - steelchambers2 | 13 | 16
-Pokemon Super Mystery Dungeon - Second Dark Matter Battle | 14 | 8
-Pop’n Music 18 - Kurokami Midareshi Shura to Narite | 9 | 4
-Professor Layton and the Unwound Future - Theme of the Last Time Travel | 3 | 8
-Ragnarok Online II - Din Don Dan Dan Fo | 4 | 16
-Ratchet & Clank: Up Your Arsenal - Ratchet & Courtney Battle | 4 | 16
-Rivals of Aether - Luna Ascension EX (aka OST 7) | 10 | 8
-Romancing SaGa: Minstrel Song - Battle With Saruin | 9 | 8
-Shenmue - Memories of Distant Days | 6 | 16
-Shikkoku no Sharnoth - Dorchadas | 6 | 2
-Shovel Knight - Strike the Earth | 9 | 16
-Silent Hill 2 - Theme of Laura | 8 | 16
-Sol Survivor - Oil & Sweat | 7 | 8
-Solatorobo: Red the Hunter - Re-CODA | 7 | 4
-Sonic 3D Blast (Saturn) - Rusty Ruins Act 2 | 4 | 8
-Sonic Generations [3DS] - Boss Battle: Big Arms | 8 | 16
-Sonic the Hedgehog (2006) - Solaris Phase 2 | 6 | 4
-Sora - Rendezvous | 6 | 16
-Sound Voltex III - Preserved Valkyria | 10 | 8
-Steins;Gate - Skyclad Observer | 13 | 16
-Subarashiki Hibi - Yoru no Himawari | 6 | 16
-Super Castlevania IV - Bloody Tears | 7 | 8
-Super Mario 64 - Dire, Dire Docks | 3 | 4
-Super Mario Galaxy - Floater Land/Buoy Base Galaxy | 2 | 4
-Super Mario RPG - Beware the Forest’s Mushrooms | 2 | 8
-Super Robot Wars Alpha 3 - Trombe! | 4 | 2
-Super Smash Bros. Brawl - Bramble Blast | 6 | 16
-Super Smash Bros. Brawl - King Dedede’s Theme | 2 | 16
-Super Smash Bros. Brawl - Shin Onigashima | 3 | 16
-Super Smash Bros. Melee - Mother 2 | 5 | 16
-Sword Art Online: Fatal Bullet - Dungeon - Geofront 4 | 14 | 4
-Taiko no Tatsujin 7 - Burning Force Medley | 14 | 16
-Tales of Symphonia - Starry Heavens | 9 | 16
-Tales of the Abyss - Meaning of Birth | 9 | 16
-Tales of Zestiria - Flaming Bonds are Being Tested | 9 | 16
-Terraria Calamity Mod - 1NF3S+@+!0N (Theme of Crabulon) | 13 | 8
-Terraria Calamity Mod - Servants of the Scourge | 13 | 16
-Terraria Calamity Mod - The Filthy Mind (Theme of the Hive Mind) | 14 | 16
-The Legend of Heroes: Trails in the Sky FC - Whereabouts of Light | 11 | 8
-The Legend of Heroes: Trails in the Sky SC - Silver Will | 4 | 16
-The Legend of Zelda: Link’s Awakening - Tal Tal Heights | 2 | 16
-The Legend of Zelda: Ocarina of Time - Gerudo Valley | 3 | 16
-The Legend of Zelda: The Wind Waker - Dragon Roost Island | 2 | 2
-The Legend of Zelda: The Wind Waker - Staff Credits | 7 | 16
-The Ninja Warriors (Sega CD) - Daddy Mulk | 11 | 4
-The Seventh Seal - Rhythm of Red | 2 | 8
-Touhou 8: Imperishable Night - Lunatic Eyes ~ Invisible Full Moon | 1 | 6
-Umineko no Naku Koro ni 1 - goldenslaughterer | 11 | 4
-Umineko no Naku Koro ni 1 - Hope | 4 | 1
-Umineko no Naku Koro ni 1 - system0 | 9 | 8
-Umineko no Naku Koro ni 2 - worldenddominator | 3 | 16
-Umineko no Naku Koro ni 3 - Happiness of Marionette | 4 | 16
-Umineko no Naku Koro ni 3 - miragecoordinator | 3 | 16
-Umineko no Naku Koro ni 4 - dreamenddischarger | 3 | 16
-Umineko no Naku Koro ni 4 - Endless Nine | 9 | 16
-Umineko no Naku Koro ni Chiru 5 - discolor | 4 | 8
-Umineko no Naku Koro ni Chiru 6 - Life | 5 | 4
-Umineko no Naku Koro ni Chiru 7 - the executioner | 7 | 2
-Umineko no Naku Koro ni Chiru 8 - lastendconductor | 7 | 16
-Umineko no Naku Koro ni Chiru 8 - Ricordando il Passato | 10 | 4
-Undertale - ASGORE | 10 | 8
-Undertale - Megalovania | 10 | 2
-VVVVVV - Piercing the Sky | 6 | 8
-VVVVVV - Positive force | 5 | 8
-VVVVVV - Potential for Anything | 7 | 4
-VVVVVV - Pushing Onwards | 7 | 16
-Waterworld - Diving | 3 | 2
-White Knight Chronicles II - The Battlefield Flower (Violin Version) | 6 | 8
-Wild Arms - Into the Wilderness | 2 | 8
-Wild Arms 5 - At the Frozen Depths of the Heart | 2 | 16
-Wild Arms 5 - Persephone IPCC_3927 (Battle) | 2 | 16
-Xenoblade Chronicles - Engage the Enemy | 8 | 16
-Xenoblade Chronicles - Unfinished Battle | 5 | 4
-Xenoblade Chronicles 2: Torna ~ The Golden Country - Battle!! | 13 | 4
-Xenogears - Small Two of Pieces | 8 | 4
-Xenosaga II - Communication Breakdown | 1 | 12
-Xenosaga III - Godsibb | 6 | 8
-Ys Seven - Desert of Despair | 7 | 16
-Ys Seven - Innocent Primeval Breaker | 8 | 8
-Ys VIII: Lacrimosa of Dana - Sunshine Coastline | 12 | 1
-Ys: Memories of Celceta - False God of Causality | 8 | 16-->
+13 Sentinels: Aegis Rim - -(Isoleucine)- | VGMC 14 | 2
+13 Sentinels: Aegis Rim - -[Deoxyribose]- | VGMC 14 | 4
+7th Dragon 2020 - The Last Location of Mankind | VGMC 6 | 16
+Ace Combat 6 - The Liberation of Gracemeria | VGMC 3 | 8
+Ace Combat Zero - Zero | VGMC 6 | 1
+Ace Combat: Assault Horizon - White Devil | VGMC 8 | 8
+Air - Summer Lights | VGMC 8 | 16
+Alan Wake - The Poet and the Muse | VGMC 7 | 16
+Ao no Kiseki Evolution - Seize the Truth! | VGMC 9 | 1
+Ar nosurge - Class::EXSPHERE_NOSURGE; | VGMC 13 | 1
+Ar nosurge - Hidra Heteromycin | VGMC 12 | 2
+Ar tonelico II - EXEC_SPHILIA/. | VGMC 7 | 1
+Ar tonelico II - The Moon-Dwelling Demon | VGMC 2 | 16
+Ar tonelico II - The Second Tower | VGMC 2 | 16
+Ar tonelico III - EXEC_REBIRTHIA=PROTOCOL/. | VGMC 7 | 16
+Atelier Ayesha - Invitation Flower ~ Autumn | VGMC 13 | 8
+Atelier Ayesha - Slag Dance | VGMC 10 | 8
+Atelier Ayesha - Yesterday’s Opponents are Today’s Ingredients | VGMC 13 | 16
+Atelier Rorona Plus - Flash Frost | VGMC 13 | 16
+Atelier Shallie - Flying Clouds, Drifting Haze | VGMC 11 | 2
+Aurora Memoria - Classroom | VGMC 14 | 16
+Baldr Force - Face of Fact | VGMC 9 | 8
+Baldr Heart - Innocence and Emptiness | VGMC 13 | 8
+Baldr Sky - Ruins of Silence | VGMC 6 | 16
+Barkley, Shut up and Jam Gaiden - johnathan taylor thomas | VGMC 4 | 8
+Beatmania IIDX 21 Spada - Dark Legacy | VGMC 9 | 4
+Beatmania IIDX 22 PENDUAL - Despair of ELFERIA | VGMC 10 | 1
+Blue Reflection - TIGAR (All Phase Mix) | VGMC 14 | 16
+Boku no Te no Naka no Rakuen - Papiliones | VGMC 8 | 1
+Bravely Default - Serpent Eating the Ground | VGMC 8 | 8
+Bravely Default - Wicked Flight | VGMC 8 | 4
+Castle Crashers - Winterbliss | VGMC 6 | 8
+Chrono Cross - Dream of the Shore Bordering Another World | VGMC 1 | 3
+Chrono Cross - Scars of Time | VGMC 1 | 1
+Chrono Cross - Time of the Dreamwatch | VGMC 1 | 12
+Chrono Trigger - Time Circuits/Corridors of Time/12,000 B.C. | VGMC 3 | 8
+Civilization IV - Baba Yetu | VGMC 1 | 3
+ClaDun: This Is an RPG - Slicing the Wind | VGMC 6 | 16
+Clannad - Nagisa ~ Farewell at the Foot of a Hill | VGMC 5 | 16
+Cloudbuilt: Defiance - Monolith | VGMC 11 | 8
+Crisis Core: Final Fantasy VII - The Price of Freedom | VGMC 4 | 8
+Crypt of the Necrodancer - Six Feet Thunder | VGMC 11 | 8
+Crystar - Revenger | VGMC 13 | 2
+Cytus II - Chocolate Missile | VGMC 13 | 8
+Dark Cloud - Dark Cloud Main Theme | VGMC 4 | 4
+Deemo - Evolution Era | VGMC 9 | 2
+Deltarune - Rude Buster | VGMC 14 | 8
+Demon Truck - Dead Neon Hell City | VGMC 13 | 16
+Digital: A Love Story - Paper Dolls | VGMC 7 | 16
+Donkey Kong Country - Fear Factory | VGMC 8 | 16
+Donkey Kong Country - Gangplank Galleon | VGMC 3 | 16
+Donkey Kong Country 2 - Forest Interlude | VGMC 3 | 16
+Donkey Kong Country 2 - Stickerbush Symphony | VGMC 1 | 6
+Dra+Koi - Love Song of a Certain Dragon | VGMC 5 | 8
+Drakengard 3 - Kuroi Uta ~ The Black Song (International Version) | VGMC 10 | 4
+Ducktales - The Moon | VGMC 5 | 16
+Final Fantasy IX - You're Not Alone! | VGMC 3 | 4
+Final Fantasy V - Battle with Gilgamesh/Clash on the Big Bridge | VGMC 1 | 12
+Final Fantasy VIII - The Extreme | VGMC 5 | 1
+Final Fantasy X - Seymour Battle | VGMC 6 | 16
+Final Fantasy X - Someday the Dream Will End | VGMC 9 | 16
+Final Fantasy X - To Zanarkand | VGMC 1 | 12
+Fire Emblem: Fates - Desire Below (Flow) | VGMC 14 | 16
+Fire Emblem: Fates - End of All (Land) | VGMC 12 | 4
+G-Darius - Kimera II | VGMC 4 | 16
+Ginga Force - Zenith | VGMC 12 | 8
+GITADORA OverDrive - Douwa Kairou | VGMC 13 | 16
+Gran Turismo 2 - Moon over the Castle | VGMC 4 | 4
+Granado Espada - Laguerra del Mundo | VGMC 12 | 4
+Granado Espada - Rapal | VGMC 9 | 16
+Granblue Fantasy - New World Order | VGMC 13 | 4
+Grandia II - FIGHT!! Ver. 4 ~ The Final Battle | VGMC 4 | 16
+Guilty Gear Isuka - Riches in Me | VGMC 3 | 8
+Halo 2 - Halo Theme Mjolnir Mix | VGMC 5 | 8
+Higurashi no Naku Koro ni Kai 8 - You -Destructive- | VGMC 5 | 16
+Homestuck - Sburban Jungle | VGMC 6 | 4
+Idola Phantasy Star Saga - Endeavour | VGMC 14 | 1
+Jets'n'Guns - Shop Music | VGMC 7 | 8
+jubeat knit - Shining Wizard | VGMC 8 | 16
+jubeat Prop - Chloe | VGMC 13 | 16
+Kingdom Hearts - Hikari ~ KINGDOM Orchestra Instrumental Version | VGMC 2 | 16
+Kirby 64 - Zero-Two | VGMC 8 | 2
+Kirby Triple Deluxe - Moonstruck Blossom | VGMC 14 | 8
+Lamento -Beyond the Void- - When the End | VGMC 7 | 16
+Legend of Mana - Title | VGMC 1 | 6
+Lufia II - Battle #3 | VGMC 5 | 8
+Lufia II - The Last Duel | VGMC 8 | 8
+maimai MiLK - Credits | VGMC 14 | 16
+Mamorukun Curse! - YO-KAI Disco (Hell's Entrance World) | VGMC 14 | 8
+Mario Kart 8 - Big Blue | VGMC 11 | 8
+Mass Effect 2 - Suicide Mission | VGMC 5 | 16
+Mega Man 2 - Dr. Wily Stage 1 | VGMC 1 | 12
+Mega Man 3 - Sparkman Stage | VGMC 2 | 16
+Mega Man 3 - Title | VGMC 2 | 4
+Mega Man X5 - X vs. Zero | VGMC 3 | 16
+Metal Gear Solid 2 - Metal Gear Solid 2 Main Theme | VGMC 2 | 1
+Metal Gear Solid 3 - Metal Gear Solid 3 Main Theme | VGMC 2 | 8
+Metal Masters - Metal Beat | VGMC 9 | 8
+Metal Slug 5 - Windy Day | VGMC 1 | 12
+Monty on the Run - In-Game Music | VGMC 5 | 16
+Napple Tale: Arsia in Daydream - Wild Wind | VGMC 4 | 16
+Neotokyo - Tin Soldiers | VGMC 7 | 8
+Nier - Emil / Karma | VGMC 11 | 1
+Nier - Shadowlord | VGMC 4 | 16
+Nier - Song of the Ancients / Fate | VGMC 5 | 16
+Nier: Automata - Amusement Park | VGMC 12 | 8
+Okami - Reset ~ “Thank You” Version | VGMC 3 | 1
+Okami - The Sun Rises | VGMC 5 | 2
+Opoona - Partizans | VGMC 14 | 16
+Ougon Musou Kyoku Cross - Tomorrow | VGMC 8 | 16
+Persona 3 - Memories of You | VGMC 9 | 16
+Persona 3 - The Battle for Everyone's Souls | VGMC 5 | 16
+Persona 5 - Last Surprise | VGMC 12 | 8
+Persona 5 - Rivers in the Desert | VGMC 12 | 8
+Phantasy Star Online 2 - GUERRANT-OFENZA-SUPRONT-UNNE | VGMC 14 | 16
+Pinball Fantasies - steelchambers2 | VGMC 13 | 16
+Pokemon Super Mystery Dungeon - Second Dark Matter Battle | VGMC 14 | 8
+Pop’n Music 18 - Kurokami Midareshi Shura to Narite | VGMC 9 | 4
+Professor Layton and the Unwound Future - Theme of the Last Time Travel | VGMC 3 | 8
+Ragnarok Online II - Din Don Dan Dan Fo | VGMC 4 | 16
+Ratchet & Clank: Up Your Arsenal - Ratchet & Courtney Battle | VGMC 4 | 16
+Rivals of Aether - Luna Ascension EX (aka OST 7) | VGMC 10 | 8
+Romancing SaGa: Minstrel Song - Battle With Saruin | VGMC 9 | 8
+Shenmue - Memories of Distant Days | VGMC 6 | 16
+Shikkoku no Sharnoth - Dorchadas | VGMC 6 | 2
+Shovel Knight - Strike the Earth | VGMC 9 | 16
+Silent Hill 2 - Theme of Laura | VGMC 8 | 16
+Sol Survivor - Oil & Sweat | VGMC 7 | 8
+Solatorobo: Red the Hunter - Re-CODA | VGMC 7 | 4
+Sonic 3D Blast (Saturn) - Rusty Ruins Act 2 | VGMC 4 | 8
+Sonic Generations [3DS] - Boss Battle: Big Arms | VGMC 8 | 16
+Sonic the Hedgehog (2006) - Solaris Phase 2 | VGMC 6 | 4
+Sora - Rendezvous | VGMC 6 | 16
+Sound Voltex III - Preserved Valkyria | VGMC 10 | 8
+Steins;Gate - Skyclad Observer | VGMC 13 | 16
+Subarashiki Hibi - Yoru no Himawari | VGMC 6 | 16
+Super Castlevania IV - Bloody Tears | VGMC 7 | 8
+Super Mario 64 - Dire, Dire Docks | VGMC 3 | 4
+Super Mario Galaxy - Floater Land/Buoy Base Galaxy | VGMC 2 | 4
+Super Mario RPG - Beware the Forest’s Mushrooms | VGMC 2 | 8
+Super Robot Wars Alpha 3 - Trombe! | VGMC 4 | 2
+Super Smash Bros. Brawl - Bramble Blast | VGMC 6 | 16
+Super Smash Bros. Brawl - King Dedede’s Theme | VGMC 2 | 16
+Super Smash Bros. Brawl - Shin Onigashima | VGMC 3 | 16
+Super Smash Bros. Melee - Mother 2 | VGMC 5 | 16
+Sword Art Online: Fatal Bullet - Dungeon - Geofront 4 | VGMC 14 | 4
+Taiko no Tatsujin 7 - Burning Force Medley | VGMC 14 | 16
+Tales of Symphonia - Starry Heavens | VGMC 9 | 16
+Tales of the Abyss - Meaning of Birth | VGMC 9 | 16
+Tales of Zestiria - Flaming Bonds are Being Tested | VGMC 9 | 16
+Terraria Calamity Mod - 1NF3S+@+!0N (Theme of Crabulon) | VGMC 13 | 8
+Terraria Calamity Mod - Servants of the Scourge | VGMC 13 | 16
+Terraria Calamity Mod - The Filthy Mind (Theme of the Hive Mind) | VGMC 14 | 16
+The Legend of Heroes: Trails in the Sky FC - Whereabouts of Light | VGMC 11 | 8
+The Legend of Heroes: Trails in the Sky SC - Silver Will | VGMC 4 | 16
+The Legend of Zelda: Link’s Awakening - Tal Tal Heights | VGMC 2 | 16
+The Legend of Zelda: Ocarina of Time - Gerudo Valley | VGMC 3 | 16
+The Legend of Zelda: The Wind Waker - Dragon Roost Island | VGMC 2 | 2
+The Legend of Zelda: The Wind Waker - Staff Credits | VGMC 7 | 16
+The Ninja Warriors (Sega CD) - Daddy Mulk | VGMC 11 | 4
+The Seventh Seal - Rhythm of Red | VGMC 2 | 8
+Touhou 8: Imperishable Night - Lunatic Eyes ~ Invisible Full Moon | VGMC 1 | 6
+Umineko no Naku Koro ni 1 - goldenslaughterer | VGMC 11 | 4
+Umineko no Naku Koro ni 1 - Hope | VGMC 4 | 1
+Umineko no Naku Koro ni 1 - system0 | VGMC 9 | 8
+Umineko no Naku Koro ni 2 - worldenddominator | VGMC 3 | 16
+Umineko no Naku Koro ni 3 - Happiness of Marionette | VGMC 4 | 16
+Umineko no Naku Koro ni 3 - miragecoordinator | VGMC 3 | 16
+Umineko no Naku Koro ni 4 - dreamenddischarger | VGMC 3 | 16
+Umineko no Naku Koro ni 4 - Endless Nine | VGMC 9 | 16
+Umineko no Naku Koro ni Chiru 5 - discolor | VGMC 4 | 8
+Umineko no Naku Koro ni Chiru 6 - Life | VGMC 5 | 4
+Umineko no Naku Koro ni Chiru 7 - the executioner | VGMC 7 | 2
+Umineko no Naku Koro ni Chiru 8 - lastendconductor | VGMC 7 | 16
+Umineko no Naku Koro ni Chiru 8 - Ricordando il Passato | VGMC 10 | 4
+Undertale - ASGORE | VGMC 10 | 8
+Undertale - Megalovania | VGMC 10 | 2
+VVVVVV - Piercing the Sky | VGMC 6 | 8
+VVVVVV - Positive force | VGMC 5 | 8
+VVVVVV - Potential for Anything | VGMC 7 | 4
+VVVVVV - Pushing Onwards | VGMC 7 | 16
+Waterworld - Diving | VGMC 3 | 2
+White Knight Chronicles II - The Battlefield Flower (Violin Version) | VGMC 6 | 8
+Wild Arms - Into the Wilderness | VGMC 2 | 8
+Wild Arms 5 - At the Frozen Depths of the Heart | VGMC 2 | 16
+Wild Arms 5 - Persephone IPCC_3927 (Battle) | VGMC 2 | 16
+Xenoblade Chronicles - Engage the Enemy | VGMC 8 | 16
+Xenoblade Chronicles - Unfinished Battle | VGMC 5 | 4
+Xenoblade Chronicles 2: Torna ~ The Golden Country - Battle!! | VGMC 13 | 4
+Xenogears - Small Two of Pieces | VGMC 8 | 4
+Xenosaga II - Communication Breakdown | VGMC 1 | 12
+Xenosaga III - Godsibb | VGMC 6 | 8
+Ys Seven - Desert of Despair | VGMC 7 | 16
+Ys Seven - Innocent Primeval Breaker | VGMC 8 | 8
+Ys VIII: Lacrimosa of Dana - Sunshine Coastline | VGMC 12 | 1
+Ys: Memories of Celceta - False God of Causality | VGMC 8 | 16
