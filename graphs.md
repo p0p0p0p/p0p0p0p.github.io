@@ -10,4 +10,4 @@ Pretty compatibility networks! Interactive!
 [VGMC 14 Nominators](./src/vgmc14/noms.html) who supported each song that made the bracket, with no difference between how singles or doubles are treated\
 [VGMC 14 Nominators](./src/vgmc14/noms_contracted.html). Links show at least 3 shared supports, more shared supports scaled to be shorter links.\
 [VGMC 14 Voters](./src/vgmc14/bracket.html). Customizable thresholds, stronger compatibilities scaled to be shorter links.\
-[VGMC 15 Nominators](./src/vgmc15/noms.html). In progress!
+[VGMC 15 Nominators](./src/vgmc15/noms.html). Customizable thresholds, can be contracted to hide songs.

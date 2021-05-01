@@ -101,8 +101,7 @@ function makeLinks(data) {
 
   parse.forEach(function(row) {
     title = row['Song'];
-    if (row['Unique'] >= min_unique) {
-      console.log(row['Unique']);
+    if (row['Votes'] >= min_unique) {
       App.graph.addNode(title, {type: 'song'});
       for (let header in row) {
         if (!FILTER.includes(header) && row[header] >= 1) {
