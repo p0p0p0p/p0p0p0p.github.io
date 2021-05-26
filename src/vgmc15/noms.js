@@ -8,12 +8,8 @@ function resetGraph() {
     App.graph.clear();
   }
 
-  jQuery.ajax({
-    type: "GET",
-    url: "https://p0p0p0p.github.io/src/vgmc15/noms.csv",
-    dataType: "text",
-    success: function(data) { makeNodes(data); }
-   });
+
+  jQuery.get("noms.csv", function(data) { makeNodes(data); });
 }
 
 function makeNodes(data) {
@@ -27,18 +23,11 @@ function makeNodes(data) {
 
   let contracted = document.getElementById("contracted");
 
-  jQuery.ajax({
-    type: "GET",
-    url: "https://p0p0p0p.github.io/src/vgmc15/noms.csv",
-    dataType: "text",
-    success: function(data) { 
-      if (contracted.checked) {
-        makeContractedLinks(data);
-      } else {
-        makeLinks(data);
-      }
-    }
-   });
+  if (contracted.checked) {
+    makeContractedLinks(data);
+  } else {
+    makeLinks(data);
+  }
 }
 
 function makeContractedLinks(data) {
@@ -145,7 +134,7 @@ function renderGraph() {
     springLength: 100,
     springCoeff: 0.00004,
     dragCoeff: .08,
-    gravity: -10,
+    gravity: -10
   });
 
   // Render the graph
