@@ -1,5 +1,5 @@
-var FILTER = ['ID','Song A','Song B','Votes A','Votes B','Total','Margin'];
 var App = {graph: Viva.Graph.graph()};
+var FILTER = [];
 var PNODE = {field: 'Winner', label: 'RESULTS'};
 var MIN_RATIO = 0.0;
 var MAX_RATIO = 0.0;
@@ -16,9 +16,15 @@ function resetGraph() {
 }
 
 function makeNodes(data) {
+  if (document.getElementById("showresults").checked) {
+    FILTER = ['ID','Song A','Song B','Votes A','Votes B','Total','Margin'];
+  } else {
+    FILTER = ['ID','Song A','Song B','Votes A','Votes B','Total','Margin',PNODE.field];
+  }
   let min_voting = document.getElementById("minvoting").value/100;
   let parse = jQuery.csv.toObjects(data);
   let totals = {};
+  let max_ID = 0;
 
   for (let header in parse[0]) {
     if (header && !FILTER.includes(header)) {
@@ -27,6 +33,7 @@ function makeNodes(data) {
   }
 
   parse.forEach(function(row) {
+    max_ID = row.ID;
     for (let key in totals) {
       if (row[key]) {
         ++totals[key];
@@ -34,14 +41,17 @@ function makeNodes(data) {
     }
   });
 
-  document.getElementById("update").textContent = "Updated through match " + totals[PNODE.field];
+  document.getElementById("update").textContent = "Updated through match " + max_ID;
 
   for (let key in totals) {
-    if (totals[key] / totals[PNODE.field] >= min_voting) {
+    if (totals[key] / max_ID >= min_voting) {
       App.graph.addNode(key);
     }
   }
 
+  if (document.getElementById("showresults").checked) {
+    App.graph.getNode(PNODE.field).isPinned = true;
+  }
   makeLinks(data);
 }
 
@@ -133,7 +143,6 @@ function makeLinks(data) {
 function renderGraph() {
   var graphics = Viva.Graph.View.svgGraphics();
   var nodeSize = 3;
-  App.graph.getNode(PNODE.field).isPinned = true;
 
  graphics.node(function(node) {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
