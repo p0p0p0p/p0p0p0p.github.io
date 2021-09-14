@@ -29,6 +29,7 @@ Alan Wake - The Poet and the Muse | VGMC 7 | 16
 Ao no Kiseki Evolution - Seize the Truth! | VGMC 9 | 1
 Ar nosurge - Class::EXSPHERE_NOSURGE; | VGMC 13 | 1
 Ar nosurge - Hidra Heteromycin | VGMC 12 | 2
+Ar nosurge: Ode to an Unborn Star - Class::CIEL_N_PROTECTA; | VGMC 15 | 8
 Ar tonelico II - EXEC_SPHILIA/. | VGMC 7 | 1
 Ar tonelico II - The Moon-Dwelling Demon | VGMC 2 | 16
 Ar tonelico II - The Second Tower | VGMC 2 | 16
@@ -38,11 +39,14 @@ Atelier Ayesha - Slag Dance | VGMC 10 | 8
 Atelier Ayesha - Yesterday’s Opponents are Today’s Ingredients | VGMC 13 | 16
 Atelier Rorona Plus - Flash Frost | VGMC 13 | 16
 Atelier Shallie - Flying Clouds, Drifting Haze | VGMC 11 | 2
+Atelier Shallie: Alchemists of the Dusk Sea - Octopunch | VGMC 15 | 16
 Aurora Memoria - Classroom | VGMC 14 | 16
+Aurora Memoria - Philosophical Data Session: 2093 - DigiFamily | VGMC 15 | 8
 Baldr Force - Face of Fact | VGMC 9 | 8
 Baldr Heart - Innocence and Emptiness | VGMC 13 | 8
 Baldr Sky - Ruins of Silence | VGMC 6 | 16
 Barkley, Shut up and Jam Gaiden - johnathan taylor thomas | VGMC 4 | 8
+beatmania IIDX 16 EMPRESS - Bahram Attack -Nekomata Master Remix- | VGMC 15 | 16
 Beatmania IIDX 21 Spada - Dark Legacy | VGMC 9 | 4
 Beatmania IIDX 22 PENDUAL - Despair of ELFERIA | VGMC 10 | 1
 Blue Reflection - TIGAR (All Phase Mix) | VGMC 14 | 16
@@ -56,12 +60,14 @@ Chrono Cross - Time of the Dreamwatch | VGMC 1 | 12
 Chrono Trigger - Time Circuits/Corridors of Time/12,000 B.C. | VGMC 3 | 8
 Civilization IV - Baba Yetu | VGMC 1 | 3
 ClaDun: This Is an RPG - Slicing the Wind | VGMC 6 | 16
+Cladun: This is an RPG - The Explosion | VGMC 15 | 16
 Clannad - Nagisa ~ Farewell at the Foot of a Hill | VGMC 5 | 16
 Cloudbuilt: Defiance - Monolith | VGMC 11 | 8
 Crisis Core: Final Fantasy VII - The Price of Freedom | VGMC 4 | 8
 Crypt of the Necrodancer - Six Feet Thunder | VGMC 11 | 8
 Crystar - Revenger | VGMC 13 | 2
 Cytus II - Chocolate Missile | VGMC 13 | 8
+Dariusburst Another Chronicle EX - Catabolism | VGMC 15 | 16
 Dark Cloud - Dark Cloud Main Theme | VGMC 4 | 4
 Deemo - Evolution Era | VGMC 9 | 2
 Deltarune - Rude Buster | VGMC 14 | 8
@@ -72,14 +78,17 @@ Donkey Kong Country - Gangplank Galleon | VGMC 3 | 16
 Donkey Kong Country 2 - Forest Interlude | VGMC 3 | 16
 Donkey Kong Country 2 - Stickerbush Symphony | VGMC 1 | 6
 Dra+Koi - Love Song of a Certain Dragon | VGMC 5 | 8
+Dragons Dogma - Into Free -Dangan- | VGMC 15 | 16
 Drakengard 3 - Kuroi Uta ~ The Black Song (International Version) | VGMC 10 | 4
 Ducktales - The Moon | VGMC 5 | 16
+Eschatos - POINT OF NO RETURN | VGMC 15 | 16
 Final Fantasy IX - You're Not Alone! | VGMC 3 | 4
 Final Fantasy V - Battle with Gilgamesh/Clash on the Big Bridge | VGMC 1 | 12
 Final Fantasy VIII - The Extreme | VGMC 5 | 1
 Final Fantasy X - Seymour Battle | VGMC 6 | 16
 Final Fantasy X - Someday the Dream Will End | VGMC 9 | 16
 Final Fantasy X - To Zanarkand | VGMC 1 | 12
+Fire Emblem Awakening - Id (Purpose) | VGMC 15 | 2
 Fire Emblem: Fates - Desire Below (Flow) | VGMC 14 | 16
 Fire Emblem: Fates - End of All (Land) | VGMC 12 | 4
 G-Darius - Kimera II | VGMC 4 | 16
@@ -91,6 +100,7 @@ Granado Espada - Rapal | VGMC 9 | 16
 Granblue Fantasy - New World Order | VGMC 13 | 4
 Grandia II - FIGHT!! Ver. 4 ~ The Final Battle | VGMC 4 | 16
 Guilty Gear Isuka - Riches in Me | VGMC 3 | 8
+Gurumin: A Monstrous Adventure - Soaring Through Azure Sadness | VGMC 15 | 16
 Halo 2 - Halo Theme Mjolnir Mix | VGMC 5 | 8
 Higurashi no Naku Koro ni Kai 8 - You -Destructive- | VGMC 5 | 16
 Homestuck - Sburban Jungle | VGMC 6 | 4
@@ -128,6 +138,7 @@ Okami - Reset ~ “Thank You” Version | VGMC 3 | 1
 Okami - The Sun Rises | VGMC 5 | 2
 Opoona - Partizans | VGMC 14 | 16
 Ougon Musou Kyoku Cross - Tomorrow | VGMC 8 | 16
+Paradise Killer - Paradise (Stay Forever) | VGMC 15 | 4
 Persona 3 - Memories of You | VGMC 9 | 16
 Persona 3 - The Battle for Everyone's Souls | VGMC 5 | 16
 Persona 5 - Last Surprise | VGMC 12 | 8
@@ -149,6 +160,7 @@ Sol Survivor - Oil & Sweat | VGMC 7 | 8
 Solatorobo: Red the Hunter - Re-CODA | VGMC 7 | 4
 Sonic 3D Blast (Saturn) - Rusty Ruins Act 2 | VGMC 4 | 8
 Sonic Generations [3DS] - Boss Battle: Big Arms | VGMC 8 | 16
+Sonic R - Living in the City | VGMC 15 | 8
 Sonic the Hedgehog (2006) - Solaris Phase 2 | VGMC 6 | 4
 Sora - Rendezvous | VGMC 6 | 16
 Sound Voltex III - Preserved Valkyria | VGMC 10 | 8
@@ -173,12 +185,14 @@ Terraria Calamity Mod - Servants of the Scourge | VGMC 13 | 16
 Terraria Calamity Mod - The Filthy Mind (Theme of the Hive Mind) | VGMC 14 | 16
 The Legend of Heroes: Trails in the Sky FC - Whereabouts of Light | VGMC 11 | 8
 The Legend of Heroes: Trails in the Sky SC - Silver Will | VGMC 4 | 16
+The Legend of Heroes: Trails in the Sky the 3rd - Dreamy and Boisterous Holy Land | VGMC 15 | 8
 The Legend of Zelda: Link’s Awakening - Tal Tal Heights | VGMC 2 | 16
 The Legend of Zelda: Ocarina of Time - Gerudo Valley | VGMC 3 | 16
 The Legend of Zelda: The Wind Waker - Dragon Roost Island | VGMC 2 | 2
 The Legend of Zelda: The Wind Waker - Staff Credits | VGMC 7 | 16
 The Ninja Warriors (Sega CD) - Daddy Mulk | VGMC 11 | 4
 The Seventh Seal - Rhythm of Red | VGMC 2 | 8
+Timespinner - Pioneer's Horizon | VGMC 15 | 16
 Touhou 8: Imperishable Night - Lunatic Eyes ~ Invisible Full Moon | VGMC 1 | 6
 Umineko no Naku Koro ni 1 - goldenslaughterer | VGMC 11 | 4
 Umineko no Naku Koro ni 1 - Hope | VGMC 4 | 1
@@ -188,6 +202,7 @@ Umineko no Naku Koro ni 3 - Happiness of Marionette | VGMC 4 | 16
 Umineko no Naku Koro ni 3 - miragecoordinator | VGMC 3 | 16
 Umineko no Naku Koro ni 4 - dreamenddischarger | VGMC 3 | 16
 Umineko no Naku Koro ni 4 - Endless Nine | VGMC 9 | 16
+Umineko no Naku Koro ni Chiru - resurrectedreplayer | VGMC 15 | 1
 Umineko no Naku Koro ni Chiru 5 - discolor | VGMC 4 | 8
 Umineko no Naku Koro ni Chiru 6 - Life | VGMC 5 | 4
 Umineko no Naku Koro ni Chiru 7 - the executioner | VGMC 7 | 2
@@ -207,6 +222,7 @@ Wild Arms 5 - Persephone IPCC_3927 (Battle) | VGMC 2 | 16
 Xenoblade Chronicles - Engage the Enemy | VGMC 8 | 16
 Xenoblade Chronicles - Unfinished Battle | VGMC 5 | 4
 Xenoblade Chronicles 2: Torna ~ The Golden Country - Battle!! | VGMC 13 | 4
+Xenoblade Chronicles: Definitive Edition - Fogbeasts | VGMC 15 | 4
 Xenogears - Small Two of Pieces | VGMC 8 | 4
 Xenosaga II - Communication Breakdown | VGMC 1 | 12
 Xenosaga III - Godsibb | VGMC 6 | 8
