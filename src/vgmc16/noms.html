@@ -9,6 +9,7 @@
       margin: 0;
       padding: 0;
       overflow: hidden;
+      font-family: sans-serif;
     }
     svg {
       width: 100%;
@@ -18,11 +19,14 @@
 </head>
 
 <body>
-  <label for="minvotes">Min. total votes (or min. shared votes for contracted):</label>
-  <input type="number" id="minvotes" value="5" min="1" max="15">
-
-  <label for="contracted">Contracted?</label>
+  <label for="contracted">Nominators only?</label>
   <input type="checkbox" id="contracted" checked />
+
+  <label for="allsongs">Include non-bracket noms?</label>
+  <input type="checkbox" id="allsongs" />
+
+  <label for="minvotes">Min. shared votes (nominators)/Min. total votes (nominators+songs):</label>
+  <input type="number" id="minvotes" value="5" min="1" max="15">
 
   <input type="button" id="reset" value="Render" />
   <code id="update">Updated through end of noms</code>
