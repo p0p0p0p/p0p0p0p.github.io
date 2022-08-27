@@ -39,6 +39,7 @@
   <input type="checkbox" id="showresults" checked>
 
   <input type="button" id="reset" value="Render">
+  <input type="button" id="pause" value="Pause">
   <code id="update"></code>
 
   <br>
@@ -50,6 +51,7 @@
 
   <script>
     document.getElementById("reset").addEventListener("click", function() { resetGraph(); });
+    document.getElementById("pause").addEventListener("click", function() { togglePause(); });
   </script>
 
   <script src="../../assets/js/jquery-3.4.1.min.js">document.write("jquery-3.4.1.min.js not found")</script>

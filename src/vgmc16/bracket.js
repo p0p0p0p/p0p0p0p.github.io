@@ -3,6 +3,7 @@ var FILTER = [];
 var PNODE = {field: 'Winner', label: 'RESULTS'};
 var MIN_RATIO = 0.0;
 var MAX_RATIO = 0.0;
+var running = true;
 
 jQuery(document).ready(resetGraph());
 
@@ -276,4 +277,14 @@ function renderGraph() {
   });
 
   App.renderer.run();
+}
+
+function togglePause() {
+  if (running) {
+    App.renderer.pause();
+    running = false;
+  } else {
+    App.renderer.resume();
+    running = true;
+  }
 }
