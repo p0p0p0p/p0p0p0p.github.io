@@ -22,30 +22,51 @@ function makeNodes(data) {
     FILTER = ['ID','Song A','Song B','Votes A','Votes B','Total','Margin',PNODE.field];
   }
   let min_voting = document.getElementById("minvoting").value/100;
+  let match_colours = document.getElementById("match");
   let parse = jQuery.csv.toObjects(data);
-  let totals = {};
+  let voterStats = {};
   let max_ID = 0;
 
   for (let header in parse[0]) {
     if (header && !FILTER.includes(header)) {
-      totals[header] = 0;
+      voterStats[header] = { total: 0, match: -1 };
     }
+  }
+
+  if (match_colours.length == 0) {
+    parse.forEach(function(row) {
+      let match = document.createElement("option");
+      match.value = row.ID;
+      match.innerHTML = row.ID + " " + row['Song A'] + " / " + row['Song B'];
+      match_colours.add(match);
+    });
+    match_colours.selectedIndex = match_colours.length - 1;
   }
 
   parse.forEach(function(row) {
     max_ID = row.ID;
-    for (let key in totals) {
+    for (let key in voterStats) {
       if (row[key]) {
-        ++totals[key];
+        ++voterStats[key].total;
+
+        if (row.ID != match_colours.value) {
+          continue;
+        }
+        if (row[key] == row['Song A']) {
+          voterStats[key].match = 0;
+        } else if (row[key] == row['Song B']) {
+          voterStats[key].match = 1;
+        }
       }
     }
   });
 
   document.getElementById("update").textContent = "Updated through match " + max_ID;
 
-  for (let key in totals) {
-    if (totals[key] / max_ID >= min_voting) {
+  for (let key in voterStats) {
+    if (voterStats[key].total / max_ID >= min_voting) {
       App.graph.addNode(key);
+      App.graph.getNode(key).vote = voterStats[key].match;
     }
   }
 
@@ -149,7 +170,15 @@ function renderGraph() {
     // Create SVG text element with user id as content
     var ui = Viva.Graph.svg('g');
 
-    var svgNode = Viva.Graph.svg("circle").attr("r", 2).attr("fill", "red");
+    let nodeColour = "silver";
+
+    if (node.vote == 0) {
+      nodeColour = "red";
+    } else if (node.vote == 1) {
+      nodeColour = "blue";
+    }
+
+    var svgNode = Viva.Graph.svg("circle").attr("r", 2.5).attr("fill", nodeColour);
     var svgText = Viva.Graph.svg('text').attr('text-anchor', 'middle').attr('font-family', 'sans-serif').text(node.id == PNODE.field ? PNODE.label : node.id);
 
     ui.append(svgNode);
