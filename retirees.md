@@ -26,6 +26,8 @@ Ace Combat Zero - Zero | VGMC 6 | 1
 Ace Combat: Assault Horizon - White Devil | VGMC 8 | 8
 Air - Summer Lights | VGMC 8 | 16
 Alan Wake - The Poet and the Muse | VGMC 7 | 16
+Alto's Odyssey - An Endless Desert | VGMC 16 | 16
+Alto's Odyssey: The Lost City - The Lost City | VGMC 16 | 4
 Ao no Kiseki Evolution - Seize the Truth! | VGMC 9 | 1
 Ar nosurge - Class::EXSPHERE_NOSURGE; | VGMC 13 | 1
 Ar nosurge - Hidra Heteromycin | VGMC 12 | 2
@@ -57,6 +59,7 @@ Castle Crashers - Winterbliss | VGMC 6 | 8
 Chrono Cross - Dream of the Shore Bordering Another World | VGMC 1 | 3
 Chrono Cross - Scars of Time | VGMC 1 | 1
 Chrono Cross - Time of the Dreamwatch | VGMC 1 | 12
+Chrono Trigger - Secret of the Forest | VGMC 16 | 8
 Chrono Trigger - Time Circuits/Corridors of Time/12,000 B.C. | VGMC 3 | 8
 Civilization IV - Baba Yetu | VGMC 1 | 3
 ClaDun: This Is an RPG - Slicing the Wind | VGMC 6 | 16
@@ -67,12 +70,14 @@ Crisis Core: Final Fantasy VII - The Price of Freedom | VGMC 4 | 8
 Crypt of the Necrodancer - Six Feet Thunder | VGMC 11 | 8
 Crystar - Revenger | VGMC 13 | 2
 Cytus II - Chocolate Missile | VGMC 13 | 8
+D4: Dark Dreams Don't Die - Theme of D4 | VGMC 16 | 16
 Dariusburst Another Chronicle EX - Catabolism | VGMC 15 | 16
 Dark Cloud - Dark Cloud Main Theme | VGMC 4 | 4
 Deemo - Evolution Era | VGMC 9 | 2
 Deltarune - Rude Buster | VGMC 14 | 8
 Demon Truck - Dead Neon Hell City | VGMC 13 | 16
 Digital: A Love Story - Paper Dolls | VGMC 7 | 16
+Donkey Kong Country - Aquatic Ambiance | VGMC 16 | 2
 Donkey Kong Country - Fear Factory | VGMC 8 | 16
 Donkey Kong Country - Gangplank Galleon | VGMC 3 | 16
 Donkey Kong Country 2 - Forest Interlude | VGMC 3 | 16
@@ -108,6 +113,7 @@ Idola Phantasy Star Saga - Endeavour | VGMC 14 | 1
 Jets'n'Guns - Shop Music | VGMC 7 | 8
 jubeat knit - Shining Wizard | VGMC 8 | 16
 jubeat Prop - Chloe | VGMC 13 | 16
+Kid Icarus: Uprising - Chapter 6: Dark Pit | VGMC 16 | 16
 Kingdom Hearts - Hikari ~ KINGDOM Orchestra Instrumental Version | VGMC 2 | 16
 Kirby 64 - Zero-Two | VGMC 8 | 2
 Kirby Triple Deluxe - Moonstruck Blossom | VGMC 14 | 8
@@ -115,6 +121,7 @@ Lamento -Beyond the Void- - When the End | VGMC 7 | 16
 Legend of Mana - Title | VGMC 1 | 6
 Lufia II - Battle #3 | VGMC 5 | 8
 Lufia II - The Last Duel | VGMC 8 | 8
+Mad Rat Dead - Breath of Forest | VGMC 16 | 8
 maimai MiLK - Credits | VGMC 14 | 16
 Mamorukun Curse! - YO-KAI Disco (Hell's Entrance World) | VGMC 14 | 8
 Mario Kart 8 - Big Blue | VGMC 11 | 8
@@ -129,6 +136,7 @@ Metal Masters - Metal Beat | VGMC 9 | 8
 Metal Slug 5 - Windy Day | VGMC 1 | 12
 Monty on the Run - In-Game Music | VGMC 5 | 16
 Napple Tale: Arsia in Daydream - Wild Wind | VGMC 4 | 16
+Neotokyo - Tachi | VGMC 16 | 8
 Neotokyo - Tin Soldiers | VGMC 7 | 8
 Nier - Emil / Karma | VGMC 11 | 1
 Nier - Shadowlord | VGMC 4 | 16
@@ -145,13 +153,17 @@ Persona 5 - Last Surprise | VGMC 12 | 8
 Persona 5 - Rivers in the Desert | VGMC 12 | 8
 Phantasy Star Online 2 - GUERRANT-OFENZA-SUPRONT-UNNE | VGMC 14 | 16
 Pinball Fantasies - steelchambers2 | VGMC 13 | 16
+Pokémon Mystery Dungeon: Rescue Team DX - Sky Tower | VGMC 16 | 16
 Pokemon Super Mystery Dungeon - Second Dark Matter Battle | VGMC 14 | 8
 Pop’n Music 18 - Kurokami Midareshi Shura to Narite | VGMC 9 | 4
 Professor Layton and the Unwound Future - Theme of the Last Time Travel | VGMC 3 | 8
+R4: Ridge Racer Type 4 - Move Me | VGMC 16 | 8
 Ragnarok Online II - Din Don Dan Dan Fo | VGMC 4 | 16
 Ratchet & Clank: Up Your Arsenal - Ratchet & Courtney Battle | VGMC 4 | 16
 Rivals of Aether - Luna Ascension EX (aka OST 7) | VGMC 10 | 8
 Romancing SaGa: Minstrel Song - Battle With Saruin | VGMC 9 | 8
+Secret of Mana (2018) - Prophecy | VGMC 16 | 16
+Shatter - Argon Refinery | VGMC 16 | 4
 Shenmue - Memories of Distant Days | VGMC 6 | 16
 Shikkoku no Sharnoth - Dorchadas | VGMC 6 | 2
 Shovel Knight - Strike the Earth | VGMC 9 | 16
@@ -192,6 +204,7 @@ The Legend of Zelda: The Wind Waker - Dragon Roost Island | VGMC 2 | 2
 The Legend of Zelda: The Wind Waker - Staff Credits | VGMC 7 | 16
 The Ninja Warriors (Sega CD) - Daddy Mulk | VGMC 11 | 4
 The Seventh Seal - Rhythm of Red | VGMC 2 | 8
+Threads of Fate - Passing through the Forest | VGMC 16 | 1
 Timespinner - Pioneer's Horizon | VGMC 15 | 16
 Touhou 8: Imperishable Night - Lunatic Eyes ~ Invisible Full Moon | VGMC 1 | 6
 Umineko no Naku Koro ni 1 - goldenslaughterer | VGMC 11 | 4
@@ -221,7 +234,9 @@ Wild Arms 5 - At the Frozen Depths of the Heart | VGMC 2 | 16
 Wild Arms 5 - Persephone IPCC_3927 (Battle) | VGMC 2 | 16
 Xenoblade Chronicles - Engage the Enemy | VGMC 8 | 16
 Xenoblade Chronicles - Unfinished Battle | VGMC 5 | 4
+Xenoblade Chronicles 2 - Mor Ardain ~ Roaming the Wastes | VGMC 16 | 16
 Xenoblade Chronicles 2: Torna ~ The Golden Country - Battle!! | VGMC 13 | 4
+Xenoblade Chronicles X - THEMEX | VGMC 16 | 16
 Xenoblade Chronicles: Definitive Edition - Fogbeasts | VGMC 15 | 4
 Xenogears - Small Two of Pieces | VGMC 8 | 4
 Xenosaga II - Communication Breakdown | VGMC 1 | 12
@@ -230,3 +245,4 @@ Ys Seven - Desert of Despair | VGMC 7 | 16
 Ys Seven - Innocent Primeval Breaker | VGMC 8 | 8
 Ys VIII: Lacrimosa of Dana - Sunshine Coastline | VGMC 12 | 1
 Ys: Memories of Celceta - False God of Causality | VGMC 8 | 16
+YU-NO: A Girl Who Chants Love at the Bound of this World - Different World 1 | VGMC 16 | 16
