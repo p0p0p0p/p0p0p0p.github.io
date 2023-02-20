@@ -32,9 +32,9 @@ Previous tournaments and final results!
 
  Contest | Final
 :-------:|:-----
-<span style="font-size:large;">[BOST 1 (2011)](https://www.bracketmaker.com/tlist.cfm?tid=410364)</span><br>64 songs<br>Host: azuarc | <span style="font-size:large;">Ar tonelico II</span><br>5-14, 10-9, 11-8<br>Guilty Gear X
-<span style="font-size:large;">[BOST 2 (2012)](https://www.bracketmaker.com/tlist.cfm?tid=434774)</span><br>64 songs<br>Host: azuarc | <span style="font-size:large;">Shatter</span><br>W-L, W-L, L-W<br>Ace Combat: Assault Horizon
-<span style="font-size:large;">[BOST 3 (2013)](https://www.bracketmaker.com/tlist.cfm?tid=448664)</span><br>64 songs<br>Host: azuarc | <span style="font-size:large;">Atelier Ayesha</span><br>8-9, 8-9, 14-4 / 11-5, 13-3, 11-5<br>Dynasty Warriors 7
-<span style="font-size:large;">[BOST 4 (2014)](https://www.bracketmaker.com/tlist.cfm?tid=457070)</span><br>64 songs<br>Host: azuarc | <span style="font-size:large;">Bravely Default</span><br>11-10, 11-10, 11-10<br>Xenoblade Chronicles
-<span style="font-size:large;">[BOST 5 (2019)](https://docs.google.com/spreadsheets/d/1sD964sXfa3trbXrr14mFKeEIA14cGM2RtHmW9TqGBmw/edit#gid=1381863297)</span><br>64 songs<br>Host: deogenerate | <span style="font-size:large;">Umineko When They Cry ~ Question Arcs</span><br>19-7, 16-10, 15-11<br>Blue Reflection
-<span style="font-size:large;">[BOST 6 (2022)](https://docs.google.com/spreadsheets/d/1dzksb-FzWnDGAZKUYQ6qJNkBJkp88TRVk9TmnPthy00/edit#gid=1381863297)</span><br>64 songs<br>Host: NFUN | <span style="font-size:large;">Chrono Trigger</span><br>26-8, 18-13, 19-14<br>Etrian Odyssey III
+<span style="font-size:large;">[BOST 1 (2011)](https://www.bracketmaker.com/tlist.cfm?tid=410364)</span><br>64 games<br>Host: azuarc | <span style="font-size:large;">Ar tonelico II</span><br>5-14, 10-9, 11-8<br>Guilty Gear X
+<span style="font-size:large;">[BOST 2 (2012)](https://www.bracketmaker.com/tlist.cfm?tid=434774)</span><br>64 games<br>Host: azuarc | <span style="font-size:large;">Shatter</span><br>W-L, W-L, L-W<br>Ace Combat: Assault Horizon
+<span style="font-size:large;">[BOST 3 (2013)](https://www.bracketmaker.com/tlist.cfm?tid=448664)</span><br>64 games<br>Host: azuarc | <span style="font-size:large;">Atelier Ayesha</span><br>8-9, 8-9, 14-4 / 11-5, 13-3, 11-5<br>Dynasty Warriors 7
+<span style="font-size:large;">[BOST 4 (2014)](https://www.bracketmaker.com/tlist.cfm?tid=457070)</span><br>64 games<br>Host: azuarc | <span style="font-size:large;">Bravely Default</span><br>11-10, 11-10, 11-10<br>Xenoblade Chronicles
+<span style="font-size:large;">[BOST 5 (2019)](https://docs.google.com/spreadsheets/d/1sD964sXfa3trbXrr14mFKeEIA14cGM2RtHmW9TqGBmw/edit#gid=1381863297)</span><br>64 games<br>Host: deogenerate | <span style="font-size:large;">Umineko When They Cry ~ Question Arcs</span><br>19-7, 16-10, 15-11<br>Blue Reflection
+<span style="font-size:large;">[BOST 6 (2022)](https://docs.google.com/spreadsheets/d/1dzksb-FzWnDGAZKUYQ6qJNkBJkp88TRVk9TmnPthy00/edit#gid=1381863297)</span><br>64 games<br>Host: NFUN | <span style="font-size:large;">Chrono Trigger</span><br>26-8, 18-13, 19-14<br>Etrian Odyssey III
