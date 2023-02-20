@@ -28,6 +28,8 @@ Previous tournaments and final results!
 <span style="font-size:large;">[VGMC 15 (2021)](https://www.bracketmaker.com/tlist.cfm?tid=474630)</span><br>256 songs/16 retirees<br>Hosts: Toxtricity & deogenerate | <span style="font-size:large;">resurrectedreplayer (Umineko no Naku Koro ni Chiru)</span><br>34-33<br>Id (Purpose) (Fire Emblem Awakening)
 <span style="font-size:large;">[VGMC 16 (2022)](https://www.bracketmaker.com/tlist.cfm?tid=475935)</span><br>256 songs/16 retirees<br>Hosts: deogenerate (& Toxtricity) | <span style="font-size:large;">Passing Through the Forest (Threads of Fate)</span><br>34-33<br>Aquatic Ambiance (Donkey Kong Country)
 
+## BOST
+
  Contest | Final
 :-------:|:-----
 <span style="font-size:large;">[BOST 1 (2011)](https://www.bracketmaker.com/tlist.cfm?tid=410364)</span><br>64 songs<br>Host: azuarc | <span style="font-size:large;">Ar tonelico II</span><br>5-14, 10-9, 11-8<br>Guilty Gear X
