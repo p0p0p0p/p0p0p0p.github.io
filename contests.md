@@ -38,3 +38,44 @@ Previous tournaments and final results!
 <span style="font-size:large;">[BOST 4 (2014)](https://www.bracketmaker.com/tlist.cfm?tid=457070)</span><br>64 games<br>Host: azuarc | <span style="font-size:large;">Bravely Default</span><br>11-10, 11-10, 11-10<br>Xenoblade Chronicles
 <span style="font-size:large;">[BOST 5 (2019)](https://docs.google.com/spreadsheets/d/1sD964sXfa3trbXrr14mFKeEIA14cGM2RtHmW9TqGBmw/edit#gid=1381863297)</span><br>64 games<br>Host: deogenerate | <span style="font-size:large;">Umineko When They Cry ~ Question Arcs</span><br>19-7, 16-10, 15-11<br>Blue Reflection
 <span style="font-size:large;">[BOST 6 (2022)](https://docs.google.com/spreadsheets/d/1dzksb-FzWnDGAZKUYQ6qJNkBJkp88TRVk9TmnPthy00/edit#gid=1381863297)</span><br>64 games<br>Host: NFUN | <span style="font-size:large;">Chrono Trigger</span><br>26-8, 18-13, 19-14<br>Etrian Odyssey III
+
+<details>
+<summary>The Big VGM Contest Archive</summary>
+
+## 2014
+https://www.smwcentral.net/?p=viewthread&t=71656&page=28 (Classic VGM Tourney 2014)
+Plok - Beach 13-4 Silver Surfer - Stage 1
+https://www.smwcentral.net/?p=viewthread&t=71650&page=26 (Modern VGM Tourney 2014)
+Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain of Dreams
+
+## 2018
+https://www.smwcentral.net/?p=viewthread&t=95722 (2018)
+Waterworld - Diving
+
+## 2019
+https://the-avocado.org/2019/08/27/best-video-game-song-tournament-prehistory-before-1983-final-results/ (2019)
+Ms. Pac-Man - Intermission Music 8-7 Moon Patrol - Main Theme
+https://the-avocado.org/2019/11/18/best-video-game-song-tournament-1983-1989-results-and-postmortem-survey/ (2019)
+Mega Man 2 – Dr. Wily Stage 1 14.5-14 vs Castlevania II – Bloody Tears
+
+## 2020
+https://the-avocado.org/2020/02/22/best-video-game-song-tournament-1990-1995-results/ (2020)
+Final Fantasy VI - Terra's Theme 19-10 Chrono Trigger - Corridors of Time
+https://the-avocado.org/2020/06/24/best-video-game-song-tournament-1996-2000-final-results-and-postmortem/ (2020)
+Chrono Cross - Scars of Time 14-4 Chrono Cross - Dream of the Shore Bordering Another World
+https://the-avocado.org/2020/10/26/best-video-game-song-tournament-2001-2004-final-results-and-housekeeping/ (2020)
+Ico - Castle in the Mist 14-13 Katamari Damacy - Lonely Rolling Star
+
+## 2021
+https://the-avocado.org/2021/11/22/best-video-game-song-tournament-2009-2012-final-results-and-housekeeping/ (2021)
+Bravely Default - Serpent Eating the Ground 12-3 Final Fantasy XIII-2 - Run
+https://the-avocado.org/2021/05/12/best-video-game-song-tournament-2005-2008-final-results-and-housekeeping/ (2021)
+Portal - Still Alive 19-10 Persona 4 - Heartbeat, Heartbreak
+
+## 2022
+https://the-avocado.org/2022/07/22/best-video-game-song-tournament-2013-2016-final-results-and-housekeeping/ (2022)
+Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
+
+</details>
+
+

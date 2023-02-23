@@ -17,6 +17,8 @@ Every year since 2007, when songs were shared on Putfile instead of YouTube, up 
 [VGMC champs playlist](https://www.youtube.com/playlist?list=PLW9O9mntH1RElFQnUIoUjxk4_bi-uLbVQ)\
 [VGMC retirees playlist 1](https://www.youtube.com/playlist?list=PLtm-5nTauRmH9-omKRQf_FQI6GEE84aTu)\
 [VGMC retirees playlist 2](https://www.youtube.com/playlist?list=PLtm-5nTauRmE4iHlAGmEBHXDf3Hs9T0zP)\
+[VGMC champs playlist (backup)](https://www.youtube.com/playlist?list=PLeKaE-gusMmZiN8DnKijvR4P8ZMXu1i6e)\
+[VGMC retirees playlist (backup)](https://www.youtube.com/playlist?list=PLeKaE-gusMmave89aPUWL6aq_LZO9PrA8)\
 [LogFAQs archive search: "VGMC"](https://www.logfaqs.com/board.php?search=vgmc&id=1)\
 [LogFAQs archive search: "VGMusic Contest"](https://www.logfaqs.com/board.php?search=vgmusic+contest&id=1)\
 [Board 8 Wiki: VGMusic Contest](https://board8.fandom.com/wiki/VGMusic_Contest)
