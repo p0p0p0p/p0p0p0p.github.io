@@ -89,11 +89,11 @@ Jets'n'Guns - Shop Music 19-18 VVVVVV - Potential for Anything
 2\. Sengoku Rance - Rebirth the Edge (103 votes) \
 3\. Xenoblade Chronicles - You Will Know Our Names (99 votes)
 
-[Final Fantasy Shrine Video Game Music Rumble 17 (Final Fantasy songs)](https://ffshrine.org/archive/t-66118-p-17.html) \
-Final Fantasy VI - Dancing Mad 4-2 Final Fantasy X - Decisive Battle
-
 🌴 [GamingForce Best Song Contest 10](https://web.archive.org/web/20120723215201/http://www.gamingforce.org/forums/reaching-other-side-rainbow-rounds/44153-championship-2012-otherworldly-pleasure.html) \
 Mighty Switch Force! - Whoa I'm In Space Cuba 16-15 Gravity Rush - Pleasure Quarter
+
+[Jeuxvideo Best Game Soundtrack](https://www.jeuxvideo.com/forums/1-76-934556-454-0-1-0-le-jeu-a-la-meilleure-musique.htm) \
+The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 
 ## 2013
 🍀 [2ch 7th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/3582.html) \
@@ -106,9 +106,6 @@ Mighty Switch Force! - Whoa I'm In Space Cuba 16-15 Gravity Rush - Pleasure Quar
 1\. Kirby: Triple Deluxe - Fatal Blooms in Moonlight (269 votes) \
 2\. Kirby's Return to Dream Land - C-R-O-W-N-E-D (168 votes) \
 3\. Okami - The Sun Rises (153 votes)
-
-[Final Fantasy Shrine Video Game Music Rumble 23 (Legend of Zelda songs)](https://ffshrine.org/archive/t-66118-p-20.html) \
-Legend of Zelda - Overworld 4-3 Zelda II: The Adventure of Link - Palace
 
 [SMW Central VGM Tourney - Classic](https://www.smwcentral.net/?p=viewthread&t=71656&page=28) \
 Plok! - Beach 13-4 Silver Surfer - Stage 1
@@ -134,7 +131,7 @@ Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain o
 3\. Iseki-jima to Nanatsu no Mahou (royalty-free, various) - Banbard ~piano arrange~ (31 votes)
 
 [SMW Central Video Game Music Tournament](https://www.smwcentral.net/?p=viewthread&t=81906&page=32) \
-(unofficial) 999 - Ternary Game 9-6 Super Danganronpa 2 - Ikoroshia
+(unofficial) 999 - Ternary Game 9-6 Danganronpa 2: Goodbye Despair - Ikoroshia
 
 ## 2017
 🍀 [2ch 11th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/6646.html) \
@@ -179,7 +176,7 @@ Shadow of the Colossus - Swift Horse W-L The Last Express - End Titles
 Ms. Pac-Man - Intermission Music 8-7 Moon Patrol - Main Theme
 
 🥑 [The Avocado Best Video Game Song Tournament, 1983-1989](https://the-avocado.org/2019/11/18/best-video-game-song-tournament-1983-1989-results-and-postmortem-survey/) \
-Mega Man 2 – Dr. Wily Stage 1 14.5-14 vs Castlevania II – Bloody Tears
+Mega Man 2 – Dr. Wily Stage 1 14.5-14 Castlevania II – Bloody Tears
 
 ## 2020
 🍀 [2ch 13th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/8349.html) \
@@ -195,7 +192,7 @@ Mega Man 2 – Dr. Wily Stage 1 14.5-14 vs Castlevania II – Bloody Tears
 [SupraDarky Discord's Best 2020 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/) \
 13 Sentinels: Aegis Rim - -(ISOLEUCINE)- 28-26 Paradise Killer - Paradise (Stay Forever)
 
-[Talking Time Best Game Music Forever Thunderdome Remastered](https://talking-time.net/index.php?threads/best-game-music-forever-thunderdome-remastered-remake.511/page-35) \
+[Talking Time's Best Game Music Forever Thunderdome Remastered](https://talking-time.net/index.php?threads/best-game-music-forever-thunderdome-remastered-remake.511/page-35) \
 Mega Man 2 - Dr. Wily Stage 1 7-6 Batman (NES) - Stage 1
 
 🥑 [The Avocado Best Video Game Song Tournament, 1990-1995](https://the-avocado.org/2020/02/22/best-video-game-song-tournament-1990-1995-results/) \
@@ -222,7 +219,7 @@ Ico - Castle in the Mist 14-13 Katamari Damacy - Lonely Rolling Star
 Alto's Odyssey: The Lost City - The Lost City 24-20 Far Fetched - Into the Woods!
 
 [SupraDarky Discord's Favorite "Best VGM List" Song](https://challonge.com/69e3tpak) \
-Scars of Time 21-17 Stickerbush Symphony
+Chrono Cross - Scars of Time 21-17 Donkey Kong Country 2 - Stickerbush Symphony
 
 🥑 [The Avocado Best Video Game Song Tournament, 2005-2008](https://the-avocado.org/2021/05/12/best-video-game-song-tournament-2005-2008-final-results-and-housekeeping/) \
 Portal - Still Alive 19-10 Persona 4 - Heartbeat, Heartbreak
@@ -235,6 +232,9 @@ Bravely Default - Serpent Eating the Ground 12-3 Final Fantasy XIII-2 - Run
 1\. Kirby and the Forgotten Land - Two Planets Approach the Roche Limit (109 votes, 261.5 points) \
 2\. Okami - The Sun Rises (64 votes, 141 points) \
 3\. Kirby: Triple Deluxe - Fatal Blooms in Moonlight (59 votes, 131.5 points)
+
+[Final Fantasy Shrine Final Fantasy Rumble 9](https://www.mafiauniverse.com/forums/threads/35441-The-Music-of-Final-Fantasy-A-Knock-Out-Tournament-2022-Edition?p=6121416&viewfull=1#post6121416) \
+Final Fantasy V - Clash on the Big Bridge 6-5 Final Fantasy VI - Dancing Mad
 
 🟪 [ResetERA Game Soundtracks of 2022](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2022-results.684847/) \
 1\. Xenoblade Chronicles 3 (57 votes, 518 points) \
