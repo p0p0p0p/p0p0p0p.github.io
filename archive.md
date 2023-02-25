@@ -10,8 +10,7 @@ Chrono Trigger - To Far Away Times W-L Metal Gear Solid 2 - Metal Gear Solid Mai
 
 ## 2005
 🌴 [GamingForce Best Song Contest 3](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2005:_Drama) \
-Legend of Mana - Song of Mana ~Ending Theme~ W-L ???
-
+Legend of Mana - Song of Mana ~Ending Theme~ W-L Unknown
 ## 2006
 🌴 [GamingForce Best Song Contest 4](https://web.archive.org/web/20080823182103/http://www.gamingforce.org/forums/best-vgm-song-contest-2006/14643-finals-fire-wire-vs-wind-phantom.html) \
 Soukaigi - Fire Wire 43-30 Suikoden V - Wind of Phantom [(disputed by Ace Combat Zero: The Belkan War - MERLON)](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2007:_The_New_GFF)
@@ -47,7 +46,7 @@ Ace Combat 6: Fires of Liberation - THE LIBERATION OF GRACEMERIA 38-32 Waterworl
 3\. Gurumin - Soaring Through the Sad Blue Sky (61 votes, 333 points)
 
 [Final Fantasy Shrine's Video Game Music Rumble 1](https://ffshrine.org/archive/t-66118.html) \
-Sonic the Hedgehog – Green Hill Zone 6-2 Final Fantasy VII – Aerith’s Theme
+Sonic the Hedgehog - Green Hill Zone 6-2 Final Fantasy VII - Aerith’s Theme
 
 🌴 [GamingForce Best Song Contest 7](https://web.archive.org/web/20100325153727/http://www.gamingforce.org/forums/final-rounds/38055-championship-2009-cast-fires-liberation.html) \
 Enthusia ~Professional Racing~ - AWAKENING ~Nürburgring Suite~ 32-27 R-Type (C64) - Title
@@ -59,7 +58,7 @@ Enthusia ~Professional Racing~ - AWAKENING ~Nürburgring Suite~ 32-27 R-Type (C6
 3\. Xenoblade Chronicles - Engage the Enemy (35 votes, 597 points)
 
 [Final Fantasy Hackticks Battle of the VGM](https://ffhacktics.com/smf/index.php?topic=6274.280) \
-(unofficial) Legend of Mana - Those Who Are Shining 7-5 Ys Origin OST - Beyond the Beginning
+(unofficial) Legend of Mana - Those Who Are Shining 7-5 Ys Origin - Beyond the Beginning
 
 🌴 [GamingForce Best Song Contest 8](https://web.archive.org/web/20100715073712/http://www.gamingforce.org/forums/final-rounds/41118-championship-10-fist-festival-v-time-departure-v-seize-artifact-tallness.html) \
 VVVVVV - Potential for Anything 21-14 Pop'n Music Iroha - MAGICAL VOICE SHOWER
@@ -95,9 +94,6 @@ Jets'n'Guns - Shop Music 19-18 VVVVVV - Potential for Anything
 2\. Sengoku Rance - Rebirth the Edge (103 votes) \
 3\. Xenoblade Chronicles - You Will Know Our Names (99 votes)
 
-[Final Fantasy Hackticks Battle of the VGM 2](https://ffhacktics.com/smf/index.php?topic=9327.360) \
-Guilty Gear X2 - Blue Water Blue Sky 6-5 Legend of Mana - Those Who Are Shining
-
 🌴 [GamingForce Best Song Contest 10](https://web.archive.org/web/20120723215201/http://www.gamingforce.org/forums/reaching-other-side-rainbow-rounds/44153-championship-2012-otherworldly-pleasure.html) \
 Mighty Switch Force! - Whoa I'm In Space Cuba 16-15 Gravity Rush - Pleasure Quarter
 
@@ -109,9 +105,6 @@ The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 1\. Kirby's Return to Dream Land - C-R-O-W-N-E-D (119 votes, 4437 points) \
 2\. Okami - The Sun Rises (113 votes, 4083 points) \
 3\. Sengoku Rance - Rebirth the Edge (98 votes, 3597 points)
-
-[Final Fantasy Hackticks Battle of the VGM 3](https://ffhacktics.com/smf/index.php?topic=10084.240) \
-Persona 3 - The Battle for Everyone's Souls 5-4 Secret of Mana - Banished
 
 ## 2014
 🍀 [2ch 8th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/4460.html) \
@@ -194,7 +187,7 @@ Shadow of the Colossus - Swift Horse W-L The Last Express - End Titles
 Ms. Pac-Man - Intermission Music 8-7 Moon Patrol - Main Theme
 
 🥑 [The Avocado Best Video Game Song Tournament, 1983-1989](https://the-avocado.org/2019/11/18/best-video-game-song-tournament-1983-1989-results-and-postmortem-survey/) \
-Mega Man 2 – Dr. Wily Stage 1 14.5-14 Castlevania II – Bloody Tears
+Mega Man 2 - Dr. Wily Stage 1 14.5-14 Castlevania II - Bloody Tears
 
 ## 2020
 🍀 [2ch 13th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/8349.html) \
@@ -208,7 +201,7 @@ Mega Man 2 – Dr. Wily Stage 1 14.5-14 Castlevania II – Bloody Tears
 3\. Ori and the Will of the Wisps (17 votes, 135 points)
 
 [SupraDarky Discord's Best 2020 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/) \
-13 Sentinels: Aegis Rim - -(ISOLEUCINE)- 28-26 Paradise Killer - Paradise (Stay Forever)
+13 Sentinels: Aegis Rim - -(Isoleucine)- 28-26 Paradise Killer - Paradise (Stay Forever)
 
 [Talking Time's Best Game Music Forever Thunderdome Remastered](https://talking-time.net/index.php?threads/best-game-music-forever-thunderdome-remastered-remake.511/page-35) \
 Mega Man 2 - Dr. Wily Stage 1 7-6 Batman (NES) - Stage 1

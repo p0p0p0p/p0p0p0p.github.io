@@ -3,8 +3,18 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+    font-family: espItal;
+    src: url(esp_ital.ttf);
+}
+
 header {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  white-space: nowrap;
+}
+
+header h1 {
+  font-family: 'espItal', Arial Black, Gadget, sans-serif;
 }
 
 ul, ol, dl {
@@ -12,27 +22,27 @@ ul, ol, dl {
 }
 
 #main-content h1 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #main-content h2 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #main-content h3 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #main-content h4 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #main-content h5 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #main-content h6 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 svg {

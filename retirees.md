@@ -4,7 +4,7 @@ layout: default
 
 # Retirees
 
-Shift+Click to sort by multiple columns! Wow!
+Shift+Click to sort by multiple columns (wow)
 
 <link rel="stylesheet" href="./assets/css/theme.default.min.css">
 <script type="text/javascript" src="./assets/js/jquery-3.4.1.min.js">document.write("jquery-3.4.1.min.js not found")</script>
