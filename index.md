@@ -4,9 +4,9 @@ layout: default
 
 # Welcome!
 
-This is an archive for VGMC a.k.a. Video Game Music Contest a.k.a. VGMusic Contest a.k.a. Big Ol' Video Game Music Contest a.k.a. WE WANT BRACKET that runs yearly on Board 8 of GameFAQs.
+This is an archive for VGMC a.k.a. Video Game Music Contest a.k.a. VGMusic Contest a.k.a. Big Ol' Video Game Music Contest a.k.a. WE WANT BRACKET that runs on Board 8 of GameFAQs.
 
-Starting in 2007 (when we listened on Putfile instead of YouTube), 256* songs have competed in an elimination bracket to crown our Supreme VGM Champion! (\*occasionally 128 or 192)
+Starting in 2007 (when we listened on Putfile instead of YouTube), 256* songs have competed each year in an elimination bracket to crown a Supreme VGM Champion! (\*occasionally 128 or 192)
 
 Some places to start: \
 [List of contests and winners](/contests.html) \
