@@ -46,7 +46,7 @@ Ace Combat 6: Fires of Liberation - THE LIBERATION OF GRACEMERIA 38-32 Waterworl
 2\. Okami - The Sun Rises (68 votes, 374 points) \
 3\. Gurumin - Soaring Through the Sad Blue Sky (61 votes, 333 points)
 
-[Final Fantasy Shrine Video Game Music Rumble 1](https://ffshrine.org/archive/t-66118.html) \
+[Final Fantasy Shrine's Video Game Music Rumble 1](https://ffshrine.org/archive/t-66118.html) \
 Sonic the Hedgehog – Green Hill Zone 6-2 Final Fantasy VII – Aerith’s Theme
 
 🌴 [GamingForce Best Song Contest 7](https://web.archive.org/web/20100325153727/http://www.gamingforce.org/forums/final-rounds/38055-championship-2009-cast-fires-liberation.html) \
@@ -58,11 +58,17 @@ Enthusia ~Professional Racing~ - AWAKENING ~Nürburgring Suite~ 32-27 R-Type (C6
 2\. Final Fantasy VI - Searching for Friends (39 votes, 619 points) \
 3\. Xenoblade Chronicles - Engage the Enemy (35 votes, 597 points)
 
+[Final Fantasy Hackticks Battle of the VGM](https://ffhacktics.com/smf/index.php?topic=6274.280) \
+(unofficial) Legend of Mana - Those Who Are Shining 7-5 Ys Origin OST - Beyond the Beginning
+
 🌴 [GamingForce Best Song Contest 8](https://web.archive.org/web/20100715073712/http://www.gamingforce.org/forums/final-rounds/41118-championship-10-fist-festival-v-time-departure-v-seize-artifact-tallness.html) \
 VVVVVV - Potential for Anything 21-14 Pop'n Music Iroha - MAGICAL VOICE SHOWER
 
 [SMW Central Best VGM Tournament](https://www.smwcentral.net/?p=viewthread&t=37919&page=37) \
 Silver Surfer - BGM 1 19-8 Enthusia Professional Racing - AWAKENING ~ Nürburgring Suite
+
+[Starmen.net Video Game Music Tournament](https://forum.starmen.net/forum/General/BFG/Video-Game-Song-Tournament/page/9/) \
+[(unofficial)](https://challonge.com/GVGS) Final Fantasy VI - Dancing Mad 16-10 Mother 3 - Love Theme
 
 ## 2011
 🍀 [2ch 5th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/1722.html) \
@@ -73,12 +79,12 @@ Silver Surfer - BGM 1 19-8 Enthusia Professional Racing - AWAKENING ~ Nürburgri
 🌴 [GamingForce Best Song Contest 9](https://web.archive.org/web/20120116021406/http://www.gamingforce.org/forums/mitsuda-rounds/43428-bbscsc-championship-shop-music-v-potential-anything-v-king-bobarkley.html) \
 Jets'n'Guns - Shop Music 19-18 VVVVVV - Potential for Anything
 
-[Hardcore Gaming 101 Best Video Game Music of All Time](http://www.hardcoregaming101.net/vgm/bestvgm2011.htm) \
+[Hardcore Gaming 101's Best Video Game Music of All Time](http://www.hardcoregaming101.net/vgm/bestvgm2011.htm) \
 1\. Chrono Cross - Scars of Time (56 points) \
 2\. Mega Man 2 - Dr. Wily Stage 1 (56 points) \
 3\. Castlevania series - Bloody Tears (44 points)
 
-[Hardcore Gaming 101 Best Western Video Game Music of All Time](http://hardcoregaming101.net/vgm/wvgm2011.htm) \
+[Hardcore Gaming 101's Best Western Video Game Music of All Time](http://hardcoregaming101.net/vgm/wvgm2011.htm) \
 1\. Diablo - Tristram (19 points) \
 2\. Monty on the Run - Main Theme (16 points) \
 3\. Solstice - Title (15 points)
@@ -88,6 +94,9 @@ Jets'n'Guns - Shop Music 19-18 VVVVVV - Potential for Anything
 1\. Okami - The Sun Rises (131 votes) \
 2\. Sengoku Rance - Rebirth the Edge (103 votes) \
 3\. Xenoblade Chronicles - You Will Know Our Names (99 votes)
+
+[Final Fantasy Hackticks Battle of the VGM 2](https://ffhacktics.com/smf/index.php?topic=9327.360) \
+Guilty Gear X2 - Blue Water Blue Sky 6-5 Legend of Mana - Those Who Are Shining
 
 🌴 [GamingForce Best Song Contest 10](https://web.archive.org/web/20120723215201/http://www.gamingforce.org/forums/reaching-other-side-rainbow-rounds/44153-championship-2012-otherworldly-pleasure.html) \
 Mighty Switch Force! - Whoa I'm In Space Cuba 16-15 Gravity Rush - Pleasure Quarter
@@ -100,6 +109,9 @@ The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 1\. Kirby's Return to Dream Land - C-R-O-W-N-E-D (119 votes, 4437 points) \
 2\. Okami - The Sun Rises (113 votes, 4083 points) \
 3\. Sengoku Rance - Rebirth the Edge (98 votes, 3597 points)
+
+[Final Fantasy Hackticks Battle of the VGM 3](https://ffhacktics.com/smf/index.php?topic=10084.240) \
+Persona 3 - The Battle for Everyone's Souls 5-4 Secret of Mana - Banished
 
 ## 2014
 🍀 [2ch 8th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/4460.html) \
@@ -155,6 +167,12 @@ Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain o
 2\. Rance X - Majin-Boss (93 votes) \
 3\. Xenoblade Chronicles 2 - Counterattack (69 votes)
 
+[Quarter to Three Game Music Thunderdome 1](https://forum.quartertothree.com/t/enter-the-game-music-thunderdome/133921/1615) \
+The Elder Scrolls V: Skyrim - Dragonborn 19-8 Brigador - Solo Nobre
+
+[Quarter to Three Game Music Thunderdome 2](https://forum.quartertothree.com/t/game-music-2-beyond-thunderdome/135612/706) \
+Outcast - Shamazaar 11-10 Superbrothers: Sword & Sworcery EP - The Prettiest Weed
+
 🟪 [ResetERA Game Soundtracks of 2018](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2018-results.96708/) \
 1\. Celeste (58 votes, 507 points) \
 2\. Octopath Traveler (54 votes, 482 points) \
@@ -164,7 +182,7 @@ Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain o
 Waterworld - Diving W-L Lethal League Blaze - AIN'T NOTHIN' LIKE A FUNKY BEAT
 
 ## 2019
-[Final Fantasy Shrine Video Game Music Rumble 42 (10th Anniversary Encores)](https://docs.google.com/document/d/1XGbM2O9_lF6NeBfkDJQJB8R3Gu4lSoUlkwRCAVTOoHk/) \
+[Final Fantasy Shrine's Video Game Music Rumble 42 (10th Anniversary Encores)](https://docs.google.com/document/d/1XGbM2O9_lF6NeBfkDJQJB8R3Gu4lSoUlkwRCAVTOoHk/) \
 Shadow of the Colossus - Swift Horse W-L The Last Express - End Titles
 
 🟪 [ResetERA Game Soundtracks of 2019](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2019-results.167460/) \
@@ -210,6 +228,12 @@ Ico - Castle in the Mist 14-13 Katamari Damacy - Lonely Rolling Star
 2\. Pokemon Sword & Shield - Gym Leader Battle (61 votes) \
 3\. Uma Musume: Pretty Derby - GIRLS' LEGEND U (59 votes)
 
+[Quarter to Three Game Music Thunderdome 3](https://forum.quartertothree.com/t/game-music-3-a-sound-of-thunderdome/151397/380) \
+Disco Elysium - Whirling in Rags (Day) 7-6 Shatter - Kinetic Rags
+
+[Quarter to Three Game Music Thunderdome 4](https://forum.quartertothree.com/t/game-music-4-thunderdome-eternal/152156/220) \
+Dark Souls II - Majula 7-6 Return of the Obra Dinn - Main Theme
+
 🟪 [ResetERA Game Soundtracks of 2021](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2021-results.548999/) \
 1\. Final Fantasy XIV: Endwalker (26 votes, 252 points) \
 2\. Chicory: A Colorful Tale (22 votes, 176 points) \
@@ -233,7 +257,7 @@ Bravely Default - Serpent Eating the Ground 12-3 Final Fantasy XIII-2 - Run
 2\. Okami - The Sun Rises (64 votes, 141 points) \
 3\. Kirby: Triple Deluxe - Fatal Blooms in Moonlight (59 votes, 131.5 points)
 
-[Final Fantasy Shrine Final Fantasy Rumble 9](https://www.mafiauniverse.com/forums/threads/35441-The-Music-of-Final-Fantasy-A-Knock-Out-Tournament-2022-Edition?p=6121416&viewfull=1#post6121416) \
+[Final Fantasy Shrine's Final Fantasy Rumble 9](https://www.mafiauniverse.com/forums/threads/35441-The-Music-of-Final-Fantasy-A-Knock-Out-Tournament-2022-Edition?p=6121416&viewfull=1#post6121416) \
 Final Fantasy V - Clash on the Big Bridge 6-5 Final Fantasy VI - Dancing Mad
 
 🟪 [ResetERA Game Soundtracks of 2022](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2022-results.684847/) \
