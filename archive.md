@@ -4,6 +4,11 @@ layout: default
 
 # The Big VGM Contest Archive
 
+TODO: \
+\- GamingForce contests and results (2003-2005, 2013-2017) \
+\- Chase the VGM Top 100 (2022) \
+\- More Talking Time/SMW Central
+
 ## 2004
 🌴 [GamingForce Best Song Contest 2](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2004:_Redux) \
 Chrono Trigger - To Far Away Times W-L Metal Gear Solid 2 - Metal Gear Solid Main Theme
@@ -11,6 +16,7 @@ Chrono Trigger - To Far Away Times W-L Metal Gear Solid 2 - Metal Gear Solid Mai
 ## 2005
 🌴 [GamingForce Best Song Contest 3](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2005:_Drama) \
 Legend of Mana - Song of Mana ~Ending Theme~ W-L Unknown
+
 ## 2006
 🌴 [GamingForce Best Song Contest 4](https://web.archive.org/web/20080823182103/http://www.gamingforce.org/forums/best-vgm-song-contest-2006/14643-finals-fire-wire-vs-wind-phantom.html) \
 Soukaigi - Fire Wire 43-30 Suikoden V - Wind of Phantom [(disputed by Ace Combat Zero: The Belkan War - MERLON)](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2007:_The_New_GFF)
@@ -19,6 +25,8 @@ Soukaigi - Fire Wire 43-30 Suikoden V - Wind of Phantom [(disputed by Ace Combat
 Uncharted Waters II Special Edition - Southern Twilight ~ Dance on a Cape of Good Hope 15-12 Gitarooman Original Soundtrack - The Legendary Theme (Album Version)
 
 ## 2007
+🏆 [Scars of Time 36-25 Dream of the Shore Bordering Another World, 53-27 Baba Yetu](/contests.html)
+
 🍀 [2ch 1st "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/13.html) \
 1\. Chrono Cross - Scars of Time (110 points) \
 2\. Dragon Quest III - Hero's Challenge (90 points) \
@@ -31,6 +39,8 @@ Wild ARMs 5 - The Road to Tomorrow Follows Behind You 30-23 Wild Arms Alter Code
 Maniac Mansion (NES) - 'The Boys Are Still Back' by Fat Patty (Dave's Theme) 18-11 Toki Tori (GB) - Home Sweet Home (Fifth Cutscene / Credits)
 
 ## 2008
+🏆 [Metal Gear Solid Main Theme 44-29 Dragon Roost Island](/contests.html)
+
 🍀 [2ch 2nd "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/14.html) \
 1\. Dragon Quest III - Hero's Challenge (24 votes, 157 points) \
 2\. Donkey Kong Country 2 - Stickerbush Symphony (29 votes, 153 points) \
@@ -40,6 +50,8 @@ Maniac Mansion (NES) - 'The Boys Are Still Back' by Fat Patty (Dave's Theme) 18-
 Ace Combat 6: Fires of Liberation - THE LIBERATION OF GRACEMERIA 38-32 Waterworld - Diving
 
 ## 2009
+🏆 [Reset ~ “Thank You” Version 32-30 Diving](/contests.html)
+
 🍀 [2ch 3rd "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/16.html) \
 1\. Lufia II - Battle #2 (64 votes, 405 points) \
 2\. Okami - The Sun Rises (68 votes, 374 points) \
@@ -52,6 +64,8 @@ Sonic the Hedgehog - Green Hill Zone 6-2 Final Fantasy VII - Aerith’s Theme
 Enthusia ~Professional Racing~ - AWAKENING ~Nürburgring Suite~ 32-27 R-Type (C64) - Title
 
 ## 2010
+🏆 [Hope 32-30 Trombe!](/contests.html)
+
 🍀 [2ch 4th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/907.html) \
 1\. Okami - The Sun Rises (73 votes, 1217 points) \
 2\. Final Fantasy VI - Searching for Friends (39 votes, 619 points) \
@@ -70,6 +84,8 @@ Silver Surfer - BGM 1 19-8 Enthusia Professional Racing - AWAKENING ~ Nürburgri
 [(unofficial)](https://challonge.com/GVGS) Final Fantasy VI - Dancing Mad 16-10 Mother 3 - Love Theme
 
 ## 2011
+🏆 [The Extreme 38-35 The Sun Rises](/contests.html)
+
 🍀 [2ch 5th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/1722.html) \
 1\. Xenoblade Chronicles - You Will Know Our Names (96 votes, 226 points) \
 2\. The Legend of Heroes: Trails from Zero - Inevitable Struggle (72 votes, 175 points) \
@@ -89,6 +105,8 @@ Jets'n'Guns - Shop Music 19-18 VVVVVV - Potential for Anything
 3\. Solstice - Title (15 points)
 
 ## 2012
+🏆 [Zero 31-22 Dorchadas](/contests.html)
+
 🍀 [2ch 6th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/2732.html) \
 1\. Okami - The Sun Rises (131 votes) \
 2\. Sengoku Rance - Rebirth the Edge (103 votes) \
@@ -101,16 +119,23 @@ Mighty Switch Force! - Whoa I'm In Space Cuba 16-15 Gravity Rush - Pleasure Quar
 The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 
 ## 2013
+🏆 [EXEC_SPHILIA/. 29-24 the executioner](/contests.html)
+
 🍀 [2ch 7th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/3582.html) \
 1\. Kirby's Return to Dream Land - C-R-O-W-N-E-D (119 votes, 4437 points) \
 2\. Okami - The Sun Rises (113 votes, 4083 points) \
 3\. Sengoku Rance - Rebirth the Edge (98 votes, 3597 points)
 
 ## 2014
+🏆 [Papiliones 22-16 Zero-Two](/contests.html)
+
 🍀 [2ch 8th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/4460.html) \
 1\. Kirby: Triple Deluxe - Fatal Blooms in Moonlight (269 votes) \
 2\. Kirby's Return to Dream Land - C-R-O-W-N-E-D (168 votes) \
 3\. Okami - The Sun Rises (153 votes)
+
+[Final Fantasy Shrine's Final Fantasy Rumble 1](https://www.mafiauniverse.com/forums/threads/35384-VGM-Knock-Out-Tournament?p=6685813&viewfull=1#post6685813) \
+Final Fantasy VI - Dancing Mad 4-2 Final Fantasy X - Decisive Battle
 
 [SMW Central VGM Tourney - Classic](https://www.smwcentral.net/?p=viewthread&t=71656&page=28) \
 Plok! - Beach 13-4 Silver Surfer - Stage 1
@@ -119,12 +144,16 @@ Plok! - Beach 13-4 Silver Surfer - Stage 1
 Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain of Dreams
 
 ## 2015
+🏆 [Seize the Truth! 12-10 Evolution Era](/contests.html)
+
 🍀 [2ch 9th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/5458.html) \
 1\. Splatoon - Calamari Inkantation (282 votes) \
 2\. Xenoblade Chronicles - You Will Know Our Names (189 votes) \
 3\. Iseki-jima to Nanatsu no Mahou (royalty-free, various) - Banbard ~piano arrange~ (186 votes)
 
 ## 2016
+🏆 [Despair of ELFERIA 20-20, 24-20 Megalovania](/contests.html)
+
 🍀 [2ch 10th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/6120.html) \
 1\. Kirby: Planet Robobot - VS. Star Dream (200 votes) \
 2\. Undertale - MEGALOVANIA (180 votes) \
@@ -139,6 +168,8 @@ Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain o
 (unofficial) 999 - Ternary Game 9-6 Danganronpa 2: Goodbye Despair - Ikoroshia
 
 ## 2017
+🏆 [Emil / Karma 20-10 Flying Clouds, Drifting Haze](/contests.html)
+
 🍀 [2ch 11th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/6646.html) \
 1\. Iseki-jima to Nanatsu no Mahou (royalty-free, various) - Banbard ~piano arrange~ (81 votes) \
 2\. Okami - The Sun Rises (76 votes) \
@@ -155,6 +186,8 @@ Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain o
 3\. Xenoblade Chronicles 2 (94 votes, 804 points)
 
 ## 2018
+🏆 [Sunshine Coastline 21-17 Hidra Heteromycin](/contests.html)
+
 🍀 [2ch 12th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/7412.html) \
 1\. Rance X - Blood Memories (94 votes) \
 2\. Rance X - Majin-Boss (93 votes) \
@@ -175,8 +208,10 @@ Outcast - Shamazaar 11-10 Superbrothers: Sword & Sworcery EP - The Prettiest Wee
 Waterworld - Diving W-L Lethal League Blaze - AIN'T NOTHIN' LIKE A FUNKY BEAT
 
 ## 2019
+🏆 [Class::EXSPHERE_NOSURGE; 26-23 Revenger](/contests.html)
+
 [Final Fantasy Shrine's Video Game Music Rumble 42 (10th Anniversary Encores)](https://docs.google.com/document/d/1XGbM2O9_lF6NeBfkDJQJB8R3Gu4lSoUlkwRCAVTOoHk/) \
-Shadow of the Colossus - Swift Horse W-L The Last Express - End Titles
+Shadow of the Colossus - Swift Horse 4-2 The Last Express - End Titles
 
 🟪 [ResetERA Game Soundtracks of 2019](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2019-results.167460/) \
 1\. Fire Emblem: Three Houses (32 votes, 248 points) \
@@ -190,6 +225,8 @@ Ms. Pac-Man - Intermission Music 8-7 Moon Patrol - Main Theme
 Mega Man 2 - Dr. Wily Stage 1 14.5-14 Castlevania II - Bloody Tears
 
 ## 2020
+🏆 [Endeavour 25-23 -(ISOLEUCINE)-](/contests.html)
+
 🍀 [2ch 13th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/8349.html) \
 1\. Okami - The Sun Rises (44 votes) \
 2\. Xenoblade Chronicles 2: Torna ~ The Golden Country - Battle!! (42 votes) \
@@ -216,6 +253,8 @@ Chrono Cross - Scars of Time 14-4 Chrono Cross - Dream of the Shore Bordering An
 Ico - Castle in the Mist 14-13 Katamari Damacy - Lonely Rolling Star
 
 ## 2021
+🏆 [resurrectedreplayer 34-33 Id (Purpose)](/contests.html)
+
 🍀 [2ch 14th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/9526.html) \
 1\. Okami - The Sun Rises (70 votes) \
 2\. Pokemon Sword & Shield - Gym Leader Battle (61 votes) \
@@ -245,6 +284,8 @@ Portal - Still Alive 19-10 Persona 4 - Heartbeat, Heartbreak
 Bravely Default - Serpent Eating the Ground 12-3 Final Fantasy XIII-2 - Run
 
 ## 2022
+🏆 [Passing Through the Forest 34-33 Aquatic Ambiance](/contests.html)
+
 🍀 [2ch 15th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/9902.html) \
 1\. Kirby and the Forgotten Land - Two Planets Approach the Roche Limit (109 votes, 261.5 points) \
 2\. Okami - The Sun Rises (64 votes, 141 points) \

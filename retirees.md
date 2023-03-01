@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Retirees
+# VGMC Retirees
 
 Shift+Click to sort by multiple columns (wow)
 
@@ -18,8 +18,8 @@ Shift+Click to sort by multiple columns (wow)
 
  # | Song | Contest | Placement (1 = Champion, 2 = Finalist, etc.)
 :--|:-----|:--------|:---------------------------------------------
-190 | 13 Sentinels: Aegis Rim - -(Isoleucine)- | VGMC 14 | 2
-184 | 13 Sentinels: Aegis Rim - -[Deoxyribose]- | VGMC 14 | 4
+190 | 13 Sentinels: Aegis Rim - -(ISOLEUCINE)- | VGMC 14 | 2
+184 | 13 Sentinels: Aegis Rim - -[DEOXYRIBOSE]- | VGMC 14 | 4
 85 | 7th Dragon 2020 - The Last Location of Mankind | VGMC 6 | 16
 39 | Ace Combat 6 - The Liberation of Gracemeria | VGMC 3 | 8
 87 | Ace Combat Zero - Zero | VGMC 6 | 1

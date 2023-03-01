@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Graphs
+# VGMC Graphs
 
 ## v1
 

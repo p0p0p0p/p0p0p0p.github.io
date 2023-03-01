@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Contests
+# Video Game Music Contest (VGMC)
 
 Brackets and final results (all hail our champions)
 
@@ -24,11 +24,11 @@ Brackets and final results (all hail our champions)
 <span style="font-size:large;">[VGMC 12 (2018)](https://www.bracketmaker.com/tlist.cfm?tid=469506)</span><br>128 songs (8 retirees)<br>Host: azuarc | <span style="font-size:large;">**Sunshine Coastline (Ys VIII: Lacrimosa of Dana)**</span><br>21-17<br>Hidra Heteromycin (Ar nosurge)
 <span style="font-size:large;">[VGMC 13 (2019)](https://www.bracketmaker.com/tlist.cfm?tid=471679)</span><br>192 songs (16 retirees)<br>Host: azuarc | <span style="font-size:large;">**Class::EXSPHERE_NOSURGE; (Ar nosurge)**</span><br>26-23<br>Revenger (Crystar)
 [ToC 3 (best of VGMC 10-13)](https://www.bracketmaker.com/tlist.cfm?tid=473292)<br>56 songs | Class::EXSPHERE_NOSURGE; (Ar nosurge)<br>23-20<br>Despair of ELFERIA (Beatmania IIDX 22 PENDUAL)
-<span style="font-size:large;">[VGMC 14 (2020)](https://www.bracketmaker.com/tlist.cfm?tid=473292)</span><br>192 songs (16 retirees)<br>Host: azuarc | <span style="font-size:large;">**Endeavour (Idola Phantasy Star Saga)**</span><br>25-23<br>-(Isoleucine)- (13 Sentinels: Aegis Rim)
+<span style="font-size:large;">[VGMC 14 (2020)](https://www.bracketmaker.com/tlist.cfm?tid=473292)</span><br>192 songs (16 retirees)<br>Host: azuarc | <span style="font-size:large;">**Endeavour (Idola Phantasy Star Saga)**</span><br>25-23<br>-(ISOLEUCINE)- (13 Sentinels: Aegis Rim)
 <span style="font-size:large;">[VGMC 15 (2021)](https://www.bracketmaker.com/tlist.cfm?tid=474630)</span><br>256 songs (16 retirees)<br>Hosts: Toxtricity & deogenerate | <span style="font-size:large;">**resurrectedreplayer (Umineko no Naku Koro ni Chiru)**</span><br>34-33<br>Id (Purpose) (Fire Emblem Awakening)
 <span style="font-size:large;">[VGMC 16 (2022)](https://www.bracketmaker.com/tlist.cfm?tid=475935)</span><br>256 songs (16 retirees)<br>Hosts: deogenerate (& Toxtricity) | <span style="font-size:large;">**Passing Through the Forest (Threads of Fate)**</span><br>34-33<br>Aquatic Ambiance (Donkey Kong Country)
 
-## BOST
+## Best OST Contest (BOST)
 
  <span style="font-size:large;">Contest</span> | <span style="font-size:large;">Final</span>
 :---------------------------------------------:|:--------------------------------------------

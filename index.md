@@ -16,7 +16,7 @@ Some places to start: \
 
 ## Handy Links
 
-### Intro to VGMC
+### Reference
 [VGMC 15 Primer Video](https://www.youtube.com/watch?v=zqUADAakOnE) \
 ["VGMC" archive search on LogFAQs](https://www.logfaqs.com/board.php?search=vgmc&id=1) \
 [VGMC total stats & past sheets](https://docs.google.com/spreadsheets/d/1K1XdLWiUKB2kX99qYBgnRbLU_sCz4dvZSByKKJHCT6o/edit#gid=961273194) \
@@ -30,7 +30,7 @@ Some places to start: \
 ["VGMusic Contest" archive search on LogFAQs](https://www.logfaqs.com/board.php?search=vgmusic+contest&id=1) \
 [VGMusic Contest on Board 8 Wiki](https://board8.fandom.com/wiki/VGMusic_Contest)
 
-### Best OST Contest
+### BOST
 [BOST Nomination Compilation](https://docs.google.com/spreadsheets/d/1TqxYsxxM46VgYKsRgFvUoUQljHTkCSAK2l50lDC3MBg) \
 ["BOST" archive search on LogFAQs](https://www.logfaqs.com/board.php?search=bost&id=1) \
 ["Best OST Contest" archive search on LogFAQs](https://www.logfaqs.com/board.php?search=best+ost+contest&id=1) \
