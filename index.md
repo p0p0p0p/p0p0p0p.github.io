@@ -19,6 +19,8 @@ Some places to start: \
 ### Reference
 [VGMC 15 Primer Video](https://www.youtube.com/watch?v=zqUADAakOnE) \
 ["VGMC" archive search on LogFAQs](https://www.logfaqs.com/board.php?search=vgmc&id=1) \
+[VGMC 16 nomination thread](https://www.logfaqs.com/topic.php?id=80006092) \
+[VGMC 16 bracket day 1](https://www.logfaqs.com/topic.php?id=80038115) \
 [VGMC total stats & past sheets](https://docs.google.com/spreadsheets/d/1K1XdLWiUKB2kX99qYBgnRbLU_sCz4dvZSByKKJHCT6o/edit#gid=961273194) \
 [VGMC Nomination History](https://docs.google.com/spreadsheets/d/1qZxAoO6iaKSFj3CpMhx9F9Gs8hCa0zRI8oclVObxEhI)
 
