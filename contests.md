@@ -27,6 +27,7 @@ Brackets and final results (all hail our champions)
 <span style="font-size:large;">[VGMC 14 (2020)](https://www.bracketmaker.com/tlist.cfm?tid=473292)</span><br>192 songs (16 retirees)<br>Host: azuarc | <span style="font-size:large;">**Endeavour (Idola Phantasy Star Saga)**</span><br>25-23<br>-(ISOLEUCINE)- (13 Sentinels: Aegis Rim)
 <span style="font-size:large;">[VGMC 15 (2021)](https://www.bracketmaker.com/tlist.cfm?tid=474630)</span><br>256 songs (16 retirees)<br>Hosts: Toxtricity & deogenerate | <span style="font-size:large;">**resurrectedreplayer (Umineko no Naku Koro ni Chiru)**</span><br>34-33<br>Id (Purpose) (Fire Emblem Awakening)
 <span style="font-size:large;">[VGMC 16 (2022)](https://www.bracketmaker.com/tlist.cfm?tid=475935)</span><br>256 songs (16 retirees)<br>Hosts: deogenerate (& Toxtricity) | <span style="font-size:large;">**Passing Through the Forest (Threads of Fate)**</span><br>34-33<br>Aquatic Ambiance (Donkey Kong Country)
+<span style="font-size:large;">[VGMC 17 (2023)](https://docs.google.com/spreadsheets/d/1SAJKYJmYhccLvbf_H-5uSA7-eMwXfW8k1q74Qho1bLU/edit#gid=1627719323)</span><br>256 songs (16 retirees)<br>Host: deogenerate | [Vote and you can decide!](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
 
 ## Best OST Contest (BOST)
 

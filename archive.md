@@ -299,6 +299,13 @@ Final Fantasy V - Clash on the Big Bridge 6-5 Final Fantasy VI - Dancing Mad
 2\. Elden Ring (42 votes, 317 points) \
 3\. God of War Ragnarök (32 votes, 238 points)
 
+[SupraDarky Discord's Best 2022 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=821294565)
+
 🥑 [The Avocado Best Video Game Song Tournament, 2013-2016](https://the-avocado.org/2022/07/22/best-video-game-song-tournament-2013-2016-final-results-and-housekeeping/) \
 Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
+
+## 2023
+🏆 [TBD](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
+
+🥑 [The Avocado Best Video Game Song Tournament, 2017-2020](https://the-avocado.org/tag/best-video-game-song-tournament/)
 
