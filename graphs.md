@@ -38,3 +38,7 @@ layout: default
 \- Customizable thresholds \
 \- Hoverable users, match colouring, toggle #1 links \
 \- Higher compatibilities equal shorter base links
+
+[VGMC 17 Nominators](./src/vgmc17/noms.html) \
+\- Shows which bracket songs share the most nominators \
+\- Hoverable songs, toggle #1 links \
