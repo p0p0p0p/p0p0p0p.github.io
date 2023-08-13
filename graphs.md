@@ -40,5 +40,7 @@ layout: default
 \- Higher compatibilities equal shorter base links
 
 [VGMC 17 Nominators](./src/vgmc17/noms.html) \
-\- Shows which bracket songs share the most nominators \
+\- Shows which bracket songs share the most nominators (doubles treated the same as singles) \
 \- Hoverable songs, toggle #1 links \
+[VGMC 17 Voters](./src/vgmc17/bracket.html) \
+\- Same as VGMC 16

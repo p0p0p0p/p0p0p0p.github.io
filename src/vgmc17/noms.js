@@ -160,8 +160,8 @@ function renderGraph() {
   });
 
   graphics.link(function(link) {
-    let label = Viva.Graph.svg('text').attr('id', 'l'+ link.id).attr('text-anchor', 'middle').attr('font-family', 'sans-serif').attr('font-size', 12).attr('visibility', 'hidden').text(link.data.shared.map(s => s.substring(0,8))); 
-    
+    let label = Viva.Graph.svg('text').attr('id', 'l'+ link.id).attr('text-anchor', 'middle').attr('font-family', 'sans-serif').attr('font-size', 12).attr('visibility', 'hidden').text(link.data.shared.map(s => s.substring(0,8)));
+
     graphics.getSvgRoot().childNodes[0].append(label);
 
     let min_shared = parseInt(document.getElementById("minshared").value);

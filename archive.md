@@ -5,8 +5,7 @@ layout: default
 # The Big VGM Contest Archive
 
 TODO: \
-\- GamingForce contests and results (2003-2005, 2013-2017) \
-\- Chase the VGM Top 100 (2022) \
+\- GamingForce results (2003-2005, 2013-2017) \
 \- More Talking Time/SMW Central
 
 ## 2004
@@ -19,7 +18,7 @@ Legend of Mana - Song of Mana ~Ending Theme~ W-L Unknown
 
 ## 2006
 🌴 [GamingForce Best Song Contest 4](https://web.archive.org/web/20080823182103/http://www.gamingforce.org/forums/best-vgm-song-contest-2006/14643-finals-fire-wire-vs-wind-phantom.html) \
-Soukaigi - Fire Wire 43-30 Suikoden V - Wind of Phantom [(disputed by Ace Combat Zero: The Belkan War - MERLON)](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2007:_The_New_GFF)
+Soukaigi - Fire Wire 43-30 Suikoden V - Wind of Phantom
 
 🌴 [GamingForce 2006 Song of the Year](https://web.archive.org/web/20080103190301/http://www.gamingforce.org/forums/song-year/6554-final-round.html) \
 Uncharted Waters II Special Edition - Southern Twilight ~ Dance on a Cape of Good Hope 15-12 Gitarooman Original Soundtrack - The Legendary Theme (Album Version)
@@ -33,7 +32,7 @@ Uncharted Waters II Special Edition - Southern Twilight ~ Dance on a Cape of Goo
 3\. Mother - Eight Melodies (76 points)
 
 🌴 [GamingForce Best Song Contest 5](https://web.archive.org/web/20100112155546/http://www.gamingforce.org/forums/final-rounds/24572-final-round-puzzle-vs-road-tomorrow-follows-behind-you.html) \
-Wild ARMs 5 - The Road to Tomorrow Follows Behind You 30-23 Wild Arms Alter Code:F - Puzzle
+Wild ARMs 5 - The Road to Tomorrow Follows Behind You 30-23 Wild Arms Alter Code:F - Puzzle [(disputed by Ace Combat Zero: The Belkan War - MERLON)](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2007:_The_New_GFF)
 
 🌴 [GamingForce Best Chiptune Contest](https://web.archive.org/web/20071017024742/http://www.gamingforce.org/forums/best-chiptune-contest/21384-bcc-championship-match.html) \
 Maniac Mansion (NES) - 'The Boys Are Still Back' by Fat Patty (Dave's Theme) 18-11 Toki Tori (GB) - Home Sweet Home (Fifth Cutscene / Credits)
@@ -150,6 +149,9 @@ Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain o
 1\. Splatoon - Calamari Inkantation (282 votes) \
 2\. Xenoblade Chronicles - You Will Know Our Names (189 votes) \
 3\. Iseki-jima to Nanatsu no Mahou (royalty-free, various) - Banbard ~piano arrange~ (186 votes)
+
+[Acclaimed Music Video Game Tracks Bracket](http://www.acclaimedmusic.net/forums/viewtopic.php?p=44017&sid=3ce8ea7f9d6bc6fa62dd0d40547403a9#p44017) \
+Donkey Kong Country 2 - Stickerbush Symphony 8-2 Mega Man 2 - Bubble Man Theme
 
 ## 2016
 🏆 [Despair of ELFERIA 20-20, 24-20 Megalovania](/contests.html)
@@ -277,6 +279,11 @@ Alto's Odyssey: The Lost City - The Lost City 24-20 Far Fetched - Into the Woods
 [SupraDarky Discord's Favorite "Best VGM List" Song](https://challonge.com/69e3tpak) \
 Chrono Cross - Scars of Time 21-17 Donkey Kong Country 2 - Stickerbush Symphony
 
+[The Chase VGM's "Chase's Choice" 2021](https://docs.google.com/spreadsheets/d/1XtqlU1Rjvm1hcvqX2PacsS4YKKAc37Qh5hFG5YAioFs/edit#gid=1487707326) \
+1\. Final Fantasy VI - Dancing Mad (11 votes) \
+2\. Chrono Trigger - Corridors of Time (10 votes) \
+3\. Donkey Kong Country 2 - Stickerbush Symphony (9 votes)
+
 🥑 [The Avocado Best Video Game Song Tournament, 2005-2008](https://the-avocado.org/2021/05/12/best-video-game-song-tournament-2005-2008-final-results-and-housekeeping/) \
 Portal - Still Alive 19-10 Persona 4 - Heartbeat, Heartbreak
 
@@ -299,7 +306,13 @@ Final Fantasy V - Clash on the Big Bridge 6-5 Final Fantasy VI - Dancing Mad
 2\. Elden Ring (42 votes, 317 points) \
 3\. God of War Ragnarök (32 votes, 238 points)
 
-[SupraDarky Discord's Best 2022 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=821294565)
+[SupraDarky Discord's Best 2022 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=821294565) \
+Freedom Planet 2 - Dragon Valley (Stage 1) - The Lost City 25-22 Alto's Adventure - The Spirit of the Mountain
+
+[The Chase VGM's "Chase's Choice" 2022](https://docs.google.com/spreadsheets/d/1FSxe1pwDRT5qvYRGVi4_-VcxjXEC1UllXjxBtzjU5EY/edit#gid=1994334255) \
+1\. Chrono Trigger - Corridors of Time (15 votes, 50.9 points) \
+2\. Undertale - MEGALOVANIA (14 votes, 46.71 points) \
+3\. Chrono Cross - Radical Dreamers -Le Trésor Interdit- (11 votes, 46.65 points)
 
 🥑 [The Avocado Best Video Game Song Tournament, 2013-2016](https://the-avocado.org/2022/07/22/best-video-game-song-tournament-2013-2016-final-results-and-housekeeping/) \
 Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
@@ -307,5 +320,6 @@ Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 ## 2023
 🏆 [TBD](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
 
-🥑 [The Avocado Best Video Game Song Tournament, 2017-2020](https://the-avocado.org/tag/best-video-game-song-tournament/)
+🥑 [The Avocado Best Video Game Song Tournament, 2017-2020](https://the-avocado.org/2023/06/07/best-video-game-song-tournament-2017-2020-final-results-and-housekeeping/) \
+Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 
