@@ -8,8 +8,6 @@ This is an archive for VGMC a.k.a. Video Game Music Contest a.k.a. VGMusic Conte
 
 Starting in 2007 (when we listened on Putfile instead of YouTube), 256* songs have competed each year in an elimination bracket to crown a Supreme VGM Champion! (\*occasionally 128 or 192)
 
-[🏆 VGMC 17 is live for 2023!](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
-
 Some places to start: \
 [List of contests and winners](/contests.html) \
 [List of songs that made round 5 and are now "retired"](/retirees.html) \

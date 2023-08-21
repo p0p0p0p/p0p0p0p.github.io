@@ -76,6 +76,11 @@ Enthusia ~Professional Racing~ - AWAKENING ~Nürburgring Suite~ 32-27 R-Type (C6
 🌴 [GamingForce Best Song Contest 8](https://web.archive.org/web/20100715073712/http://www.gamingforce.org/forums/final-rounds/41118-championship-10-fist-festival-v-time-departure-v-seize-artifact-tallness.html) \
 VVVVVV - Potential for Anything 21-14 Pop'n Music Iroha - MAGICAL VOICE SHOWER
 
+🟠 [NeoGAF Game Soundtracks of 2010](https://web.archive.org/web/20230821011221/https://www.neogaf.com/threads/neogaf-game-soundtracks-of-the-year-2010-results-and-archive.418564/) \
+1\. Nier (185 points) \
+2\. Final Fantasy XIII (66 points) \
+3\. Super Mario Galaxy 2 (47 points)
+
 [SMW Central Best VGM Tournament](https://www.smwcentral.net/?p=viewthread&t=37919&page=37) \
 Silver Surfer - BGM 1 19-8 Enthusia Professional Racing - AWAKENING ~ Nürburgring Suite
 
@@ -103,6 +108,11 @@ Jets'n'Guns - Shop Music 19-18 VVVVVV - Potential for Anything
 2\. Monty on the Run - Main Theme (16 points) \
 3\. Solstice - Title (15 points)
 
+🟠 [NeoGAF Game Soundtracks of 2011](https://web.archive.org/web/20221225132657/https://www.neogaf.com/threads/neogafs-official-game-soundtracks-of-the-year-2011-results-and-archive.459262/) \
+1\. Xenoblade Chronicles (105 points) \
+2\. Deus Ex: Human Revolution (81 points) \
+3\. The Legend of Zelda: Skyward Sword (75 points)
+
 ## 2012
 🏆 [Zero 31-22 Dorchadas](/contests.html)
 
@@ -117,6 +127,11 @@ Mighty Switch Force! - Whoa I'm In Space Cuba 16-15 Gravity Rush - Pleasure Quar
 [Jeuxvideo Best Game Soundtrack](https://www.jeuxvideo.com/forums/1-76-934556-454-0-1-0-le-jeu-a-la-meilleure-musique.htm) \
 The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 
+🟠 [NeoGAF Game Soundtracks of 2012](https://web.archive.org/web/20230821011345/https://www.neogaf.com/threads/neogaf%C2%92s-official-game-soundtracks-of-the-year-2012-results-and-archive.508091/) \
+1\. Journey (304 points) \
+2\. Hotline Miami (231 points) \
+3\. Kid Icarus: Uprising (177 points)
+
 ## 2013
 🏆 [EXEC_SPHILIA/. 29-24 the executioner](/contests.html)
 
@@ -124,6 +139,11 @@ The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 1\. Kirby's Return to Dream Land - C-R-O-W-N-E-D (119 votes, 4437 points) \
 2\. Okami - The Sun Rises (113 votes, 4083 points) \
 3\. Sengoku Rance - Rebirth the Edge (98 votes, 3597 points)
+
+🟠 [NeoGAF Game Soundtracks of 2013](https://web.archive.org/web/20230821011438/https://www.neogaf.com/threads/neogaf%C2%92s-official-game-soundtracks-of-the-year-2013-results-and-archive.753899/) \
+1\. Metal Gear Rising: Revengeance (208 points) \
+2\. The Last of Us (162 points) \
+3\. The Legend of Zelda: A Link Between Worlds (111 points)
 
 ## 2014
 🏆 [Papiliones 22-16 Zero-Two](/contests.html)
@@ -135,6 +155,11 @@ The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 
 [Final Fantasy Shrine's Final Fantasy Rumble 1](https://www.mafiauniverse.com/forums/threads/35384-VGM-Knock-Out-Tournament?p=6685813&viewfull=1#post6685813) \
 Final Fantasy VI - Dancing Mad 4-2 Final Fantasy X - Decisive Battle
+
+🟠 [NeoGAF Game Soundtracks of 2014](https://web.archive.org/web/20221120172017/https://www.neogaf.com/threads/neogaf%C2%92s-official-game-soundtracks-of-the-year-2014-results-and-archive.976895/) \
+1\. Donkey Kong Country: Tropical Freeze (311 points) \
+2\. Shovel Knight (108 points) \
+3\. Mario Kart 8 (102 points)
 
 [SMW Central VGM Tourney - Classic](https://www.smwcentral.net/?p=viewthread&t=71656&page=28) \
 Plok! - Beach 13-4 Silver Surfer - Stage 1
@@ -153,6 +178,11 @@ Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain o
 [Acclaimed Music Video Game Tracks Bracket](http://www.acclaimedmusic.net/forums/viewtopic.php?p=44017&sid=3ce8ea7f9d6bc6fa62dd0d40547403a9#p44017) \
 Donkey Kong Country 2 - Stickerbush Symphony 8-2 Mega Man 2 - Bubble Man Theme
 
+🟠 [NeoGAF Game Soundtracks of 2015](https://web.archive.org/web/20221206003655/https://www.neogaf.com/threads/neogaf%C2%92s-official-game-soundtracks-of-the-year-2015-results-and-archive.1172552/) \
+1\. Undertale (284 points) \
+2\. Bloodborne (122 points) \
+3\. The Witcher 3: Wild Hunt (104 points)
+
 ## 2016
 🏆 [Despair of ELFERIA 20-20, 24-20 Megalovania](/contests.html)
 
@@ -165,6 +195,11 @@ Donkey Kong Country 2 - Stickerbush Symphony 8-2 Mega Man 2 - Bubble Man Theme
 1\. Okami - The Sun Rises (54 votes) \
 2\. Kirby: Triple Deluxe - Fatal Blooms in Moonlight (32 votes) \
 3\. Iseki-jima to Nanatsu no Mahou (royalty-free, various) - Banbard ~piano arrange~ (31 votes)
+
+🟠 [NeoGAF Game Soundtracks of 2016](https://web.archive.org/web/20220524000655/https://www.neogaf.com/threads/neogaf%C2%92s-official-game-soundtracks-of-the-year-2016-results-and-archive.1334794/) \
+1\. Final Fantasy XV (302 points) \
+2\. DOOM (261 points) \
+3\. The Last Guardian (173 points)
 
 [SMW Central Video Game Music Tournament](https://www.smwcentral.net/?p=viewthread&t=81906&page=32) \
 (unofficial) 999 - Ternary Game 9-6 Danganronpa 2: Goodbye Despair - Ikoroshia
@@ -307,7 +342,7 @@ Final Fantasy V - Clash on the Big Bridge 6-5 Final Fantasy VI - Dancing Mad
 3\. God of War Ragnarök (32 votes, 238 points)
 
 [SupraDarky Discord's Best 2022 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=821294565) \
-Freedom Planet 2 - Dragon Valley (Stage 1) - The Lost City 25-22 Alto's Adventure - The Spirit of the Mountain
+Freedom Planet 2 - Dragon Valley (Stage 1) 25-22 Alto's Adventure - The Spirit of the Mountain
 
 [The Chase VGM's "Chase's Choice" 2022](https://docs.google.com/spreadsheets/d/1FSxe1pwDRT5qvYRGVi4_-VcxjXEC1UllXjxBtzjU5EY/edit#gid=1994334255) \
 1\. Chrono Trigger - Corridors of Time (15 votes, 50.9 points) \
@@ -318,7 +353,7 @@ Freedom Planet 2 - Dragon Valley (Stage 1) - The Lost City 25-22 Alto's Adventur
 Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 
 ## 2023
-🏆 [TBD](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
+🏆 [Back in Time 33-32 The Last Specter's Theme](/contests.html)
 
 🥑 [The Avocado Best Video Game Song Tournament, 2017-2020](https://the-avocado.org/2023/06/07/best-video-game-song-tournament-2017-2020-final-results-and-housekeeping/) \
 Celeste - Resurrections 7-7 Celeste - Reach for the Summit
