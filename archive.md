@@ -5,7 +5,7 @@ layout: default
 # The Big VGM Contest Archive
 
 TODO: \
-\- GamingForce results (2003-2005, 2013-2017) \
+\- GamingForce results (2003-2005, 2013-2016) \
 \- More Talking Time/SMW Central
 
 ## 2004
@@ -216,6 +216,12 @@ Donkey Kong Country 2 - Stickerbush Symphony 8-2 Mega Man 2 - Bubble Man Theme
 1\. Undertale (45 votes, 317 points) \
 2\. Xenoblade Chronicles (34 votes, 291 points) \
 3\. SaGa Frontier 2 (23 votes, 185 points)
+
+🌴 [GamingForce Best Song Contest 15] \
+Tied (3 votes each): \
+Sonic Before the Sequel - In Your Eyes - For Star Shores Act 1 \
+Neon Drive - Stardust \
+Pokemon Sun/Moon - Ten Carat Hill
 
 🟪 [ResetERA Game Soundtracks of 2017](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2017-results-thread.20552/) \
 1\. Nier: Automata (162 votes, 1466 points) \
