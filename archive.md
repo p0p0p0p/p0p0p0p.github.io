@@ -361,6 +361,15 @@ Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 ## 2023
 🏆 [Back in Time 33-32 The Last Specter's Theme](/contests.html)
 
+🍀 [2ch 16th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/10214.html) \
+1\. Pokemon Scarlet & Violet - Battle! Zero Lab (109 votes, 242.5 points) \
+2\. Kirby and the Forgotten Land - Two Planets Approach the Roche Limit (69 votes, 159.5 points) \
+3\. Blue Archive - RE Aoharu (63 votes, 152.5 points)
+
+🟪 [ResetERA Game Soundtracks of 2023 (voting until Jan. 27)](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2023-voting-thread-read-op-voting-ends-jan-27.798174/)
+
 🥑 [The Avocado Best Video Game Song Tournament, 2017-2020](https://the-avocado.org/2023/06/07/best-video-game-song-tournament-2017-2020-final-results-and-housekeeping/) \
 Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 
+## 2024
+TBD
