@@ -217,7 +217,7 @@ Donkey Kong Country 2 - Stickerbush Symphony 8-2 Mega Man 2 - Bubble Man Theme
 2\. Xenoblade Chronicles (34 votes, 291 points) \
 3\. SaGa Frontier 2 (23 votes, 185 points)
 
-🌴 [GamingForce Best Song Contest 15] \
+🌴 [GamingForce Best Song Contest 15](https://web.archive.org/web/20240122050023/http://gamingforce.org/forums/showthread.php?t=46272) \
 Tied (3 votes each): \
 Sonic Before the Sequel - In Your Eyes - For Star Shores Act 1 \
 Neon Drive - Stardust \
@@ -367,6 +367,11 @@ Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 3\. Blue Archive - RE Aoharu (63 votes, 152.5 points)
 
 🟪 [ResetERA Game Soundtracks of 2023 (voting until Jan. 27)](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2023-voting-thread-read-op-voting-ends-jan-27.798174/)
+
+[The Chase VGM's "Chase's Choice" 2023](https://docs.google.com/spreadsheets/d/1LZY6XA8cngGiHYviXfw-OsCcdbqkBtubSJrlW-mucVI/edit#gid=985479154) \
+1\. Chrono Trigger - Corridors of Time (12 votes, 64.02 points) \
+2\. Katamari Damacy	- Lonely Rolling Star (13 votes, 62.62 points) \
+3\. Chrono Cross - Radical Dreamers -Le Trésor Interdit- (11 votes, 58.01 points)
 
 🥑 [The Avocado Best Video Game Song Tournament, 2017-2020](https://the-avocado.org/2023/06/07/best-video-game-song-tournament-2017-2020-final-results-and-housekeeping/) \
 Celeste - Resurrections 7-7 Celeste - Reach for the Summit
