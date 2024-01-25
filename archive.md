@@ -267,6 +267,11 @@ Ms. Pac-Man - Intermission Music 8-7 Moon Patrol - Main Theme
 🥑 [The Avocado Best Video Game Song Tournament, 1983-1989](https://the-avocado.org/2019/11/18/best-video-game-song-tournament-1983-1989-results-and-postmortem-survey/) \
 Mega Man 2 - Dr. Wily Stage 1 14.5-14 Castlevania II - Bloody Tears
 
+[Famitsu Readers' Best Video Game Song](https://www.famitsu.com/news/201907/29180352.html) \
+1\. Okami - The Sun Rises (50 votes) \
+2\. Chrono Cross - Scars of Time (25 votes) \
+3\. Final Fantasy X - To Zanarkand (24 votes)
+
 ## 2020
 🏆 [Endeavour 25-23 -(ISOLEUCINE)-](/contests.html)
 
