@@ -371,7 +371,13 @@ Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 2\. Kirby and the Forgotten Land - Two Planets Approach the Roche Limit (69 votes, 159.5 points) \
 3\. Blue Archive - RE Aoharu (63 votes, 152.5 points)
 
-🟪 [ResetERA Game Soundtracks of 2023 (voting until Jan. 27)](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2023-voting-thread-read-op-voting-ends-jan-27.798174/)
+🟪 [ResetERA Game Soundtracks of 2023](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2023-results.817092/) \
+1\. Final Fantasy XVI (73 votes, 638 points) \
+2\. Octopath Traveler II (50 votes, 464 points)) \
+3\. Alan Wake II (34 votes, 277 points)
+
+[SupraDarky Discord's Best 2023 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=821294565) \
+TBD
 
 [The Chase VGM's "Chase's Choice" 2023](https://docs.google.com/spreadsheets/d/1LZY6XA8cngGiHYviXfw-OsCcdbqkBtubSJrlW-mucVI/edit#gid=985479154) \
 1\. Chrono Trigger - Corridors of Time (12 votes, 64.02 points) \
@@ -382,4 +388,10 @@ Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 
 ## 2024
+🏆 [VGMC 18 TBD Apr-May](/contests.html)
+
+🍀 [2ch 17th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/15.html) \
+TBD May-Jun
+
+🥑 [The Avocado Best Video Game Song Tournament, 2021-2023](https://the-avocado.org/tag/best-video-game-song-tournament/) \
 TBD
