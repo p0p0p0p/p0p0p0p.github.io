@@ -373,7 +373,7 @@ Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 
 🟪 [ResetERA Game Soundtracks of 2023](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2023-results.817092/) \
 1\. Final Fantasy XVI (73 votes, 638 points) \
-2\. Octopath Traveler II (50 votes, 464 points)) \
+2\. Octopath Traveler II (50 votes, 464 points) \
 3\. Alan Wake II (34 votes, 277 points)
 
 [SupraDarky Discord's Best 2023 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=821294565) \
