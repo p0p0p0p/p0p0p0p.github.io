@@ -376,8 +376,8 @@ Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 2\. Octopath Traveler II (50 votes, 464 points) \
 3\. Alan Wake II (34 votes, 277 points)
 
-[SupraDarky Discord's Best 2023 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=821294565) \
-TBD
+[SupraDarky Discord's Best 2023 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=554398086) \
+Cassette Beasts - Your Inception 27-18 Pseudoregalia - Outside the Castle Walls (Empty Bailey)
 
 [The Chase VGM's "Chase's Choice" 2023](https://docs.google.com/spreadsheets/d/1LZY6XA8cngGiHYviXfw-OsCcdbqkBtubSJrlW-mucVI/edit#gid=985479154) \
 1\. Chrono Trigger - Corridors of Time (12 votes, 64.02 points) \
