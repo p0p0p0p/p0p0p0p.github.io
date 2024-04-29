@@ -27,11 +27,11 @@ If you're new, here are some places to start: \
 [VGMC champs playlist (backup)](https://www.youtube.com/playlist?list=PLeKaE-gusMmZiN8DnKijvR4P8ZMXu1i6e) \
 [VGMC retirees playlist (backup)](https://www.youtube.com/playlist?list=PLeKaE-gusMmave89aPUWL6aq_LZO9PrA8) \
 ["VGMC" archive search on LogFAQs](https://www.logfaqs.com/boards/8-gamefaqs-contests?search=vgmc) \
-["VGMusic Contest" archive search on LogFAQs](https://www.logfaqs.com/board.php?search=vgmusic+contest&id=1) \
+["VGMusic Contest" archive search on LogFAQs](https://www.logfaqs.com/boards/8-gamefaqs-contests?search=vgmusic%20contest) \
 [VGMusic Contest on Board 8 Wiki](https://board8.fandom.com/wiki/VGMusic_Contest)
 
 ## BOST, the sister contest
 [BOST Nomination Compilation](https://docs.google.com/spreadsheets/d/1TqxYsxxM46VgYKsRgFvUoUQljHTkCSAK2l50lDC3MBg) \
-["BOST" archive search on LogFAQs](https://www.logfaqs.com/board.php?search=bost&id=1) \
-["Best OST Contest" archive search on LogFAQs](https://www.logfaqs.com/board.php?search=best+ost+contest&id=1) \
+["BOST" archive search on LogFAQs](https://www.logfaqs.com/boards/8-gamefaqs-contests?search=bost) \
+["Best OST Contest" archive search on LogFAQs](https://www.logfaqs.com/boards/8-gamefaqs-contests?search=best%20ost%20contest) \
 [Best OST Contest on Board 8 Wiki](https://board8.fandom.com/wiki/Best_OST_Contest)

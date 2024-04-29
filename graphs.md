@@ -44,3 +44,7 @@ layout: default
 \- Hoverable songs, toggle #1 links \
 [VGMC 17 Voters](./src/vgmc17/bracket.html) \
 \- Same as VGMC 16
+
+[VGMC 18 Nominators](./src/vgmc18/noms.html) \
+\- Same as VGMC 17
+
