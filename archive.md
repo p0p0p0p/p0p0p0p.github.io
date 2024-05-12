@@ -388,10 +388,10 @@ Cassette Beasts - Your Inception 27-18 Pseudoregalia - Outside the Castle Walls 
 Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 
 ## 2024
-🏆 [VGMC 18 TBD Apr-May](/contests.html)
+🏆 [VGMC 18 is live!](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
 
 🍀 [2ch 17th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/15.html) \
 TBD May-Jun
 
-🥑 [The Avocado Best Video Game Song Tournament, 2021-2023](https://the-avocado.org/tag/best-video-game-song-tournament/) \
-TBD
+🥑 [The Avocado Best Video Game Song Tournament, 2021-2023](https://the-avocado.org/2024/05/01/best-video-game-song-tournament-2021-2022-final-results-and-announcements/) \
+Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Waves
