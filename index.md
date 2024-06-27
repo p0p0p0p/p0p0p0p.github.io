@@ -26,6 +26,7 @@ If you're new, here are some places to start: \
 [VGMC retirees playlist 2](https://www.youtube.com/playlist?list=PLtm-5nTauRmE4iHlAGmEBHXDf3Hs9T0zP) \
 [VGMC champs playlist (backup)](https://www.youtube.com/playlist?list=PLeKaE-gusMmZiN8DnKijvR4P8ZMXu1i6e) \
 [VGMC retirees playlist (backup)](https://www.youtube.com/playlist?list=PLeKaE-gusMmave89aPUWL6aq_LZO9PrA8) \
+[VGMC full contest playlists](https://pastebin.com/JUNkGWQ4) \
 ["VGMC" archive search on LogFAQs](https://www.logfaqs.com/boards/8-gamefaqs-contests?search=vgmc) \
 ["VGMusic Contest" archive search on LogFAQs](https://www.logfaqs.com/boards/8-gamefaqs-contests?search=vgmusic%20contest) \
 [VGMusic Contest on Board 8 Wiki](https://board8.fandom.com/wiki/VGMusic_Contest)
