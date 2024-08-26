@@ -388,10 +388,12 @@ Cassette Beasts - Your Inception 27-18 Pseudoregalia - Outside the Castle Walls 
 Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 
 ## 2024
-🏆 [VGMC 18 is live!](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
+🏆 [Mechonis Field 35-24 Suna no Shiro -The Castle of Sand-](/contests.html)
 
-🍀 [2ch 17th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/15.html) \
-TBD May-Jun
+🍀 [2ch 17th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/10538.html) \
+1\. Okami - The Sun Rises (39 votes, 81.5 points) \
+2\. Kirby and the Forgotten Land - Two Planets Approach the Roche Limit (32 votes, 69 points) \
+3\. Kirby: Triple Deluxe - Fatal Blooms in Moonlight (28 votes, 65 points)
 
 🥑 [The Avocado Best Video Game Song Tournament, 2021-2023](https://the-avocado.org/2024/05/01/best-video-game-song-tournament-2021-2022-final-results-and-announcements/) \
 Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Waves

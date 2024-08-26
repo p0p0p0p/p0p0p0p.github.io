@@ -28,7 +28,7 @@ Brackets and final results (all hail our champions)
 <span style="font-size:large;">[VGMC 15 (2021)](https://www.bracketmaker.com/tlist.cfm?tid=474630)</span><br>256 songs (16 retirees)<br>Hosts: Toxtricity & deogenerate | <span style="font-size:large;">**resurrectedreplayer (Umineko When They Cry ~ Answer Arcs)**</span><br>34-33<br>Id ~ Purpose (Fire Emblem Awakening)
 <span style="font-size:large;">[VGMC 16 (2022)](https://www.bracketmaker.com/tlist.cfm?tid=475935)</span><br>256 songs (16 retirees)<br>Hosts: deogenerate (& Toxtricity)<br>[Chart](./src/vgmc16/chart.jpg) | <span style="font-size:large;">**Passing Through the Forest (Threads of Fate)**</span><br>34-33<br>Aquatic Ambiance (Donkey Kong Country)
 <span style="font-size:large;">[VGMC 17 (2023)](https://www.bracketmaker.com/tlist.cfm?tid=477304)</span><br>256 songs (16 retirees)<br>Hosts: deogenerate (& Toxtricity)<br>[Chart](./src/vgmc17/chart.jpg) | <span style="font-size:large;">**Back in Time (Sonic R)**</span><br>33-32<br>The Last Specter's Theme (Professor Layton and the Last Specter)
-<span style="font-size:large;">[VGMC 18 (2024)](https://www.bracketmaker.com/tlist.cfm?tid=478494)</span><br>256 songs (16 retirees)<br>Hosts: deogenerate (& Toxtricity) | [Vote and you can decide!](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
+<span style="font-size:large;">[VGMC 18 (2024)](https://www.bracketmaker.com/tlist.cfm?tid=478494)</span><br>256 songs (16 retirees)<br>Hosts: deogenerate (& Toxtricity)<br>[Chart](./src/vgmc18/chart.jpg) | <span style="font-size:large;">**Mechonis Field (Xenoblade Chronicles)**</span><br>35-24<br>Suna no Shiro -The Castle of Sand- ([-Aka-])
 
 ## Best OST Contest (BOST)
 
