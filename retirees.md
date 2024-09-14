@@ -18,6 +18,7 @@ Shift+Click to sort by multiple columns (wow)
 
  # | Song | Contest | Placement (1 = Champion, 2 = Finalist, etc.)
 :--|:-----|:--------|:---------------------------------------------
+254 | [-Aka-] - Suna no Shiro -The Castle of Sand- | VGMC 18 | 2
 190 | 13 Sentinels: Aegis Rim - -(ISOLEUCINE)- | VGMC 14 | 2
 184 | 13 Sentinels: Aegis Rim - -[DEOXYRIBOSE]- | VGMC 14 | 4
 85 | 7th Dragon 2020 - The Last Location of Mankind | VGMC 6 | 16
@@ -43,6 +44,7 @@ Shift+Click to sort by multiple columns (wow)
 202 | Atelier Shallie - Octopunch | VGMC 15 | 16
 189 | Aurora Memoria - Philosophical Data Session: 2093 - Classroom | VGMC 14 | 16
 206 | Aurora Memoria - Philosophical Data Session: 2093 - DigiFamily | VGMC 15 | 8
+246 | Aurora Memoria - Philosophical Data Session: 2093 - Softbank | VGMC 18 | 4
 137 | Baldr Force - Face of Fact | VGMC 9 | 8
 165 | Baldr Heart - Innocence and Nothingness | VGMC 13 | 8
 88 | Baldr Sky - Ruins of Silence | VGMC 6 | 16
@@ -90,6 +92,7 @@ Shift+Click to sort by multiple columns (wow)
 211 | Dragon’s Dogma - Into Free -Dangan- | VGMC 15 | 16
 143 | Drakengard 3 - The Black Song (Int'l Version) | VGMC 10 | 4
 64 | Ducktales - The Moon | VGMC 5 | 16
+245 | Enthusia: Professional Racing - Awakening ~Nurburgring Suite~ | VGMC 18 | 16
 204 | Eschatos - POINT OF NO RETURN | VGMC 15 | 16
 29 | Final Fantasy IX - You're Not Alone! | VGMC 3 | 4
 12 | Final Fantasy V - Battle with Gilgamesh/Clash on the Big Bridge | VGMC 1 | 12
@@ -118,6 +121,7 @@ Shift+Click to sort by multiple columns (wow)
 186 | Idola Phantasy Star Saga - Endeavour | VGMC 14 | 1
 243 | Iseki-jima to Nanatsu no Mahou - Banbard (Piano Version) | VGMC 17 | 16
 93 | Jets'n'Guns - Shopmusic | VGMC 7 | 8
+251 | jubeat beyond the Ave. - Prowler | VGMC 18 | 8
 118 | jubeat knit - Shining Wizard (Long) | VGMC 8 | 16
 167 | jubeat prop - Chloe | VGMC 13 | 16
 223 | Kid Icarus: Uprising - Chapter 6: Dark Pit | VGMC 16 | 16
@@ -127,9 +131,11 @@ Shift+Click to sort by multiple columns (wow)
 187 | Kirby: Triple Deluxe - Fatal Blooms in Moonlight | VGMC 14 | 8
 108 | Lamento: Beyond the Void - When the End | VGMC 7 | 16
 9 | Legend of Mana - Title | VGMC 1 | 6
+247 | Let's Tap - Tap de Papapaya (Long Version) | VGMC 18 | 8
 73 | Lufia II - Battle #3 | VGMC 5 | 8
 112 | Lufia II - The Last Duel | VGMC 8 | 8
 220 | Mad Rat Dead - Breath of Forest | VGMC 16 | 8
+257 | Mad Rat Dead - MAD LAST WORLD | VGMC 18 | 8
 193 | maimai MiLK - Credits | VGMC 14 | 16
 195 | Mamorukun Curse! - YO-KAI Disco | VGMC 14 | 8
 155 | Mario Kart 8 - Big Blue (Lap 1) | VGMC 11 | 8
@@ -142,7 +148,9 @@ Shift+Click to sort by multiple columns (wow)
 28 | Metal Gear Solid 3: Snake Eater - Metal Gear Solid Main Theme | VGMC 2 | 8
 130 | Metal Masters (Game Boy) - Metal Beat | VGMC 9 | 8
 5 | Metal Slug 5 - Windy Day | VGMC 1 | 12
+256 | Missing-X-Link ~Ten no Yurikago, Togi no Hana~ - The Blue Sanctuary | VGMC 18 | 16
 74 | Monty on the Run - In-Game Music | VGMC 5 | 16
+259 | Murasaki Tsurugi - Fairytale Poison and Solitude | VGMC 18 | 4
 47 | Napple Tale: Arsia in Daydream - Wild Wind | VGMC 4 | 16
 225 | Neotokyo - Tachi | VGMC 16 | 8
 99 | Neotokyo - Tin Soldiers | VGMC 7 | 8
@@ -150,11 +158,14 @@ Shift+Click to sort by multiple columns (wow)
 46 | NieR - Shadowlord | VGMC 4 | 16
 66 | NieR - Song of the Ancients / Fate | VGMC 5 | 16
 164 | NieR: Automata - Amusement Park | VGMC 12 | 8
+253 | Noctuary - Chromesthesia | VGMC 18 | 16
 35 | Okami - Reset ~ ("Thank You" Version) | VGMC 3 | 1
 72 | Okami - The Sun Rises | VGMC 5 | 2
+249 | Opoona - Blue Desert Hotel | VGMC 18 | 16
 185 | Opoona - Partizans | VGMC 14 | 16
 113 | Ougon Musou Kyoku Cross - Tomorrow | VGMC 8 | 16
 208 | Paradise Killer - Paradise (Stay Forever) | VGMC 15 | 4
+260 | Path of the Abyss - Warcry | VGMC 18 | 16
 138 | Persona 3 - Memories of You | VGMC 9 | 16
 68 | Persona 3 - The Battle for Everyone's Souls | VGMC 5 | 16
 160 | Persona 5 - Last Surprise | VGMC 12 | 8
@@ -164,6 +175,7 @@ Shift+Click to sort by multiple columns (wow)
 219 | Pokemon Mystery Dungeon: Rescue Team DX - Sky Tower | VGMC 16 | 16
 192 | Pokemon Super Mystery Dungeon - Second Dark Matter Battle | VGMC 14 | 8
 132 | pop'n music 18 - Kurokami Midareshi Shura to Narite (Long Version) | VGMC 9 | 4
+258 | pop'n music peace - Crumble Soul (Extended Mix) | VGMC 18 | 16
 236 | Professor Layton and the Last Specter - The Last Specter's Theme | VGMC 17 | 2
 33 | Professor Layton and the Unwound Future - Theme of the Unwound Future | VGMC 3 | 8
 221 | R4: Ridge Racer Type 4 - Move Me | VGMC 16 | 8
@@ -212,6 +224,7 @@ Shift+Click to sort by multiple columns (wow)
 188 | Terraria Calamity - The Filthy Mind (Theme of the Hive Mind) | VGMC 14 | 16
 153 | The Legend of Heroes: Trails in the Sky - The Whereabouts of Light | VGMC 11 | 8
 49 | The Legend of Heroes: Trails in the Sky SC - Silver Will (SAV) | VGMC 4 | 16
+255 | The Legend of Heroes: Trails in the Sky SC - The Merciless Savior | VGMC 18 | 8
 201 | The Legend of Heroes: Trails in the Sky the 3rd - Dreamy and Boisterous Holy Land | VGMC 15 | 8
 126 | The Legend of Heroes: Trails to Azure Evolution - Seize the Truth! | VGMC 9 | 1
 27 | The Legend of Zelda: Link's Awakening - Tal Tal Heights | VGMC 2 | 16
@@ -239,6 +252,8 @@ Shift+Click to sort by multiple columns (wow)
 32 | Umineko When They Cry ~ Question Arcs - worldenddominator | VGMC 3 | 16
 144 | Undertale - ASGORE | VGMC 10 | 8
 141 | Undertale - MEGALOVANIA | VGMC 10 | 2
+248 | Unicorn Overlord - Farde Mal Diavolo -Destroy Evil, then Come- | VGMC 18 | 16
+252 | Utawarerumono: Mask of Deception - Nuedori | VGMC 18 | 16
 77 | VVVVVV - Piercing the Sky | VGMC 6 | 8
 69 | VVVVVV - Positive Force | VGMC 5 | 8
 106 | VVVVVV - Potential for Anything | VGMC 7 | 4
@@ -249,6 +264,7 @@ Shift+Click to sort by multiple columns (wow)
 21 | Wild Arms 5 - At the Frozen Depths of the Heart | VGMC 2 | 16
 18 | Wild Arms 5 - Persephone IPCC_3927 (: Battle) | VGMC 2 | 16
 119 | Xenoblade Chronicles - Engage the Enemy | VGMC 8 | 16
+250 | Xenoblade Chronicles - Mechonis Field | VGMC 18 | 1
 62 | Xenoblade Chronicles - Unfinished Business | VGMC 5 | 4
 222 | Xenoblade Chronicles 2 - Mor Ardain ~ Roaming the Wastes | VGMC 16 | 16
 175 | Xenoblade Chronicles 2: Torna ~ The Golden Country - Battle!! | VGMC 13 | 4
