@@ -140,6 +140,9 @@ The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 2\. Okami - The Sun Rises (113 votes, 4083 points) \
 3\. Sengoku Rance - Rebirth the Edge (98 votes, 3597 points)
 
+🌴 [GamingForce Best Song Contest 11](https://gelb-2.belkanairforce.com/) \
+Return All Robots! - Training Montage W-L Super Turrican 2 - Wormland
+
 🟠 [NeoGAF Game Soundtracks of 2013](https://web.archive.org/web/20230821011438/https://www.neogaf.com/threads/neogaf%C2%92s-official-game-soundtracks-of-the-year-2013-results-and-archive.753899/) \
 1\. Metal Gear Rising: Revengeance (208 points) \
 2\. The Last of Us (162 points) \
@@ -152,6 +155,9 @@ The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 1\. Kirby: Triple Deluxe - Fatal Blooms in Moonlight (269 votes) \
 2\. Kirby's Return to Dream Land - C-R-O-W-N-E-D (168 votes) \
 3\. Okami - The Sun Rises (153 votes)
+
+🌴 [GamingForce Best Song Contest 12](https://gelb-2.belkanairforce.com/) \
+Musashi: Samurai Legend - Aeolic Guardian W-L Kirby Triple Deluxe - Mad Flower Under a Moon the Color of Water
 
 [Final Fantasy Shrine's Final Fantasy Rumble 1](https://www.mafiauniverse.com/forums/threads/35384-VGM-Knock-Out-Tournament?p=6685813&viewfull=1#post6685813) \
 Final Fantasy VI - Dancing Mad 4-2 Final Fantasy X - Decisive Battle
