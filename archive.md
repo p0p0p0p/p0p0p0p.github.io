@@ -403,3 +403,8 @@ Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 
 🥑 [The Avocado Best Video Game Song Tournament, 2021-2023](https://the-avocado.org/2024/05/01/best-video-game-song-tournament-2021-2022-final-results-and-announcements/) \
 Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Waves
+
+[The Chase VGM's "Chase's Choice" 2024](https://docs.google.com/spreadsheets/d/1fCvRAvYCgvtqpx_1djmqdmIvHQ385MOrunnP7cmAItc/edit?gid=314250772) \
+1\. Katamari Damacy	- Lonely Rolling Star (13 votes, 67.36 points) \
+2\. Chrono Trigger - Corridors of Time (13 votes, 64.40 points) \
+3\. Chrono Cross - Radical Dreamers -Le Trésor Interdit- (11 votes, 57.80 points)

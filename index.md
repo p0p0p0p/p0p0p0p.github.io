@@ -16,8 +16,8 @@ If you're new, here are some places to start: \
 ## Resources for learning more
 [VGMC for Dummies Doc](https://docs.google.com/document/d/1z3L461h7kTwS27Pr2rIRlWcNJv3HdZS9VhQ7kbwu1UU) - A text introduction to how the contest works \
 [VGMC 15 Primer Video](https://www.youtube.com/watch?v=zqUADAakOnE) - A casual YouTube introduction to the contest format \
-[VGMC 17 nomination thread](https://www.logfaqs.com/boards/8-gamefaqs-contests/80417642) - Useful reference for the rules and what nominations look like \
-[VGMC 17 bracket day 1](https://www.logfaqs.com/boards/8-gamefaqs-contests/80441720) - Example of what voting and discussion looks like
+[VGMC 18 nomination thread](https://www.logfaqs.com/boards/8-gamefaqs-contests/80749858) - Useful reference for the rules and what nominations look like \
+[VGMC 18 bracket day 1](https://www.logfaqs.com/boards/8-gamefaqs-contests/80766736) - Example of what voting and discussion looks like
 
 ## Archives of the contest's long history
 [VGMC total stats & past sheets](https://docs.google.com/spreadsheets/d/1K1XdLWiUKB2kX99qYBgnRbLU_sCz4dvZSByKKJHCT6o/edit#gid=961273194) \
