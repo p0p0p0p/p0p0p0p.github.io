@@ -8,22 +8,24 @@ TODO: \
 \- GamingForce results (2003-2005, 2013-2016) \
 \- More Talking Time/SMW Central
 
-## 2004
+## - 2000s -
+
+### 2004
 🌴 [GamingForce Best Song Contest 2](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2004:_Redux) \
 Chrono Trigger - To Far Away Times W-L Metal Gear Solid 2 - Metal Gear Solid Main Theme
 
-## 2005
+### 2005
 🌴 [GamingForce Best Song Contest 3](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2005:_Drama) \
 Legend of Mana - Song of Mana ~Ending Theme~ W-L Unknown
 
-## 2006
+### 2006
 🌴 [GamingForce Best Song Contest 4](https://web.archive.org/web/20080823182103/http://www.gamingforce.org/forums/best-vgm-song-contest-2006/14643-finals-fire-wire-vs-wind-phantom.html) \
 Soukaigi - Fire Wire 43-30 Suikoden V - Wind of Phantom
 
 🌴 [GamingForce 2006 Song of the Year](https://web.archive.org/web/20080103190301/http://www.gamingforce.org/forums/song-year/6554-final-round.html) \
 Uncharted Waters II Special Edition - Southern Twilight ~ Dance on a Cape of Good Hope 15-12 Gitarooman Original Soundtrack - The Legendary Theme (Album Version)
 
-## 2007
+### 2007
 🏆 [Scars of Time 36-25 Dream of the Shore Bordering Another World, 53-27 Baba Yetu](/contests.html)
 
 🍀 [2ch 1st "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/13.html) \
@@ -37,7 +39,7 @@ Wild ARMs 5 - The Road to Tomorrow Follows Behind You 30-23 Wild Arms Alter Code
 🌴 [GamingForce Best Chiptune Contest](https://web.archive.org/web/20071017024742/http://www.gamingforce.org/forums/best-chiptune-contest/21384-bcc-championship-match.html) \
 Maniac Mansion (NES) - 'The Boys Are Still Back' by Fat Patty (Dave's Theme) 18-11 Toki Tori (GB) - Home Sweet Home (Fifth Cutscene / Credits)
 
-## 2008
+### 2008
 🏆 [Metal Gear Solid Main Theme 44-29 Dragon Roost Island](/contests.html)
 
 🍀 [2ch 2nd "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/14.html) \
@@ -48,7 +50,7 @@ Maniac Mansion (NES) - 'The Boys Are Still Back' by Fat Patty (Dave's Theme) 18-
 🌴 [GamingForce Best Song Contest 6](https://web.archive.org/web/20100529180609/http://www.gamingforce.org/forums/final-round/35245-championship-2008-liberation-gracemeria-vs-diving.html) \
 Ace Combat 6: Fires of Liberation - THE LIBERATION OF GRACEMERIA 38-32 Waterworld - Diving
 
-## 2009
+### 2009
 🏆 [Reset ~ “Thank You” Version 32-30 Diving](/contests.html)
 
 🍀 [2ch 3rd "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/16.html) \
@@ -62,7 +64,9 @@ Sonic the Hedgehog - Green Hill Zone 6-2 Final Fantasy VII - Aerith’s Theme
 🌴 [GamingForce Best Song Contest 7](https://web.archive.org/web/20100325153727/http://www.gamingforce.org/forums/final-rounds/38055-championship-2009-cast-fires-liberation.html) \
 Enthusia ~Professional Racing~ - AWAKENING ~Nürburgring Suite~ 32-27 R-Type (C64) - Title
 
-## 2010
+## - 2010s -
+
+### 2010
 🏆 [Hope 32-30 Trombe!](/contests.html)
 
 🍀 [2ch 4th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/907.html) \
@@ -87,7 +91,7 @@ Silver Surfer - BGM 1 19-8 Enthusia Professional Racing - AWAKENING ~ Nürburgri
 [Starmen.net Video Game Music Tournament](https://forum.starmen.net/forum/General/BFG/Video-Game-Song-Tournament/page/9/) \
 [(unofficial)](https://challonge.com/GVGS) Final Fantasy VI - Dancing Mad 16-10 Mother 3 - Love Theme
 
-## 2011
+### 2011
 🏆 [The Extreme 38-35 The Sun Rises](/contests.html)
 
 🍀 [2ch 5th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/1722.html) \
@@ -113,7 +117,7 @@ Jets'n'Guns - Shop Music 19-18 VVVVVV - Potential for Anything
 2\. Deus Ex: Human Revolution (81 points) \
 3\. The Legend of Zelda: Skyward Sword (75 points)
 
-## 2012
+### 2012
 🏆 [Zero 31-22 Dorchadas](/contests.html)
 
 🍀 [2ch 6th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/2732.html) \
@@ -132,7 +136,7 @@ The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 2\. Hotline Miami (231 points) \
 3\. Kid Icarus: Uprising (177 points)
 
-## 2013
+### 2013
 🏆 [EXEC_SPHILIA/. 29-24 the executioner](/contests.html)
 
 🍀 [2ch 7th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/3582.html) \
@@ -148,7 +152,7 @@ Return All Robots! - Training Montage W-L Super Turrican 2 - Wormland
 2\. The Last of Us (162 points) \
 3\. The Legend of Zelda: A Link Between Worlds (111 points)
 
-## 2014
+### 2014
 🏆 [Papiliones 22-16 Zero-Two](/contests.html)
 
 🍀 [2ch 8th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/4460.html) \
@@ -173,7 +177,7 @@ Plok! - Beach 13-4 Silver Surfer - Stage 1
 [SMW Central VGM Tourney - Modern](https://www.smwcentral.net/?p=viewthread&t=71650&page=26) \
 Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain of Dreams
 
-## 2015
+### 2015
 🏆 [Seize the Truth! 12-10 Evolution Era](/contests.html)
 
 🍀 [2ch 9th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/5458.html) \
@@ -189,7 +193,7 @@ Donkey Kong Country 2 - Stickerbush Symphony 8-2 Mega Man 2 - Bubble Man Theme
 2\. Bloodborne (122 points) \
 3\. The Witcher 3: Wild Hunt (104 points)
 
-## 2016
+### 2016
 🏆 [Despair of ELFERIA 20-20, 24-20 Megalovania](/contests.html)
 
 🍀 [2ch 10th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/6120.html) \
@@ -210,7 +214,7 @@ Donkey Kong Country 2 - Stickerbush Symphony 8-2 Mega Man 2 - Bubble Man Theme
 [SMW Central Video Game Music Tournament](https://www.smwcentral.net/?p=viewthread&t=81906&page=32) \
 (unofficial) 999 - Ternary Game 9-6 Danganronpa 2: Goodbye Despair - Ikoroshia
 
-## 2017
+### 2017
 🏆 [Emil / Karma 20-10 Flying Clouds, Drifting Haze](/contests.html)
 
 🍀 [2ch 11th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/6646.html) \
@@ -234,7 +238,7 @@ Pokemon Sun/Moon - Ten Carat Hill
 2\. Persona 5 (132 votes, 1127 points) \
 3\. Xenoblade Chronicles 2 (94 votes, 804 points)
 
-## 2018
+### 2018
 🏆 [Sunshine Coastline 21-17 Hidra Heteromycin](/contests.html)
 
 🍀 [2ch 12th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/7412.html) \
@@ -256,7 +260,7 @@ Outcast - Shamazaar 11-10 Superbrothers: Sword & Sworcery EP - The Prettiest Wee
 [SMW Central 5th VGM Tourney](https://www.smwcentral.net/?p=viewthread&t=95722) \
 Waterworld - Diving W-L Lethal League Blaze - AIN'T NOTHIN' LIKE A FUNKY BEAT
 
-## 2019
+### 2019
 🏆 [Class::EXSPHERE_NOSURGE; 26-23 Revenger](/contests.html)
 
 [Final Fantasy Shrine's Video Game Music Rumble 42 (10th Anniversary Encores)](https://docs.google.com/document/d/1XGbM2O9_lF6NeBfkDJQJB8R3Gu4lSoUlkwRCAVTOoHk/) \
@@ -278,7 +282,9 @@ Mega Man 2 - Dr. Wily Stage 1 14.5-14 Castlevania II - Bloody Tears
 2\. Chrono Cross - Scars of Time (25 votes) \
 3\. Final Fantasy X - To Zanarkand (24 votes)
 
-## 2020
+## - 2020s -
+
+### 2020
 🏆 [Endeavour 25-23 -(ISOLEUCINE)-](/contests.html)
 
 🍀 [2ch 13th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/8349.html) \
@@ -306,7 +312,7 @@ Chrono Cross - Scars of Time 14-4 Chrono Cross - Dream of the Shore Bordering An
 🥑 [The Avocado Best Video Game Song Tournament, 2001-2004](https://the-avocado.org/2020/10/26/best-video-game-song-tournament-2001-2004-final-results-and-housekeeping/) \
 Ico - Castle in the Mist 14-13 Katamari Damacy - Lonely Rolling Star
 
-## 2021
+### 2021
 🏆 [resurrectedreplayer 34-33 Id (Purpose)](/contests.html)
 
 🍀 [2ch 14th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/9526.html) \
@@ -342,7 +348,7 @@ Portal - Still Alive 19-10 Persona 4 - Heartbeat, Heartbreak
 🥑 [The Avocado Best Video Game Song Tournament, 2009-2012](https://the-avocado.org/2021/11/22/best-video-game-song-tournament-2009-2012-final-results-and-housekeeping/) \
 Bravely Default - Serpent Eating the Ground 12-3 Final Fantasy XIII-2 - Run
 
-## 2022
+### 2022
 🏆 [Passing Through the Forest 34-33 Aquatic Ambiance](/contests.html)
 
 🍀 [2ch 15th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/9902.html) \
@@ -369,7 +375,7 @@ Freedom Planet 2 - Dragon Valley (Stage 1) 25-22 Alto's Adventure - The Spirit o
 🥑 [The Avocado Best Video Game Song Tournament, 2013-2016](https://the-avocado.org/2022/07/22/best-video-game-song-tournament-2013-2016-final-results-and-housekeeping/) \
 Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 
-## 2023
+### 2023
 🏆 [Back in Time 33-32 The Last Specter's Theme](/contests.html)
 
 🍀 [2ch 16th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/10214.html) \
@@ -393,7 +399,7 @@ Cassette Beasts - Your Inception 27-18 Pseudoregalia - Outside the Castle Walls 
 🥑 [The Avocado Best Video Game Song Tournament, 2017-2020](https://the-avocado.org/2023/06/07/best-video-game-song-tournament-2017-2020-final-results-and-housekeeping/) \
 Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 
-## 2024
+### 2024
 🏆 [Mechonis Field 35-24 Suna no Shiro -The Castle of Sand-](/contests.html)
 
 🍀 [2ch 17th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/10538.html) \

@@ -4,6 +4,8 @@ layout: default
 
 # VGMC Graphs
 
+<img src="../../assets/images/graph_example.png">
+
 ## v1
 
 [VGMC 13 Voters](./src/vgmc13/bracket.html) \
