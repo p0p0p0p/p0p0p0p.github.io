@@ -5,18 +5,17 @@ layout: default
 # The Big VGM Contest Archive
 
 TODO: \
-\- GamingForce results (2003-2005, 2013-2016) \
 \- More Talking Time/SMW Central
 
 ## - 2000s -
 
 ### 2004
-🌴 [GamingForce Best Song Contest 2](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2004:_Redux) \
+🌴 [GamingForce Best Song Contest 2](https://web.archive.org/web/20120110184959/http://wiki.gamingforce.com/index.php?title=Best_Song_Contest#2004:_Redux) \
 Chrono Trigger - To Far Away Times W-L Metal Gear Solid 2 - Metal Gear Solid Main Theme
 
 ### 2005
-🌴 [GamingForce Best Song Contest 3](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2005:_Drama) \
-Legend of Mana - Song of Mana ~Ending Theme~ W-L Unknown
+🌴 [GamingForce Best Song Contest 3](https://web.archive.org/web/20111217053736/http://www.gamingforce.org/forums/bbscsc-011/43075-best-best-song-contest-song-contest-brainstorming-thread.html#post788703) \
+Legend of Mana - Song of Mana ~Ending Theme~ W-L Beyond Good and Evil - Home Theme
 
 ### 2006
 🌴 [GamingForce Best Song Contest 4](https://web.archive.org/web/20080823182103/http://www.gamingforce.org/forums/best-vgm-song-contest-2006/14643-finals-fire-wire-vs-wind-phantom.html) \
@@ -34,7 +33,7 @@ Uncharted Waters II Special Edition - Southern Twilight ~ Dance on a Cape of Goo
 3\. Mother - Eight Melodies (76 points)
 
 🌴 [GamingForce Best Song Contest 5](https://web.archive.org/web/20100112155546/http://www.gamingforce.org/forums/final-rounds/24572-final-round-puzzle-vs-road-tomorrow-follows-behind-you.html) \
-Wild ARMs 5 - The Road to Tomorrow Follows Behind You 30-23 Wild Arms Alter Code:F - Puzzle [(disputed by Ace Combat Zero: The Belkan War - MERLON)](https://web.archive.org/web/20100515041408/http://gfw.condign.org/wiki/Best_Song_Contest#2007:_The_New_GFF)
+Wild ARMs 5 - The Road to Tomorrow Follows Behind You 30-23 Wild Arms Alter Code:F - Puzzle [(disputed by Ace Combat Zero: The Belkan War - MERLON)](https://web.archive.org/web/20100519033431/http://gfw.condign.org/wiki/MERLON#Controversy_and_Retirement)
 
 🌴 [GamingForce Best Chiptune Contest](https://web.archive.org/web/20071017024742/http://www.gamingforce.org/forums/best-chiptune-contest/21384-bcc-championship-match.html) \
 Maniac Mansion (NES) - 'The Boys Are Still Back' by Fat Patty (Dave's Theme) 18-11 Toki Tori (GB) - Home Sweet Home (Fifth Cutscene / Credits)
@@ -99,7 +98,10 @@ Silver Surfer - BGM 1 19-8 Enthusia Professional Racing - AWAKENING ~ Nürburgri
 2\. The Legend of Heroes: Trails from Zero - Inevitable Struggle (72 votes, 175 points) \
 3\. Xenoblade Chronicles - Mechanical Rhythm (63 votes, 151 points)
 
-🌴 [GamingForce Best Song Contest 9](https://web.archive.org/web/20120116021406/http://www.gamingforce.org/forums/mitsuda-rounds/43428-bbscsc-championship-shop-music-v-potential-anything-v-king-bobarkley.html) \
+🌴 [GamingForce Best Song Contest 9](../../assets/images/bsc/bsc_9.jpg) \
+Tower of Heaven - Indignant Divinity 24-15 Pokemon Mystery Dungeon: Explorers of Sky - Temporal Tower
+
+🌴 [GamingForce Best Best Song Contest Song Contest](https://web.archive.org/web/20120116021406/http://www.gamingforce.org/forums/mitsuda-rounds/43428-bbscsc-championship-shop-music-v-potential-anything-v-king-bobarkley.html) \
 Jets'n'Guns - Shop Music 19-18 VVVVVV - Potential for Anything
 
 [Hardcore Gaming 101's Best Video Game Music of All Time](http://www.hardcoregaming101.net/vgm/bestvgm2011.htm) \
@@ -144,8 +146,8 @@ The Legend of Zelda: The Wind Waker 14-11 Chrono Cross
 2\. Okami - The Sun Rises (113 votes, 4083 points) \
 3\. Sengoku Rance - Rebirth the Edge (98 votes, 3597 points)
 
-🌴 [GamingForce Best Song Contest 11](https://gelb-2.belkanairforce.com/) \
-Return All Robots! - Training Montage W-L Super Turrican 2 - Wormland
+🌴 [GamingForce Best Song Contest 11](../../assets/images/bsc/bsc_11.png) \
+Return All Robots! - Training Montage 21-9 Super Turrican 2 - Wormland
 
 🟠 [NeoGAF Game Soundtracks of 2013](https://web.archive.org/web/20230821011438/https://www.neogaf.com/threads/neogaf%C2%92s-official-game-soundtracks-of-the-year-2013-results-and-archive.753899/) \
 1\. Metal Gear Rising: Revengeance (208 points) \
@@ -160,8 +162,8 @@ Return All Robots! - Training Montage W-L Super Turrican 2 - Wormland
 2\. Kirby's Return to Dream Land - C-R-O-W-N-E-D (168 votes) \
 3\. Okami - The Sun Rises (153 votes)
 
-🌴 [GamingForce Best Song Contest 12](https://gelb-2.belkanairforce.com/) \
-Musashi: Samurai Legend - Aeolic Guardian W-L Kirby Triple Deluxe - Mad Flower Under a Moon the Color of Water
+🌴 [GamingForce Best Song Contest 12](../../assets/images/bsc/bsc_12.png) \
+Musashi: Samurai Legend - Aeolic Guardian 15-11 Kirby Triple Deluxe - Mad Flower Under a Moon the Color of Water
 
 [Final Fantasy Shrine's Final Fantasy Rumble 1](https://www.mafiauniverse.com/forums/threads/35384-VGM-Knock-Out-Tournament?p=6685813&viewfull=1#post6685813) \
 Final Fantasy VI - Dancing Mad 4-2 Final Fantasy X - Decisive Battle
@@ -185,6 +187,9 @@ Persona 3 - Battle for Everyone's Souls W-L Super Smash Bros. Melee - Fountain o
 2\. Xenoblade Chronicles - You Will Know Our Names (189 votes) \
 3\. Iseki-jima to Nanatsu no Mahou (royalty-free, various) - Banbard ~piano arrange~ (186 votes)
 
+🌴 [GamingForce Best Song Contest 13](../../assets/images/bsc/bsc_13.png) \
+Shovel Knight - An Underlying Problem (The Lost City) 15-13 The Smurf's Nightmare - Another World (The Mysterious Planet)
+
 [Acclaimed Music Video Game Tracks Bracket](http://www.acclaimedmusic.net/forums/viewtopic.php?p=44017&sid=3ce8ea7f9d6bc6fa62dd0d40547403a9#p44017) \
 Donkey Kong Country 2 - Stickerbush Symphony 8-2 Mega Man 2 - Bubble Man Theme
 
@@ -205,6 +210,9 @@ Donkey Kong Country 2 - Stickerbush Symphony 8-2 Mega Man 2 - Bubble Man Theme
 1\. Okami - The Sun Rises (54 votes) \
 2\. Kirby: Triple Deluxe - Fatal Blooms in Moonlight (32 votes) \
 3\. Iseki-jima to Nanatsu no Mahou (royalty-free, various) - Banbard ~piano arrange~ (31 votes)
+
+🌴 [GamingForce Best Song Contest 14](../../assets/images/bsc/bsc_14.png) \
+Undertale - ASGORE 10-5 Kirby: Planet Robobot - Credits
 
 🟠 [NeoGAF Game Soundtracks of 2016](https://web.archive.org/web/20220524000655/https://www.neogaf.com/threads/neogaf%C2%92s-official-game-soundtracks-of-the-year-2016-results-and-archive.1334794/) \
 1\. Final Fantasy XV (302 points) \
