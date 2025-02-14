@@ -415,10 +415,22 @@ Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 2\. Kirby and the Forgotten Land - Two Planets Approach the Roche Limit (32 votes, 69 points) \
 3\. Kirby: Triple Deluxe - Fatal Blooms in Moonlight (28 votes, 65 points)
 
-🥑 [The Avocado Best Video Game Song Tournament, 2021-2023](https://the-avocado.org/2024/05/01/best-video-game-song-tournament-2021-2022-final-results-and-announcements/) \
+🟪 [ResetERA Game Soundtracks of 2024](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2024-results.1107960/) \
+1\. Final Fantasy VII Rebirth (90 votes, 849 points) \
+2\. Metaphor: ReFantazio (58 votes, 439 points) \
+3\. Astro Bot (50 votes, 360 points)
+
+[SupraDarky Discord's Best 2024 VGM Awards](https://challonge.com/Best_VGM_2024_Awards) \
+TBD
+
+🥑 [The Avocado Best Video Game Song Tournament, 2021-2022](https://the-avocado.org/2024/05/01/best-video-game-song-tournament-2021-2022-final-results-and-announcements/) \
 Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Waves
 
 [The Chase VGM's "Chase's Choice" 2024](https://docs.google.com/spreadsheets/d/1fCvRAvYCgvtqpx_1djmqdmIvHQ385MOrunnP7cmAItc/edit?gid=314250772) \
 1\. Katamari Damacy	- Lonely Rolling Star (13 votes, 67.36 points) \
 2\. Chrono Trigger - Corridors of Time (13 votes, 64.40 points) \
 3\. Chrono Cross - Radical Dreamers -Le Trésor Interdit- (11 votes, 57.80 points)
+
+### 2025
+🥑 [The Avocado Best Video Game Song Tournament, 2023-2024]() \
+TBD
