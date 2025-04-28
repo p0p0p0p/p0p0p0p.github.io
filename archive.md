@@ -421,7 +421,7 @@ Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 3\. Astro Bot (50 votes, 360 points)
 
 [SupraDarky Discord's Best 2024 VGM Awards](https://challonge.com/Best_VGM_2024_Awards) \
-TBD
+Minecraft Tricky Trials - Precipice 25-18 The Hokkaido Serial Murder Case The Okhotsk Disappearance ~Memories in Ice, Tearful Figurine~ - Tokyo
 
 🥑 [The Avocado Best Video Game Song Tournament, 2021-2022](https://the-avocado.org/2024/05/01/best-video-game-song-tournament-2021-2022-final-results-and-announcements/) \
 Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Waves
@@ -432,5 +432,5 @@ Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Wa
 3\. Chrono Cross - Radical Dreamers -Le Trésor Interdit- (11 votes, 57.80 points)
 
 ### 2025
-🥑 [The Avocado Best Video Game Song Tournament, 2023-2024]() \
-TBD
+🥑 [The Avocado Best Video Game Song Tournament, 2023-2024](https://the-avocado.org/2025/04/15/best-video-game-song-tournament-2023-2024-final-results-and-announcement/) \
+Venba - Kanni Kanini W-L The Legend of Zelda: Tears of the Kingdom - Colgera Battle

@@ -51,3 +51,6 @@ layout: default
 \- Same as VGMC 17 \
 [VGMC 18 Voters](./src/vgmc18/bracket.html) \
 \- Same as VGMC 17
+
+[VGMC 19 Nominators](./src/vgmc19/noms.html) \
+\- Same as VGMC 18
