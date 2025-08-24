@@ -83,6 +83,7 @@ Shift+Click to sort by multiple columns (wow)
 179 | Demon Truck | Dead Neon Hell City | VGMC 13 | 16
 231 | Destiny Child | Ragna Breakers | VGMC 17 | 4
 94 | Digital: A Love Story | Paper Dolls | VGMC 7 | 16
+262 | DoDonPachi Blissful Death Re:Incarnation | Taido (Kenichiro Fukui Extend Remix) | VGMC 19 | 8
 224 | Donkey Kong Country | Aquatic Ambiance | VGMC 16 | 2 (Finalist)
 115 | Donkey Kong Country | Fear Factory | VGMC 8 | 16
 36 | Donkey Kong Country | Gangplank Galleon | VGMC 3 | 16
@@ -97,12 +98,14 @@ Shift+Click to sort by multiple columns (wow)
 29 | Final Fantasy IX | You're Not Alone! | VGMC 3 | 4
 12 | Final Fantasy V | Battle with Gilgamesh/Clash on the Big Bridge | VGMC 1 | 12
 242 | Final Fantasy VI | Dancing Mad | VGMC 17 | 16
+274 | Final Fantasy VII Rebirth | The Turks - Tseng and Elena | VGMC 19 | 16
 65 | Final Fantasy VIII | The Extreme | VGMC 5 | 1 (Champion)
 80 | Final Fantasy X | Seymour Battle | VGMC 6 | 16
 131 | Final Fantasy X | Someday the Dream Will End | VGMC 9 | 16
 1 | Final Fantasy X | To Zanarkand | VGMC 1 | 12
 233 | Final Fantasy XIII | The Sunleth Waterscape | VGMC 17 | 16
 203 | Fire Emblem Awakening | Id ~ Purpose | VGMC 15 | 2 (Finalist)
+266 | Fire Emblem Awakening | Conquest ~ Conquest (Ablaze) | VGMC 19 | 16
 196 | Fire Emblem Fates | Desire Below (Flow) | VGMC 14 | 16
 163 | Fire Emblem Fates: Conquest | End of All (Land) | VGMC 12 | 4
 57 | G-Darius | Kimera II | VGMC 4 | 16
@@ -113,9 +116,11 @@ Shift+Click to sort by multiple columns (wow)
 129 | Granado Espada | Rapal | VGMC 9 | 16
 171 | Granblue Fantasy | Order of the New World | VGMC 13 | 4
 52 | Grandia II | FIGHT!! Ver. 4 | VGMC 4 | 16
+269 | Grandia II | FIGHT!! Ver.1 | VGMC 19 | 16
 31 | Guilty Gear Isuka | Riches in Me | VGMC 3 | 8
 197 | Gurumin | Soaring Through the Sad Blue Sky | VGMC 15 | 16
 67 | Halo 2 | Halo Theme Mjolnir Mix | VGMC 5 | 8
+275 | Heaven Burns Red | Shiva (Glacier Remix) | VGMC 19 | 2 (Finalist)
 71 | Higurashi When They Cry Kai | You -Destructive- | VGMC 5 | 16
 82 | Homestuck | Sburban Jungle | VGMC 6 | 4
 186 | Idola Phantasy Star Saga | Endeavour | VGMC 14 | 1 (Champion)
@@ -126,10 +131,12 @@ Shift+Click to sort by multiple columns (wow)
 167 | jubeat prop | Chloe | VGMC 13 | 16
 223 | Kid Icarus: Uprising | Chapter 6: Dark Pit | VGMC 16 | 16
 25 | Kingdom Hearts | Hikari -KINGDOM Orchestra Instrumental Version- | VGMC 2 | 16
+272 | Kingdom Hearts II | Sanctuary | VGMC 19 | 16
 117 | Kirby 64: The Crystal Shards | Zero-Two | VGMC 8 | 2 (Finalist)
 229 | Kirby and the Forgotten Land | Northeast Frost Street | VGMC 17 | 16
 187 | Kirby: Triple Deluxe | Fatal Blooms in Moonlight | VGMC 14 | 8
 108 | Lamento: Beyond the Void | When the End | VGMC 7 | 16
+264 | Legaia 2: Duel Saga | Lost Forest | VGMC 19 | 4
 9 | Legend of Mana | Title | VGMC 1 | 6
 247 | Let's Tap | Tap de Papapaya (Long Version) | VGMC 18 | 8
 73 | Lufia II | Battle #3 | VGMC 5 | 8
@@ -148,12 +155,14 @@ Shift+Click to sort by multiple columns (wow)
 28 | Metal Gear Solid 3: Snake Eater | Metal Gear Solid Main Theme | VGMC 2 | 8
 130 | Metal Masters (Game Boy) | Metal Beat | VGMC 9 | 8
 5 | Metal Slug 5 | Windy Day | VGMC 1 | 12
+265 | Minecraft: Tricky Trials | Precipice | VGMC 19 | 1 (Champion)
 256 | Missing-X-Link ~Ten no Yurikago, Togi no Hana~ | The Blue Sanctuary | VGMC 18 | 16
 74 | Monty on the Run | In-Game Music | VGMC 5 | 16
 259 | Murasaki Tsurugi | Fairytale Poison and Solitude | VGMC 18 | 4
 47 | Napple Tale: Arsia in Daydream | Wild Wind | VGMC 4 | 16
 225 | Neotokyo | Tachi | VGMC 16 | 8
 99 | Neotokyo | Tin Soldiers | VGMC 7 | 8
+276 | New Roommania | where is smiley? | VGMC 19 | 16
 152 | NieR | Emil / Karma | VGMC 11 | 1 (Champion)
 46 | NieR | Shadowlord | VGMC 4 | 16
 66 | NieR | Song of the Ancients / Fate | VGMC 5 | 16
@@ -181,13 +190,16 @@ Shift+Click to sort by multiple columns (wow)
 221 | R4: Ridge Racer Type 4 | Move Me | VGMC 16 | 8
 54 | Ragnarok Online II: The Gate of the World | Din Don Dan Dan | VGMC 4 | 16
 59 | Ratchet & Clank: Up Your Arsenal | Ratchet & Courtney Battle | VGMC 4 | 16
+273 | Risk of Rain 2: Seekers of the Storm | Oṃ Maṇi Padme Hūṃ, part II | VGMC 19 | 8
 146 | Rivals of Aether | Luna Ascension EX | VGMC 10 | 8
 127 | Romancing SaGa: Minstrel Song | Decisive Battle! Saruin | VGMC 9 | 8
+270 | SaGa Emerald Beyond | Auld Lang Syne | VGMC 19 | 8
 228 | Secret of Mana (2018) | Prophecy | VGMC 16 | 16
 17 | Seventh Seal | Rhythm of Red | VGMC 2 | 8
 218 | Shatter | Argon Refinery | VGMC 16 | 4
 78 | Shenmue | Memories of Distant Days | VGMC 6 | 16
 79 | Shikkoku no Sharnoth | Dorchadas | VGMC 6 | 2 (Finalist)
+261 | Shinju no Yakata | Loneliness of the Caged Bird | VGMC 19 | 16
 139 | Shovel Knight | Strike the Earth! Plains of Passage | VGMC 9 | 16
 11 | Sid Meier's Civilization IV | Baba Yetu | VGMC 1 | 3 (Finalist)
 111 | Silent Hill 2 | Theme of Laura | VGMC 8 | 16
@@ -202,6 +214,7 @@ Shift+Click to sort by multiple columns (wow)
 91 | Sonic the Hedgehog (2006) | Solaris Phase 2 | VGMC 6 | 4
 84 | Sora | Rendezvous | VGMC 6 | 16
 148 | SOUND VOLTEX III GRAVITY WARS | Preserved Valkyria | VGMC 10 | 8
+268 | SOUND VOLTEX III GRAVITY WARS | Liminality | VGMC 19 | 8
 170 | Steins;Gate | Sky-Clad Observer | VGMC 13 | 16
 89 | Subarashiki Hibi | Yoru no Himawari | VGMC 6 | 16
 107 | Super Castlevania IV | Bloody Tears | VGMC 7 | 8
@@ -226,6 +239,7 @@ Shift+Click to sort by multiple columns (wow)
 49 | The Legend of Heroes: Trails in the Sky SC | Silver Will (SAV) | VGMC 4 | 16
 255 | The Legend of Heroes: Trails in the Sky SC | The Merciless Savior | VGMC 18 | 8
 201 | The Legend of Heroes: Trails in the Sky the 3rd | Dreamy and Boisterous Holy Land | VGMC 15 | 8
+267 | The Legend of Heroes: Trails of Cold Steel III | Spiral of Erebos | VGMC 19 | 16
 126 | The Legend of Heroes: Trails to Azure Evolution | Seize the Truth! | VGMC 9 | 1 (Champion)
 27 | The Legend of Zelda: Link's Awakening | Tal Tal Heights | VGMC 2 | 16
 43 | The Legend of Zelda: Ocarina of Time | Gerudo Valley | VGMC 3 | 16
@@ -258,7 +272,9 @@ Shift+Click to sort by multiple columns (wow)
 69 | VVVVVV | Positive Force | VGMC 5 | 8
 106 | VVVVVV | Potential for Anything | VGMC 7 | 4
 95 | VVVVVV | Pushing Onwards | VGMC 7 | 16
+271 | WACCA Reverse | Obtain An Unused Whale In The Abstract Sea | VGMC 19 | 4
 42 | Waterworld | Diving | VGMC 3 | 2 (Finalist)
+263 | Waterworld | Mission Theme 02 | VGMC 19 | 16
 83 | White Knight Chronicles II | The Battlefield Flower (Violin Version) | VGMC 6 | 8
 16 | Wild Arms | Into the Wilderness | VGMC 2 | 8
 21 | Wild Arms 5 | At the Frozen Depths of the Heart | VGMC 2 | 16
