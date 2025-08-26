@@ -13,13 +13,13 @@ Here are some places to start: \
 [VGMC champs playlist](https://www.youtube.com/playlist?list=PLW9O9mntH1RElFQnUIoUjxk4_bi-uLbVQ) - Listen to the winners \
 [List of songs that made round 5 and are now "retired"](/retirees.html) - Serves as a VGM hall of fame decided by the community
 
-<a href="../../assets/images/chart_front.jpg" target="_blank">![VGMC 18 retirees](../../assets/images/chart_front.jpg)</a>
+<a href="../../assets/images/chart_front.jpg" target="_blank">![Latest VGMC retirees](../../assets/images/chart_front.jpg)</a>
 
 ## Resources for learning more
 [VGMC for Dummies doc](https://docs.google.com/document/d/1z3L461h7kTwS27Pr2rIRlWcNJv3HdZS9VhQ7kbwu1UU) - Text introduction to how it all works \
 [VGMC 15 Primer video](https://www.youtube.com/watch?v=zqUADAakOnE) - Casual YouTube introduction to the format \
-[VGMC 18 nomination thread](https://www.logfaqs.com/boards/8-gamefaqs-contests/80749858) - Reference for what the rules and nominations look like \
-[VGMC 18 bracket day 1](https://www.logfaqs.com/boards/8-gamefaqs-contests/80766736) - Reference for what the voting and discussion looks like
+[VGMC 19 nomination thread](https://www.logfaqs.com/boards/8-gamefaqs-contests/80968055) - Reference for what the rules and nominations look like \
+[VGMC 19 bracket day 1](https://www.logfaqs.com/boards/8-gamefaqs-contests/80983665) - Reference for what the voting and discussion looks like
 
 ## Archives of the contest's long history
 [VGMC total stats & past sheets](https://docs.google.com/spreadsheets/d/1K1XdLWiUKB2kX99qYBgnRbLU_sCz4dvZSByKKJHCT6o/edit#gid=961273194) \

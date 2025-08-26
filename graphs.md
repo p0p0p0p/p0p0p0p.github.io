@@ -45,14 +45,14 @@ layout: default
 \- Shows which bracket songs share the most nominators (doubles treated the same as singles) \
 \- Hoverable songs, toggle #1 links \
 [VGMC 17 Voters](./src/vgmc17/bracket.html) \
-\- Same as VGMC 16
+\- No changes
 
 [VGMC 18 Nominators](./src/vgmc18/noms.html) \
-\- Same as VGMC 17 \
+\- No changes \
 [VGMC 18 Voters](./src/vgmc18/bracket.html) \
-\- Same as VGMC 17
+\- No changes
 
 [VGMC 19 Nominators](./src/vgmc19/noms.html) \
-\- Same as VGMC 18 \
+\- No changes \
 [VGMC 19 Voters](./src/vgmc19/bracket.html) \
-\- Same as VGMC 18
+\- No changes
