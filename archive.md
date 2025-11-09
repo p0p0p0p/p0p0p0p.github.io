@@ -432,5 +432,15 @@ Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Wa
 3\. Chrono Cross - Radical Dreamers -Le Trésor Interdit- (11 votes, 57.80 points)
 
 ### 2025
+🏆 [Precipice 31-29 Shiva (Glacier Remix)](/contests.html)
+
+🍀 [2ch 18th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/11034.html) \
+1\. Okami - The Sun Rises (61 votes, 128.5 points) \
+2\. Romancing SaGa 2: Revenge of the Seven - Encounter with the Seven Heroes (44 votes, 101 points) \
+3\. Pokemon Mystery Dungeon: Explorers of Time/Darkness - Dialga's Fight to the Finish! (43 votes, 95.5 points)
+
 🥑 [The Avocado Best Video Game Song Tournament, 2023-2024](https://the-avocado.org/2025/04/15/best-video-game-song-tournament-2023-2024-final-results-and-announcement/) \
 Venba - Kanni Kanini W-L The Legend of Zelda: Tears of the Kingdom - Colgera Battle
+
+🥑 [The Avocado Best Video Game Song Tournament of Champions](https://the-avocado.org/2025/08/29/best-video-game-song-tournament-of-champions-final-results-and-thank-you/) \
+Chrono Cross - Scars of Time 9-7 Undertale - Megalovania
