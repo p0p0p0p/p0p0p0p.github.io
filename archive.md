@@ -7,6 +7,11 @@ layout: default
 TODO: \
 \- More Talking Time/SMW Central
 
+**Jump to:** \
+[**- 2000s**](#--2000s--) \
+[**- 2010s**](#--2010s--) \
+[**- 2020s**](#--2020s--)
+
 ## - 2000s -
 
 ### 2004
@@ -279,6 +284,14 @@ Shadow of the Colossus - Swift Horse 4-2 The Last Express - End Titles
 2\. Final Fantasy XIV: Shadowbringers (23 votes, 227 points) \
 3\. Death Stranding (28 votes, 211 points)
 
+🕹️ [RetroAchievements VGM Contest 1](https://retroachievements.org/forums/topic/8464?comment=44433#44433) \
+1\. Golden Axe (C64) - Title (50 points) \
+2\. Final Fantasy VI - Aria Di Mezzo Carattere (48 points) \
+3\. Super Meat Boy - Dr. Fetus' Castle (45 points)
+
+🕹️ [RetroAchievements VGM Contest 2](https://retroachievements.org/forums/topic/9550?comment=54146#54146) \
+Tower of Heaven - Indignant Divinity 9-8 Castlevania: Symphony of the Night - Lost Painting
+
 🥑 [The Avocado Best Video Game Song Tournament, Before 1983](https://the-avocado.org/2019/08/27/best-video-game-song-tournament-prehistory-before-1983-final-results/) \
 Ms. Pac-Man - Intermission Music 8-7 Moon Patrol - Main Theme
 
@@ -304,6 +317,11 @@ Mega Man 2 - Dr. Wily Stage 1 14.5-14 Castlevania II - Bloody Tears
 1\. Final Fantasy VII Remake (34 votes, 316 points) \
 2\. Hades (21 votes, 155 points) \
 3\. Ori and the Will of the Wisps (17 votes, 135 points)
+
+🕹️ [RetroAchievements VGM Contest 3](https://retroachievements.org/forums/topic/11665?comment=73973#73973) \
+1\. Rusty - Queen in the Dark Night (35 points) \
+2\. Gravity Rush - Douse Shinundakara (34 points) \
+3\. Steins;Gate - Skyclad Observer (33 points)
 
 [SupraDarky Discord's Best 2020 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/) \
 13 Sentinels: Aegis Rim - -(Isoleucine)- 28-26 Paradise Killer - Paradise (Stay Forever)
@@ -338,6 +356,12 @@ Dark Souls II - Majula 7-6 Return of the Obra Dinn - Main Theme
 1\. Final Fantasy XIV: Endwalker (26 votes, 252 points) \
 2\. Chicory: A Colorful Tale (22 votes, 176 points) \
 3\. Shin Megami Tensei V (21 votes, 170 points)
+
+🕹️ [RetroAchievements VGM Contest 4](https://retroachievements.org/forums/topic/12587?comment=83485#83485) \
+1\. Metal Gear Solid - The Best Is Yet to Come (33 points) \
+2\. Gitaroo Man - The Legendary Theme (Album Version) (29 points) \
+3\. (tie) Super Smash Bros. Melee - Opening (28 votes) \
+3\. (tie) Bravely Default - Serpent Eating the Horizon (28 points)
 
 [SupraDarky Discord's Best 2021 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=794128012) \
 Alto's Odyssey: The Lost City - The Lost City 24-20 Far Fetched - Into the Woods!
@@ -420,6 +444,19 @@ Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 2\. Metaphor: ReFantazio (58 votes, 439 points) \
 3\. Astro Bot (50 votes, 360 points)
 
+🕹️ [RetroAchievements VGM Contest 5](https://retroachievements.org/forums/topic/26700?comment=225314#225314) \
+1\. Persona 4 - Signs of Love (49 points) \
+2\. Samidare - Broken Strawberry Shortcake (40 points) \
+3\. Ao no Kiseki - Destruction Impulse (39 points)
+
+🕹️ [RetroAchievements VGM Contest 6](https://retroachievements.org/forums/topic/27221?comment=233296#233296) \
+1\. Princess Maker 2 (FM Towns) - Battle (39 points) \
+2\. Castlevania: Curse of Darkness - Eneomaos Machine Tower (38.5 points) \
+3\. Pokemon HeartGold and SoulSilver - Frontier Battle Brain (38 points)
+
+🕹️ [RetroAchievements VGM Contest 7](https://retroachievements.org/forums/topic/28233?comment=246148#246148) \
+Multiple winners
+
 [SupraDarky Discord's Best 2024 VGM Awards](https://challonge.com/Best_VGM_2024_Awards) \
 Minecraft Tricky Trials - Precipice 25-18 The Hokkaido Serial Murder Case The Okhotsk Disappearance ~Memories in Ice, Tearful Figurine~ - Tokyo
 
@@ -439,8 +476,18 @@ Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Wa
 2\. Romancing SaGa 2: Revenge of the Seven - Encounter with the Seven Heroes (44 votes, 101 points) \
 3\. Pokemon Mystery Dungeon: Explorers of Time/Darkness - Dialga's Fight to the Finish! (43 votes, 95.5 points)
 
+🕹️ [RetroAchievements VGM Contest 8](https://retroachievements.org/forums/topic/29275?comment=263670#263670) \
+1\. Ys VIII -Lacrimosa of Dana- - Iclucian Dance (48 points) \
+2\. Ex-Zodiac - Remnants of Celestial (40 points) \
+3\. BanG Dream! - Reincarnation Apple (38 points)
+
 🥑 [The Avocado Best Video Game Song Tournament, 2023-2024](https://the-avocado.org/2025/04/15/best-video-game-song-tournament-2023-2024-final-results-and-announcement/) \
 Venba - Kanni Kanini W-L The Legend of Zelda: Tears of the Kingdom - Colgera Battle
 
 🥑 [The Avocado Best Video Game Song Tournament of Champions](https://the-avocado.org/2025/08/29/best-video-game-song-tournament-of-champions-final-results-and-thank-you/) \
 Chrono Cross - Scars of Time 9-7 Undertale - Megalovania
+
+[The Chase VGM's "Chase's Choice" 2025](https://docs.google.com/spreadsheets/d/1qZOvJi5KXCijy6482n5f5PFezdj2YbC7dnePxYIpV4s/edit?gid=314250772) \
+1\. Chrono Trigger - Corridors of Time (19 votes, 87.02 points) \
+2\. Chrono Cross - Chrono Cross -Scars of Time- (17 votes, 79.78 points) \
+3\. Donkey Kong Country 2: Diddy's Kong Quest - Stickerbush Symphony (Bramble Blast) (16 votes, 73.78 points)
