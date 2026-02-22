@@ -423,6 +423,9 @@ Undertale - Hopes and Dreams 10-6 Persona 5 - Last Surprise
 [SupraDarky Discord's Best 2023 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit#gid=554398086) \
 Cassette Beasts - Your Inception 27-18 Pseudoregalia - Outside the Castle Walls (Empty Bailey)
 
+[SupraDarky Discord's "Best VGM List" Cameo Contest](https://challonge.com/Best_VGM_List_Cameo_Contest) \
+Ace Combat Zero: The Belkan War - Zero 21-12 Tetris (CD-i) - Another Day (Level 0)
+
 [The Chase VGM's "Chase's Choice" 2023](https://docs.google.com/spreadsheets/d/1LZY6XA8cngGiHYviXfw-OsCcdbqkBtubSJrlW-mucVI/edit#gid=985479154) \
 1\. Chrono Trigger - Corridors of Time (12 votes, 64.02 points) \
 2\. Katamari Damacy	- Lonely Rolling Star (13 votes, 62.62 points) \
@@ -476,10 +479,18 @@ Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Wa
 2\. Romancing SaGa 2: Revenge of the Seven - Encounter with the Seven Heroes (44 votes, 101 points) \
 3\. Pokemon Mystery Dungeon: Explorers of Time/Darkness - Dialga's Fight to the Finish! (43 votes, 95.5 points)
 
+🟪 [ResetERA Game Soundtracks of 2025](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2025-results.1442914/) \
+1\. Clair Obscur: Expedition 33 (91 votes, 823 points) \
+2\. Hollow Knight: Silksong (50 votes, 380 points) \
+3\. Mario Kart World (34 votes, 287 points)
+
 🕹️ [RetroAchievements VGM Contest 8](https://retroachievements.org/forums/topic/29275?comment=263670#263670) \
 1\. Ys VIII -Lacrimosa of Dana- - Iclucian Dance (48 points) \
 2\. Ex-Zodiac - Remnants of Celestial (40 points) \
 3\. BanG Dream! - Reincarnation Apple (38 points)
+
+[SupraDarky Discord's Best 2025 VGM Awards](https://challonge.com/Best_VGM_2025_Awards) \
+TBD
 
 🥑 [The Avocado Best Video Game Song Tournament, 2023-2024](https://the-avocado.org/2025/04/15/best-video-game-song-tournament-2023-2024-final-results-and-announcement/) \
 Venba - Kanni Kanini W-L The Legend of Zelda: Tears of the Kingdom - Colgera Battle
