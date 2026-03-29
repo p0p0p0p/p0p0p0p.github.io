@@ -26,7 +26,8 @@ Here are some places to start: \
 [VGMC Nomination History](https://docs.google.com/spreadsheets/d/1qZxAoO6iaKSFj3CpMhx9F9Gs8hCa0zRI8oclVObxEhI) \
 [VGMC retirees playlist 1](https://www.youtube.com/playlist?list=PLtm-5nTauRmH9-omKRQf_FQI6GEE84aTu) \
 [VGMC retirees playlist 2](https://www.youtube.com/playlist?list=PLtm-5nTauRmE4iHlAGmEBHXDf3Hs9T0zP) \
-[VGMC champs playlist (backup)](https://www.youtube.com/playlist?list=PLeKaE-gusMmZiN8DnKijvR4P8ZMXu1i6e) \
+[VGMC champs playlist (backup)](https://www.youtube.com/playlist?list=PL9FyX-bNcVjO9fxILUtLlbiIPYhplGLAD) \
+[VGMC champs playlist (backup 2)](https://www.youtube.com/playlist?list=PLeKaE-gusMmZiN8DnKijvR4P8ZMXu1i6e) \
 [VGMC retirees playlist (backup)](https://www.youtube.com/playlist?list=PLeKaE-gusMmave89aPUWL6aq_LZO9PrA8) \
 [VGMC full contest playlists](https://pastebin.com/JUNkGWQ4) \
 ["VGMC" archive search on LogFAQs](https://www.logfaqs.com/boards/8-gamefaqs-contests?search=vgmc) \

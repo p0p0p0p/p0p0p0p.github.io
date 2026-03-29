@@ -323,7 +323,7 @@ Mega Man 2 - Dr. Wily Stage 1 14.5-14 Castlevania II - Bloody Tears
 2\. Gravity Rush - Douse Shinundakara (34 points) \
 3\. Steins;Gate - Skyclad Observer (33 points)
 
-[SupraDarky Discord's Best 2020 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/) \
+[SupraDarky Discord's Best 2020 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit?gid=0) \
 13 Sentinels: Aegis Rim - -(Isoleucine)- 28-26 Paradise Killer - Paradise (Stay Forever)
 
 [Talking Time's Best Game Music Forever Thunderdome Remastered](https://talking-time.net/index.php?threads/best-game-music-forever-thunderdome-remastered-remake.511/page-35) \
