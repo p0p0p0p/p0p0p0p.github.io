@@ -460,7 +460,7 @@ Celeste - Resurrections 7-7 Celeste - Reach for the Summit
 🕹️ [RetroAchievements VGM Contest 7](https://retroachievements.org/forums/topic/28233?comment=246148#246148) \
 Multiple winners
 
-[SupraDarky Discord's Best 2024 VGM Awards](https://challonge.com/Best_VGM_2024_Awards) \
+[SupraDarky Discord's Best 2024 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit?gid=544060852#gid=544060852) \
 Minecraft Tricky Trials - Precipice 25-18 The Hokkaido Serial Murder Case The Okhotsk Disappearance ~Memories in Ice, Tearful Figurine~ - Tokyo
 
 🥑 [The Avocado Best Video Game Song Tournament, 2021-2022](https://the-avocado.org/2024/05/01/best-video-game-song-tournament-2021-2022-final-results-and-announcements/) \
@@ -489,8 +489,8 @@ Xenoblade Chronicles 3 - Brilliant Wings 6-6 Wave Break: Neon Rides - Crystal Wa
 2\. Ex-Zodiac - Remnants of Celestial (40 points) \
 3\. BanG Dream! - Reincarnation Apple (38 points)
 
-[SupraDarky Discord's Best 2025 VGM Awards](https://challonge.com/Best_VGM_2025_Awards) \
-TBD
+[SupraDarky Discord's Best 2025 VGM Awards](https://docs.google.com/spreadsheets/d/1SS1xiDgxzFMXuz6cEQFmI59tJa2LUyFLCXEPA9eVfxg/edit?gid=707921919#gid=707921919) \
+Hollow Knight: Silksong - Choral Chambers 28-22 DELTARUNE Chapter 3+4 - The Third Sanctuary
 
 🥑 [The Avocado Best Video Game Song Tournament, 2023-2024](https://the-avocado.org/2025/04/15/best-video-game-song-tournament-2023-2024-final-results-and-announcement/) \
 Venba - Kanni Kanini W-L The Legend of Zelda: Tears of the Kingdom - Colgera Battle

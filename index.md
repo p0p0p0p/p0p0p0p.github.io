@@ -30,6 +30,7 @@ Here are some places to start: \
 [VGMC champs playlist (backup 2)](https://www.youtube.com/playlist?list=PLeKaE-gusMmZiN8DnKijvR4P8ZMXu1i6e) \
 [VGMC retirees playlist (backup)](https://www.youtube.com/playlist?list=PLeKaE-gusMmave89aPUWL6aq_LZO9PrA8) \
 [VGMC full contest playlists](https://pastebin.com/JUNkGWQ4) \
+[Archive of kaonashi's VGMC 1-14 history for the SupraDarky Discord](https://pastebin.com/M0RNjHSD) \
 ["VGMC" archive search on LogFAQs](https://www.logfaqs.com/boards/8-gamefaqs-contests?search=vgmc) \
 ["VGMusic Contest" archive search on LogFAQs](https://www.logfaqs.com/boards/8-gamefaqs-contests?search=vgmusic%20contest) \
 [VGMusic Contest on Board 8 Wiki](https://board8.fandom.com/wiki/VGMusic_Contest)
