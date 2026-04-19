@@ -9,14 +9,14 @@ This is an archive for **VGMC** a.k.a. Video Game Music Contest a.k.a. VGMusic C
 Starting all the way back in 2007 - when we listened on Putfile instead of YouTube! - 256 songs have competed each year in an elimination bracket to crown a Supreme VGM Champion! (\*occasionally 128 or 192 songs)
 
 Start here: \
-[List of contests and winners](/contests.html) - See the winning songs and final tallies over the years \
-[VGMC champs playlist](https://www.youtube.com/playlist?list=PLW9O9mntH1RElFQnUIoUjxk4_bi-uLbVQ) - Listen to the winners \
-[List of songs that made round 5 and are now "retired"](/retirees.html) - Serves as a VGM hall of fame decided by the community
+[List of contests and champions](/contests.html) - See the results of each final over the years \
+[VGMC champs playlist](https://www.youtube.com/playlist?list=PLW9O9mntH1RElFQnUIoUjxk4_bi-uLbVQ) - Listen to the champions \
+[List of songs that made round 5 and are now "retired"](/retirees.html) - Our own version of a VGM hall of fame
 
 <a href="../../assets/images/chart_front.jpg" target="_blank">![Latest VGMC retirees](../../assets/images/chart_front.jpg)</a>
 
 ## Resources for learning more
-[VGMC for Dummies doc](https://docs.google.com/document/d/1z3L461h7kTwS27Pr2rIRlWcNJv3HdZS9VhQ7kbwu1UU) - Text introduction to how it all works \
+[VGMC for Dummies doc](https://docs.google.com/document/d/1z3L461h7kTwS27Pr2rIRlWcNJv3HdZS9VhQ7kbwu1UU) - Text document explaining the contest \
 [VGMC 15 Primer video](https://www.youtube.com/watch?v=zqUADAakOnE) - Casual YouTube introduction to the format \
 [VGMC 13 test thread](https://gamefaqs.gamespot.com/boards/1028-the-art-of-vgm/77528883) - Reference for the GameFAQs board format and the old opening posts \
 [VGMC 19 nomination thread (broken)](https://www.logfaqs.com/boards/8-gamefaqs-contests/80968055) - Reference for what the rules and nominations look like \
