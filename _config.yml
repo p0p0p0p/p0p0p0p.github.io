@@ -1,3 +1,6 @@
 title: Board 8 VGM
 description: '"People still use GameFAQs?"'
 theme: jekyll-theme-architect
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
