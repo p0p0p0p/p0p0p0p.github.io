@@ -14,7 +14,21 @@ function resetGraph() {
 }
 
 function makeNodes(data) {
+  let user_list = document.getElementById("user");
   let parse = jQuery.csv.toObjects(data);
+
+  if (user_list.length == 0) {
+    for (let header in parse[0]) {
+      if (FILTER.includes(header)) {
+        continue;
+      }
+
+      let user = document.createElement("option");
+      user.value = header;
+      user.innerHTML = header;
+      user_list.add(user);
+    }
+  }
 
   parse.forEach(function(row) {
     node_id = row['Song'];
@@ -24,13 +38,14 @@ function makeNodes(data) {
     App.graph.addNode(node_id, {type: 'song'}); 
   });
 
-  makeLinks(data);
+  makeLinks(data, user_list);
 }
 
-function makeLinks(data) {
+function makeLinks(data, user_list) {
   let min_shared = parseInt(document.getElementById("minshared").value);
   let max_shared = parseInt(document.getElementById("maxshared").value);
   let parse = jQuery.csv.toObjects(data);
+
   // linkArray is what will store the number of shared users for each pair of songs.
   let linkArray = new Array();
 
@@ -52,6 +67,7 @@ function makeLinks(data) {
     }
 
     // we then go through each user.
+    let user_list_match = false
     for (let header in parse[i]) {
       if (FILTER.includes(header)) {
         continue;
@@ -67,8 +83,15 @@ function makeLinks(data) {
             songArray[k-1].push(header);
           }
         }
+
+        // Check for user highlighting
+        if (!user_list_match && header == user_list.value) {
+          user_list_match = true
+        }
       }
     }
+
+    App.graph.getNode(parse[i]['Song']).highlight = user_list_match;
 
     // finally, we add the shared user data for the current song to linkArray as several objects of the form
     // (song1, song2, shared song total), skipping any entries for which the shared user total is 0.
@@ -120,8 +143,14 @@ function renderGraph() {
     // Create SVG text element with user id as content
     var ui = Viva.Graph.svg('g');
 
+    let nodeColour = "blue";
+
+    if (node.highlight) {
+      nodeColour = "red";
+    }
+
     var svgText = Viva.Graph.svg('text').attr('text-anchor', 'middle').attr('y', '-1px').attr('font-size', 12).text(node.id),
-        svgNode = Viva.Graph.svg("rect").attr("width", nodeSize).attr("height", nodeSize).attr("fill", "#0000e0");
+        svgNode = Viva.Graph.svg("circle").attr("r", 2.5).attr("fill", nodeColour);
 
     ui.append(svgText);
     ui.append(svgNode);

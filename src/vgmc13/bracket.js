@@ -9,12 +9,7 @@ var graph = Viva.Graph.graph();
 graph.addNode(PNODE);
 
 jQuery(document).ready(function() {
-  jQuery.ajax({
-    type: "GET",
-    url: "https://p0p0p0p.github.io/src/vgmc13/nodes.csv",
-    dataType: "text",
-    success: function(data) {makeNodes(data);}
-   });
+  jQuery.get("nodes.csv", function(data) { makeNodes(data); });
 });
 
 function makeNodes(data) {
@@ -36,12 +31,7 @@ function makeNodes(data) {
     }
   });
 
-  jQuery.ajax({
-    type: "GET",
-    url: "https://p0p0p0p.github.io/src/vgmc13/links.csv",
-    dataType: "text",
-    success: function(data) {makeLinks(data);}
-   });
+  jQuery.get("links.csv", function(data) { makeLinks(data); });
 }
 
 function makeLinks(data) {

@@ -17,8 +17,11 @@ function makeNodes(data) {
   let parse = jQuery.csv.toObjects(data);
 
   parse.forEach(function(row) {
-    title = row['Song'];
-    App.graph.addNode(row['Song'], {type: 'song'});
+    node_id = row['Song'];
+    if (App.graph.getNode(node_id) !== undefined) {
+      alert("Song name conflict, please fix in CSV: " + node_id)
+    }
+    App.graph.addNode(node_id, {type: 'song'}); 
   });
 
   makeLinks(data);

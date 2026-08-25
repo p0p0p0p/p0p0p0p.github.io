@@ -12,12 +12,7 @@ function resetGraph() {
     App.graph.clear();
   }
 
-  jQuery.ajax({
-    type: "GET",
-    url: "https://p0p0p0p.github.io/src/vgmc14/results.csv",
-    dataType: "text",
-    success: function(data) { makeNodes(data); }
-  });
+  jQuery.get("results.csv", function(data) { makeNodes(data); });
 }
 
 function makeNodes(data) {
@@ -54,12 +49,7 @@ function makeNodes(data) {
     }
   }
 
-  jQuery.ajax({
-    type: "GET",
-    url: "https://p0p0p0p.github.io/src/vgmc14/results.csv",
-    dataType: "text",
-    success: function(data) { makeLinks(data); }
-   });
+  makeLinks(data);
 }
 
 function makeLinks(data) {

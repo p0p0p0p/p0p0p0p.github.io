@@ -41,18 +41,21 @@ layout: default
 \- Hoverable users, match colouring, toggle #1 links \
 \- Higher compatibilities equal shorter base links
 
-[VGMC 17 Nominators](./src/vgmc17/noms.html) \
+[VGMC 17 Songs](./src/vgmc17/noms.html) \
 \- Shows which bracket songs share the most nominators (doubles treated the same as singles) \
 \- Hoverable songs, toggle #1 links \
 [VGMC 17 Voters](./src/vgmc17/bracket.html) \
 \- No changes
 
-[VGMC 18 Nominators](./src/vgmc18/noms.html) \
+[VGMC 18 Songs](./src/vgmc18/noms.html) \
 \- No changes \
 [VGMC 18 Voters](./src/vgmc18/bracket.html) \
 \- No changes
 
-[VGMC 19 Nominators](./src/vgmc19/noms.html) \
+[VGMC 19 Songs](./src/vgmc19/noms.html) \
 \- No changes \
 [VGMC 19 Voters](./src/vgmc19/bracket.html) \
 \- No changes
+
+[VGMC 20 Songs](./src/vgmc20/noms.html) \
+\- User highlighting for songs they supported

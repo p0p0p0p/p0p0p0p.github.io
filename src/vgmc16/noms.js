@@ -101,6 +101,9 @@ function makeLinks(data, all_songs) {
   parse.forEach(function(row) {
     title = row['Song'];
     if (row['Votes'] >= min_votes && (all_songs || row['Votes'] >= LOCK_THRESHOLD)) {
+      if (App.graph.getNode(title) !== undefined) {
+        alert("Song name conflict, please fix in CSV: " + title)
+      }
       App.graph.addNode(title, {type: 'song'});
       for (let header in row) {
         if (!FILTER.includes(header) && row[header] >= 1) {

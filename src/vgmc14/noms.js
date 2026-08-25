@@ -2,12 +2,7 @@ var FILTER = ['Votes','Unique','Game','Song','Link'];
 var graph = Viva.Graph.graph();
 
 jQuery(document).ready(function() {
-  jQuery.ajax({
-    type: "GET",
-    url: "https://p0p0p0p.github.io/src/vgmc14/noms.csv",
-    dataType: "text",
-    success: function(data) { makeNodes(data); }
-   });
+  jQuery.get("noms.csv", function(data) { makeNodes(data); });
 });
 
 function makeNodes(data) {
@@ -19,12 +14,7 @@ function makeNodes(data) {
     }
   }
 
-  jQuery.ajax({
-    type: "GET",
-    url: "https://p0p0p0p.github.io/src/vgmc14/noms.csv",
-    dataType: "text",
-    success: function(data) { makeLinks(data); }
-   });
+  makeLinks(data);
 }
 
 function makeLinks(data) {
@@ -32,6 +22,9 @@ function makeLinks(data) {
 
   parse.forEach(function(row) {
     title = row['Song'];
+    if (graph.getNode(title) !== undefined) {
+      alert("Song name conflict, please fix in CSV: " + title)
+    }
     graph.addNode(title, {type: 'song'});
     for (let header in row) {
       if (!FILTER.includes(header) && row[header] >= 1) {
