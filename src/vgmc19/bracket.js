@@ -143,18 +143,18 @@ function makeLinks(data) {
 
   if (document.getElementById("toplinks").checked) {
     App.graph.forEachNode(function(node) {
-      let max_ratio = {ratio: 0};
+      let link_to_add = {ratio: 0};
       linkArray.forEach(function(pair) {
         if (node.id == pair.user1 || node.id == pair.user2) {
-          if (pair.ratio > max_ratio.ratio) {
-            max_ratio.user1 = pair.user1;
-            max_ratio.user2 = pair.user2;
-            max_ratio.ratio = pair.ratio;
+          if (pair.ratio > link_to_add.ratio) {
+            link_to_add.user1 = pair.user1;
+            link_to_add.user2 = pair.user2;
+            link_to_add.ratio = pair.ratio;
           }
         }
       });
-      if (max_ratio.ratio > 0) {
-        App.graph.addLink(max_ratio.user1, max_ratio.user2, {'ratio': max_ratio.ratio});
+      if (link_to_add.ratio > 0) {
+        App.graph.addLink(link_to_add.user1, link_to_add.user2, {'ratio': link_to_add.ratio});
       }
     });
   }

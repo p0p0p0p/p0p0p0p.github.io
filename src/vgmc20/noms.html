@@ -44,6 +44,14 @@
   <label for="maxshared">Max. shared nominators:</label>
   <input type="number" id="maxshared" value="7" min="1" max="7">
 
+  <label for="special">Special features:</label>
+  <select id="special">
+    <option value="none" selected>None</option>
+    <option value="cull">Click to disconnect from neighbours</option>
+    <option value="highlight">Click to highlight node green</option>
+    <option value="linktoggle">Click to show shared nominators</option>
+  </select>
+
   <script>
     document.getElementById("reset").addEventListener("click", function() { resetGraph(); });
     document.getElementById("pause").addEventListener("click", function() { togglePause(); });

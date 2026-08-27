@@ -111,20 +111,21 @@ function makeLinks(data, user_list) {
 
   if (document.getElementById("toplinks").checked) {
     App.graph.forEachNode(function(node) {
-      let max_shared = [ {shared: []} ];
+      let links_to_add = [ {shared: []} ];
 
       linkArray.forEach(function(pair) {
         if (node.id == pair.song1 || node.id == pair.song2) {
-          if (pair.shared.length > max_shared[0].shared.length) {
-            max_shared = [ {song1:pair.song1, song2:pair.song2, shared:pair.shared} ];
-          } else if (pair.shared.length == max_shared[0].shared.length) {
-            max_shared.push( {song1:pair.song1, song2:pair.song2, shared:pair.shared} );
+          if (pair.shared.length > links_to_add[0].shared.length) {
+            // Restart list
+            links_to_add = [ {song1:pair.song1, song2:pair.song2, shared:pair.shared} ];
+          } else if (pair.shared.length == links_to_add[0].shared.length) {
+            links_to_add.push( {song1:pair.song1, song2:pair.song2, shared:pair.shared} );
           }
         }
       });
 
-      if (max_shared[0].shared.length > 0) {
-        max_shared.forEach(function(pair) {
+      if (links_to_add[0].shared.length > 0) {
+        links_to_add.forEach(function(pair) {
           App.graph.addLink(pair.song1, pair.song2, {'shared': pair.shared});
         });
       }
@@ -136,7 +137,7 @@ function makeLinks(data, user_list) {
 
 function renderGraph() {
   var graphics = Viva.Graph.View.svgGraphics();
-  var nodeSize = 4;
+  var nodeSize = 2.5;
 
   graphics.node(function(node) {
     // This time it's a group of elements: http://www.w3.org/TR/SVG/struct.html#Groups
@@ -144,42 +145,77 @@ function renderGraph() {
     var ui = Viva.Graph.svg('g');
 
     let nodeColour = "blue";
-
-    if (node.highlight) {
+    if (node.highlight) { // Possibly overridden in mousedown
       nodeColour = "red";
     }
 
     var svgText = Viva.Graph.svg('text').attr('text-anchor', 'middle').attr('y', '-1px').attr('font-size', 12).text(node.id),
-        svgNode = Viva.Graph.svg("circle").attr("r", 2.5).attr("fill", nodeColour);
+        svgNode = Viva.Graph.svg("circle").attr("r", nodeSize).attr("fill", nodeColour);
 
     ui.append(svgText);
     ui.append(svgNode);
 
+    let specialSelected = document.getElementById("special").value;
+    if (specialSelected === "linktoggle") {
+      // Start with everything lightened, only show on click
+      ui.attr('opacity', 0.4);
+
+      $(ui).mousedown(function() {
+        graphics.getNodeUI(node.id).attr('opacity', 1);
+        App.graph.forEachLinkedNode(node.id, function(nbor, link) {
+          graphics.getNodeUI(link.fromId).attr('opacity', 1);
+          graphics.getNodeUI(link.toId).attr('opacity', 1);
+          graphics.getLinkUI(link.id).attr('opacity', 1);
+
+          document.getElementById('l' + link.id).attr('visibility', 'visible'); 
+        });
+      });
+
+      return ui;
+    }
+
     $(ui).hover(function() { // mouse on
       App.graph.forEachNode(function(node_hide) {
-        graphics.getNodeUI(node_hide.id).attr('opacity', '0.4');
+        graphics.getNodeUI(node_hide.id).attr('opacity', 0.4);
       });
       App.graph.forEachLink(function(link) {
-        graphics.getLinkUI(link.id).attr('opacity', '0.4');
+        graphics.getLinkUI(link.id).attr('opacity', 0.4);
       });
 
-      graphics.getNodeUI(node.id).attr('opacity', '1');
+      graphics.getNodeUI(node.id).attr('opacity', 1);
       App.graph.forEachLinkedNode(node.id, function(nbor, link) {
-        graphics.getNodeUI(link.fromId).attr('opacity', '1');
-        graphics.getNodeUI(link.toId).attr('opacity', '1');
-        graphics.getLinkUI(link.id).attr('opacity', '1');
+        graphics.getNodeUI(link.fromId).attr('opacity', 1);
+        graphics.getNodeUI(link.toId).attr('opacity', 1);
+        graphics.getLinkUI(link.id).attr('opacity', 1);
 
-      document.getElementById('l' + link.id).attr('visibility', 'visible'); 
+        document.getElementById('l' + link.id).attr('visibility', 'visible'); 
       });
     }, function() { // mouse off
       App.graph.forEachNode(function(node_hide) {
-          graphics.getNodeUI(node_hide.id).attr('opacity', '1');
+          graphics.getNodeUI(node_hide.id).attr('opacity', 1);
       });
       App.graph.forEachLink(function(link) {
-        graphics.getLinkUI(link.id).attr('opacity', '1');
-
-      document.getElementById('l' + link.id).attr('visibility', 'hidden'); 
+        graphics.getLinkUI(link.id).attr('opacity', 1);
+        document.getElementById('l' + link.id).attr('visibility', 'hidden'); 
       });
+    });
+
+    $(ui).mousedown(function() {
+      if (specialSelected === "cull") {
+        links_to_drop = [];
+        App.graph.forEachLinkedNode(node.id, function(nbor, link) {
+          links_to_drop.push(link);
+        });
+        links_to_drop.forEach(function(link) {
+          App.graph.removeLink(link);
+          // Reset visibility from hover's mouse on logic
+          document.getElementById('l' + link.id).attr('visibility', 'hidden');
+        });
+      } else if (specialSelected === "highlight") {
+        node_child = graphics.getNodeUI(node.id).children[1]// Gets the second call to ui.append
+        node_child.attr('r', 4);
+        node_child.attr('fill', 'chartreuse');
+      }
     });
 
     return ui;

@@ -18,7 +18,7 @@ Start here: \
 ## Resources for learning more
 [VGMC for Dummies doc](https://docs.google.com/document/d/1z3L461h7kTwS27Pr2rIRlWcNJv3HdZS9VhQ7kbwu1UU) - Text document explaining the contest \
 [VGMC 15 Primer video](https://www.youtube.com/watch?v=zqUADAakOnE) - Casual YouTube introduction to the format \
-[VGMC 13 test thread](https://gamefaqs.gamespot.com/boards/1028-the-art-of-vgm/77528883) - Reference for the GameFAQs board format and the old opening posts \
+[VGMC 20 opening posts from test thread](https://gamefaqs.gamespot.com/boards/1028-the-art-of-vgm/77528883?page=2#21) - Reference for the GameFAQs board format and specific rules \
 [VGMC 19 nomination thread (broken)](https://www.logfaqs.com/boards/8-gamefaqs-contests/80968055) - Reference for what the rules and nominations look like \
 [VGMC 19 bracket day 1 (broken)](https://www.logfaqs.com/boards/8-gamefaqs-contests/80983665) - Reference for what the voting and discussion looks like
 
