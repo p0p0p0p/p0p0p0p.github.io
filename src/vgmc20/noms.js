@@ -2,6 +2,16 @@ var FILTER = ['Votes','Unique','Game','Song','Link'];
 var App = {graph: Viva.Graph.graph()};
 var running = true;
 
+function togglePause() {
+  if (running) {
+    App.renderer.pause();
+    running = false;
+  } else {
+    App.renderer.resume();
+    running = true;
+  }
+}
+
 jQuery(document).ready(resetGraph());
 
 function resetGraph() {
@@ -28,6 +38,8 @@ function makeNodes(data) {
       user.innerHTML = header;
       user_list.add(user);
     }
+
+    user_list.selectedIndex = Math.floor(Math.random() * user_list.length);
   }
 
   parse.forEach(function(row) {
@@ -277,14 +289,4 @@ function renderGraph() {
   });
 
   App.renderer.run();
-}
-
-function togglePause() {
-  if (running) {
-    App.renderer.pause();
-    running = false;
-  } else {
-    App.renderer.resume();
-    running = true;
-  }
 }

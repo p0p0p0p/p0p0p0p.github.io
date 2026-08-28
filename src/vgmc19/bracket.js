@@ -41,7 +41,8 @@ function makeNodes(data) {
       match.innerHTML = row.ID + " " + row['Song A'] + " / " + row['Song B'];
       match_colours.add(match);
     });
-    match_colours.selectedIndex = match_colours.length - 1;
+
+    match_colours.selectedIndex = Math.floor(Math.random() * match_colours.length);
   }
 
   parse.forEach(function(row) {
