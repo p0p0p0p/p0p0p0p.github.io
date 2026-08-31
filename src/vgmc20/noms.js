@@ -1,4 +1,4 @@
-var FILTER = ['Votes','Unique','Game','Song','Link'];
+var FILTER = ['Votes','Unique','Game','Song','Link','Bracket'];
 var App = {graph: Viva.Graph.graph()};
 var running = true;
 
@@ -21,6 +21,15 @@ function resetGraph() {
   }
 
   jQuery.get("noms.csv", function(data) { makeNodes(data); });
+}
+
+function matchesBracketFilter(bracketValue) {
+  let specialSelected = document.getElementById("special").value;
+  if (!["A","B","C","D"].includes(specialSelected)) {
+    // Default to include
+    return true;
+  }
+  return bracketValue === specialSelected;
 }
 
 function makeNodes(data) {
@@ -47,7 +56,9 @@ function makeNodes(data) {
     if (App.graph.getNode(node_id) !== undefined) {
       alert("Song name conflict, please fix in CSV: " + node_id)
     }
-    App.graph.addNode(node_id, {type: 'song'}); 
+    if (matchesBracketFilter(row['Bracket'])) {
+      App.graph.addNode(node_id, {type: 'song'});  
+    }
   });
 
   makeLinks(data, user_list);
@@ -71,6 +82,10 @@ function makeLinks(data, user_list) {
 
   // we iterate across all song rows except the last.
   for (i = 0; i < parse.length-1; i++) {
+    if (!matchesBracketFilter(parse[i]['Bracket'])) {
+      continue;
+    }
+
     // we create and initialize a simple array to store lists of shared users, indexed against how far down
     // a given song is to the current song.
     let songArray = new Array(parse.length-i-1);
@@ -90,6 +105,9 @@ function makeLinks(data, user_list) {
       // the current song in previous loop iterations!)
       if (parse[i][header] > 0) {
         for (k = 1; k < parse.length-i; k++) {
+          if (!matchesBracketFilter(parse[i+k]['Bracket'])) {
+            continue;
+          }
           // if we find another song nominated by the user, we increment the value at the appropriate position.
           if (parse[i+k][header] > 0) {
             songArray[k-1].push(header);
