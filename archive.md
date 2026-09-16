@@ -63,7 +63,7 @@ Ace Combat 6: Fires of Liberation - THE LIBERATION OF GRACEMERIA 38-32 Waterworl
 3\. Gurumin - Soaring Through the Sad Blue Sky (61 votes, 333 points)
 
 [Final Fantasy Shrine's Video Game Music Rumble 1](https://ffshrine.org/archive/t-66118.html) \
-Sonic the Hedgehog - Green Hill Zone 6-2 Final Fantasy VII - Aerith’s Theme
+Sonic the Hedgehog - Green Hill Zone 6-2 Final Fantasy VII - Aerith's Theme
 
 🌴 [GamingForce Best Song Contest 7](https://web.archive.org/web/20100325153727/http://www.gamingforce.org/forums/final-rounds/38055-championship-2009-cast-fires-liberation.html) \
 Enthusia ~Professional Racing~ - AWAKENING ~Nürburgring Suite~ 32-27 R-Type (C64) - Title
@@ -502,3 +502,11 @@ Chrono Cross - Scars of Time 9-7 Undertale - Megalovania
 1\. Chrono Trigger - Corridors of Time (19 votes, 87.02 points) \
 2\. Chrono Cross - Chrono Cross -Scars of Time- (17 votes, 79.78 points) \
 3\. Donkey Kong Country 2: Diddy's Kong Quest - Stickerbush Symphony (Bramble Blast) (16 votes, 73.78 points)
+
+### 2026
+🏆 [TBD](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
+
+🍀 [2ch 18th "Game Music Best 100"](https://w.atwiki.jp/gamemusicbest100/pages/11581.html) \
+1\. Pokemon Legends: Z-A - Battle! (Jacinthe) (75 votes, 167.5 points) \
+2\. Pokemon Mystery Dungeon: Explorers of Time/Darkness - Dialga's Fight to the Finish! (40 votes, 91 points) \
+3\. Urban Myth Dissolution Center - KIKIKAITAI (42 votes, 90 points)

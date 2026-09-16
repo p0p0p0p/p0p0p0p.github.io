@@ -31,6 +31,7 @@ Brackets and final results (all hail our champions)
 <span style="font-size:large;">[VGMC 18 (2024)](https://www.bracketmaker.com/tlist.cfm?tid=478494)</span><br>256 songs<br>16 retirees<br>Hosted by deogenerate (& Toxtricity)<br>[Chart](./src/vgmc18/chart.jpg) | <img src="../../assets/images/champs/xenoblade_chronicles_eu150.jpg" height="150"> | <span style="font-size:large;">**Mechonis Field (Xenoblade Chronicles)**</span><br>35-24<br>Suna no Shiro -The Castle of Sand- ([-Aka-])
 [OmniToC (best of VGMC 1-18)](https://www.bracketmaker.com/tlist.cfm?tid=479163)<br>260 songs<br>Hosted by Gall | | Chrono Cross -Scars of Time- (Chrono Cross)<br>20-15<br>dreamenddischarger (Umineko When They Cry ~ Question Arcs)
 <span style="font-size:large;">[VGMC 19 (2025)](https://www.bracketmaker.com/tlist.cfm?tid=479594)</span><br>257 songs<br>16 retirees<br>Hosted by deogenerate (& Toxtricity)<br>[Chart](./src/vgmc19/chart.jpg) | <img src="../../assets/images/champs/minecraft_tt150.jpg" height="150"> | <span style="font-size:large;">**Precipice (Minecraft: Tricky Trials)**</span><br>31-29<br>Shiva (Glacier Remix) (Heaven Burns Red)
+<span style="font-size:large;">[VGMC 20 (2026)](https://www.bracketmaker.com/tlist.cfm?tid=480401)</span><br>256 songs<br>16 retirees<br>Hosted by deogenerate || <span style="font-size:large;">[Vote and you can decide!](https://gamefaqs.gamespot.com/boards/8-gamefaqs-contests?search=vgmc)
 
 ## Best OST Contest (BOST)
 
